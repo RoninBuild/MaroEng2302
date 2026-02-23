@@ -1,0 +1,175 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+:root {
+  --bg: #0f172a;
+  --bg-card: rgba(30, 41, 59, 0.7);
+  --bg-card-hover: rgba(30, 41, 59, 0.9);
+  --text-main: #f8fafc;
+  --text-muted: #94a3b8;
+  --accent: #3b82f6;
+  --accent-glow: rgba(59, 130, 246, 0.5);
+  --success: #10b981;
+  --error: #ef4444;
+  --warning: #f59e0b;
+  --easy: #34d399;
+  --good: #60a5fa;
+  --hard: #fbbf24;
+  --again: #f87171;
+  
+  --radius-lg: 24px;
+  --radius-md: 16px;
+  --radius-sm: 8px;
+  
+  --shadow-glow: 0 0 20px var(--accent-glow);
+  --shadow-card: 0 10px 30px rgba(0,0,0,0.5);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  background-color: var(--bg);
+  color: var(--text-main);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  overflow-x: hidden;
+  line-height: 1.5;
+}
+
+#root {
+  width: 100%;
+  max-width: 480px; /* Mobile focused */
+  min-height: 100vh;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Typography */
+h1, h2, h3 { font-weight: 700; letter-spacing: -0.02em; }
+h1 { font-size: 2rem; margin-bottom: 0.5rem; }
+h2 { font-size: 1.5rem; }
+p { color: var(--text-muted); }
+
+/* Buttons */
+button {
+  font-family: inherit;
+  border: none;
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+button:active {
+  transform: scale(0.97);
+}
+
+.btn-primary {
+  background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%);
+  color: white;
+  padding: 16px 24px;
+  width: 100%;
+  box-shadow: 0 8px 20px rgba(37, 99, 235, 0.3);
+}
+
+.btn-primary:hover {
+  box-shadow: 0 12px 25px rgba(37, 99, 235, 0.4);
+  transform: translateY(-2px);
+}
+
+.btn-secondary {
+  background: var(--bg-card);
+  color: var(--text-main);
+  padding: 16px 24px;
+  width: 100%;
+  border: 1px solid rgba(255,255,255,0.1);
+}
+
+.btn-icon {
+  background: transparent;
+  color: var(--text-muted);
+  padding: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Glass & Cards */
+.glass-card {
+  background: var(--bg-card);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255,255,255,0.05);
+  border-radius: var(--radius-lg);
+  padding: 24px;
+  box-shadow: var(--shadow-card);
+}
+
+/* Layout */
+.container {
+  padding: 24px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 24px;
+  padding-bottom: 12px;
+}
+
+/* Animations */
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes pulse-glow {
+  0% { box-shadow: 0 0 15px rgba(37,99,235, 0.2); }
+  50% { box-shadow: 0 0 25px rgba(37,99,235, 0.5); }
+  100% { box-shadow: 0 0 15px rgba(37,99,235, 0.2); }
+}
+
+.animate-slide-up { animation: slideUp 0.4s ease-out forwards; }
+.animate-fade-in { animation: fadeIn 0.3s ease-out forwards; }
+
+.streak-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: rgba(245, 158, 11, 0.15);
+  color: #fbbf24;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-weight: 700;
+  font-size: 0.875rem;
+  border: 1px solid rgba(245, 158, 11, 0.3);
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(255,255,255,0.1);
+  border-radius: 10px;
+}

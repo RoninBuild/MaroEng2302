@@ -1,0 +1,3008 @@
+[
+  {
+    "id": 1001,
+    "block": "Level 2",
+    "text_en": "Hi, how are you?",
+    "hint_ru": "Привет, как дела?"
+  },
+  {
+    "id": 1002,
+    "block": "Level 2",
+    "text_en": "I'm good, thanks. And you?",
+    "hint_ru": "Я в порядке, спасибо. А ты?"
+  },
+  {
+    "id": 1003,
+    "block": "Level 2",
+    "text_en": "Nice to meet you.",
+    "hint_ru": "Рад встрече."
+  },
+  {
+    "id": 1004,
+    "block": "Level 2",
+    "text_en": "Long time no see.",
+    "hint_ru": "Давно не виделись."
+  },
+  {
+    "id": 1005,
+    "block": "Level 2",
+    "text_en": "How's it going?",
+    "hint_ru": "Как дела?"
+  },
+  {
+    "id": 1006,
+    "block": "Level 2",
+    "text_en": "What's up?",
+    "hint_ru": "Как дела?"
+  },
+  {
+    "id": 1007,
+    "block": "Level 2",
+    "text_en": "Not much.",
+    "hint_ru": "Немного."
+  },
+  {
+    "id": 1008,
+    "block": "Level 2",
+    "text_en": "What are you up to?",
+    "hint_ru": "Что ты задумал?"
+  },
+  {
+    "id": 1009,
+    "block": "Level 2",
+    "text_en": "I'm just working.",
+    "hint_ru": "Я просто работаю."
+  },
+  {
+    "id": 1010,
+    "block": "Level 2",
+    "text_en": "I'm just relaxing.",
+    "hint_ru": "Я просто расслабляюсь."
+  },
+  {
+    "id": 1011,
+    "block": "Level 2",
+    "text_en": "That sounds good.",
+    "hint_ru": "Это звучит неплохо."
+  },
+  {
+    "id": 1012,
+    "block": "Level 2",
+    "text_en": "That sounds great.",
+    "hint_ru": "Это звучит великолепно."
+  },
+  {
+    "id": 1013,
+    "block": "Level 2",
+    "text_en": "That sounds interesting.",
+    "hint_ru": "Это звучит интересно."
+  },
+  {
+    "id": 1014,
+    "block": "Level 2",
+    "text_en": "That sounds stressful.",
+    "hint_ru": "Это звучит стрессово."
+  },
+  {
+    "id": 1015,
+    "block": "Level 2",
+    "text_en": "That makes sense.",
+    "hint_ru": "Это имеет смысл."
+  },
+  {
+    "id": 1016,
+    "block": "Level 2",
+    "text_en": "That doesn't make sense.",
+    "hint_ru": "Это не имеет смысла."
+  },
+  {
+    "id": 1017,
+    "block": "Level 2",
+    "text_en": "I get it.",
+    "hint_ru": "Я понимаю."
+  },
+  {
+    "id": 1018,
+    "block": "Level 2",
+    "text_en": "I don't get it.",
+    "hint_ru": "Я этого не понимаю."
+  },
+  {
+    "id": 1019,
+    "block": "Level 2",
+    "text_en": "I'm not sure.",
+    "hint_ru": "Я не уверен."
+  },
+  {
+    "id": 1020,
+    "block": "Level 2",
+    "text_en": "It depends.",
+    "hint_ru": "Это зависит."
+  },
+  {
+    "id": 1021,
+    "block": "Level 2",
+    "text_en": "Let me think.",
+    "hint_ru": "Дай мне подумать."
+  },
+  {
+    "id": 1022,
+    "block": "Level 2",
+    "text_en": "Give me a second.",
+    "hint_ru": "Дай мне секунду."
+  },
+  {
+    "id": 1023,
+    "block": "Level 2",
+    "text_en": "One moment, please.",
+    "hint_ru": "Одну минутку, пожалуйста."
+  },
+  {
+    "id": 1024,
+    "block": "Level 2",
+    "text_en": "Could you repeat that?",
+    "hint_ru": "Повторите, пожалуйста."
+  },
+  {
+    "id": 1025,
+    "block": "Level 2",
+    "text_en": "Sorry, I didn't catch that.",
+    "hint_ru": "Извините, я этого не уловил."
+  },
+  {
+    "id": 1026,
+    "block": "Level 2",
+    "text_en": "Could you speak a bit slower?",
+    "hint_ru": "Не могли бы вы говорить немного медленнее?"
+  },
+  {
+    "id": 1027,
+    "block": "Level 2",
+    "text_en": "Thanks for your help.",
+    "hint_ru": "Спасибо за вашу помощь."
+  },
+  {
+    "id": 1028,
+    "block": "Level 2",
+    "text_en": "I really appreciate it.",
+    "hint_ru": "Я очень ценю это."
+  },
+  {
+    "id": 1029,
+    "block": "Level 2",
+    "text_en": "No worries.",
+    "hint_ru": "Не беспокойся."
+  },
+  {
+    "id": 1030,
+    "block": "Level 2",
+    "text_en": "You're welcome.",
+    "hint_ru": "Пожалуйста."
+  },
+  {
+    "id": 1031,
+    "block": "Level 2",
+    "text_en": "Sure.",
+    "hint_ru": "Конечно."
+  },
+  {
+    "id": 1032,
+    "block": "Level 2",
+    "text_en": "Sure thing.",
+    "hint_ru": "Конечно."
+  },
+  {
+    "id": 1033,
+    "block": "Level 2",
+    "text_en": "Of course.",
+    "hint_ru": "Конечно."
+  },
+  {
+    "id": 1034,
+    "block": "Level 2",
+    "text_en": "Absolutely.",
+    "hint_ru": "Абсолютно."
+  },
+  {
+    "id": 1035,
+    "block": "Level 2",
+    "text_en": "Maybe.",
+    "hint_ru": "Может быть."
+  },
+  {
+    "id": 1036,
+    "block": "Level 2",
+    "text_en": "Not really.",
+    "hint_ru": "Не совсем."
+  },
+  {
+    "id": 1037,
+    "block": "Level 2",
+    "text_en": "Let's do it.",
+    "hint_ru": "Давай сделаем это."
+  },
+  {
+    "id": 1038,
+    "block": "Level 2",
+    "text_en": "Let's not do that.",
+    "hint_ru": "Давайте не будем этого делать."
+  },
+  {
+    "id": 1039,
+    "block": "Level 2",
+    "text_en": "Let's try again.",
+    "hint_ru": "Давайте попробуем еще раз."
+  },
+  {
+    "id": 1040,
+    "block": "Level 2",
+    "text_en": "What's the plan?",
+    "hint_ru": "Каков план?"
+  },
+  {
+    "id": 1041,
+    "block": "Level 2",
+    "text_en": "What's next?",
+    "hint_ru": "Что дальше?"
+  },
+  {
+    "id": 1042,
+    "block": "Level 2",
+    "text_en": "I'm on my way.",
+    "hint_ru": "Я уже в пути."
+  },
+  {
+    "id": 1043,
+    "block": "Level 2",
+    "text_en": "I'll be there soon.",
+    "hint_ru": "Я скоро буду там."
+  },
+  {
+    "id": 1044,
+    "block": "Level 2",
+    "text_en": "I'm running late.",
+    "hint_ru": "Я опаздываю."
+  },
+  {
+    "id": 1045,
+    "block": "Level 2",
+    "text_en": "Sorry, I'm late.",
+    "hint_ru": "Извините, я опаздываю."
+  },
+  {
+    "id": 1046,
+    "block": "Level 2",
+    "text_en": "No problem.",
+    "hint_ru": "Без проблем."
+  },
+  {
+    "id": 1047,
+    "block": "Level 2",
+    "text_en": "See you later.",
+    "hint_ru": "Увидимся позже."
+  },
+  {
+    "id": 1048,
+    "block": "Level 2",
+    "text_en": "See you tomorrow.",
+    "hint_ru": "Увидимся завтра."
+  },
+  {
+    "id": 1049,
+    "block": "Level 2",
+    "text_en": "Take care.",
+    "hint_ru": "Заботиться."
+  },
+  {
+    "id": 1050,
+    "block": "Level 2",
+    "text_en": "Have a nice day.",
+    "hint_ru": "___орошего дня."
+  },
+  {
+    "id": 1051,
+    "block": "Level 2",
+    "text_en": "Can we talk later?",
+    "hint_ru": "Можем ли мы поговорить позже?"
+  },
+  {
+    "id": 1052,
+    "block": "Level 2",
+    "text_en": "I'll call you back.",
+    "hint_ru": "Я перезвоню тебе."
+  },
+  {
+    "id": 1053,
+    "block": "Level 2",
+    "text_en": "I can't talk right now.",
+    "hint_ru": "Я не могу сейчас говорить."
+  },
+  {
+    "id": 1054,
+    "block": "Level 2",
+    "text_en": "Please text me.",
+    "hint_ru": "Пожалуйста, напишите мне."
+  },
+  {
+    "id": 1055,
+    "block": "Level 2",
+    "text_en": "Let's keep in touch.",
+    "hint_ru": "Давайте поддерживать связь."
+  },
+  {
+    "id": 1056,
+    "block": "Level 2",
+    "text_en": "I almost always wake up at night.",
+    "hint_ru": "Я почти всегда просыпаюсь ночью."
+  },
+  {
+    "id": 1057,
+    "block": "Level 2",
+    "text_en": "I sometimes go to bed when I'm tired.",
+    "hint_ru": "Иногда я ложусь спать, когда устаю."
+  },
+  {
+    "id": 1058,
+    "block": "Level 2",
+    "text_en": "I almost always go to work before work.",
+    "hint_ru": "Я почти всегда иду на работу перед работой."
+  },
+  {
+    "id": 1059,
+    "block": "Level 2",
+    "text_en": "I often wake up after work.",
+    "hint_ru": "Я часто просыпаюсь после работы."
+  },
+  {
+    "id": 1060,
+    "block": "Level 2",
+    "text_en": "I almost always write notes before work.",
+    "hint_ru": "Я почти всегда пишу заметки перед работой."
+  },
+  {
+    "id": 1061,
+    "block": "Level 2",
+    "text_en": "I almost always meet friends when I'm tired.",
+    "hint_ru": "Я почти всегда встречаюсь с друзьями, когда устаю."
+  },
+  {
+    "id": 1062,
+    "block": "Level 2",
+    "text_en": "I often have a snack when I'm tired.",
+    "hint_ru": "Я часто перекусываю, когда устаю."
+  },
+  {
+    "id": 1063,
+    "block": "Level 2",
+    "text_en": "I sometimes plan my day when I'm tired.",
+    "hint_ru": "Иногда я планирую свой день, когда устаю."
+  },
+  {
+    "id": 1064,
+    "block": "Level 2",
+    "text_en": "I almost always eat dinner when I have time.",
+    "hint_ru": "Я почти всегда ужинаю, когда у меня есть время."
+  },
+  {
+    "id": 1065,
+    "block": "Level 2",
+    "text_en": "I usually go for a walk when I'm tired.",
+    "hint_ru": "Я обычно иду гулять, когда устаю."
+  },
+  {
+    "id": 1066,
+    "block": "Level 2",
+    "text_en": "I almost always go to the gym in the morning.",
+    "hint_ru": "Я почти всегда хожу в спортзал утром."
+  },
+  {
+    "id": 1067,
+    "block": "Level 2",
+    "text_en": "I often have lunch when I have time.",
+    "hint_ru": "Я часто обедаю, когда у меня есть время."
+  },
+  {
+    "id": 1068,
+    "block": "Level 2",
+    "text_en": "I often have breakfast when I'm tired.",
+    "hint_ru": "Я часто завтракаю, когда устаю."
+  },
+  {
+    "id": 1069,
+    "block": "Level 2",
+    "text_en": "I often cook dinner in the afternoon.",
+    "hint_ru": "Я часто готовлю ужин во второй половине дня."
+  },
+  {
+    "id": 1070,
+    "block": "Level 2",
+    "text_en": "I sometimes meet friends after work.",
+    "hint_ru": "Иногда я встречаюсь с друзьями после работы."
+  },
+  {
+    "id": 1071,
+    "block": "Level 2",
+    "text_en": "I sometimes do laundry before work.",
+    "hint_ru": "Иногда я стираю перед работой."
+  },
+  {
+    "id": 1072,
+    "block": "Level 2",
+    "text_en": "I usually rest when I have time.",
+    "hint_ru": "Я обычно отдыхаю, когда у меня есть время."
+  },
+  {
+    "id": 1073,
+    "block": "Level 2",
+    "text_en": "I often go to the gym at night.",
+    "hint_ru": "Я часто хожу в спортзал по вечерам."
+  },
+  {
+    "id": 1074,
+    "block": "Level 2",
+    "text_en": "I almost always wake up after work.",
+    "hint_ru": "Я почти всегда просыпаюсь после работы."
+  },
+  {
+    "id": 1075,
+    "block": "Level 2",
+    "text_en": "I sometimes have breakfast before work.",
+    "hint_ru": "Иногда я завтракаю перед работой."
+  },
+  {
+    "id": 1076,
+    "block": "Level 2",
+    "text_en": "I sometimes have a snack when I have time.",
+    "hint_ru": "Я иногда перекусываю, когда есть время."
+  },
+  {
+    "id": 1077,
+    "block": "Level 2",
+    "text_en": "I often rest when I'm tired.",
+    "hint_ru": "Я часто отдыхаю, когда устаю."
+  },
+  {
+    "id": 1078,
+    "block": "Level 2",
+    "text_en": "I almost always clean the house before work.",
+    "hint_ru": "Я почти всегда убираюсь в доме перед работой."
+  },
+  {
+    "id": 1079,
+    "block": "Level 2",
+    "text_en": "I usually practice speaking when I'm tired.",
+    "hint_ru": "Обычно я тренируюсь говорить, когда устаю."
+  },
+  {
+    "id": 1080,
+    "block": "Level 2",
+    "text_en": "I almost always have a snack after work.",
+    "hint_ru": "Я почти всегда перекусываю после работы."
+  },
+  {
+    "id": 1081,
+    "block": "Level 2",
+    "text_en": "I usually go to work before work.",
+    "hint_ru": "Я обычно иду на работу перед работой."
+  },
+  {
+    "id": 1082,
+    "block": "Level 2",
+    "text_en": "I almost always clean the house when I'm tired.",
+    "hint_ru": "Я почти всегда убираюсь в доме, когда устаю."
+  },
+  {
+    "id": 1083,
+    "block": "Level 2",
+    "text_en": "I usually wake up when I'm tired.",
+    "hint_ru": "Обычно я просыпаюсь, когда устаю."
+  },
+  {
+    "id": 1084,
+    "block": "Level 2",
+    "text_en": "I often drink water during the week.",
+    "hint_ru": "Я часто пью воду в течение недели."
+  },
+  {
+    "id": 1085,
+    "block": "Level 2",
+    "text_en": "I often do exercises before work.",
+    "hint_ru": "Я часто делаю зарядку перед работой."
+  },
+  {
+    "id": 1086,
+    "block": "Level 2",
+    "text_en": "I almost always clean the house when I have time.",
+    "hint_ru": "Я почти всегда убираюсь в доме, когда у меня есть время."
+  },
+  {
+    "id": 1087,
+    "block": "Level 2",
+    "text_en": "I almost always go to work when I have time.",
+    "hint_ru": "Я почти всегда иду на работу, когда у меня есть время."
+  },
+  {
+    "id": 1088,
+    "block": "Level 2",
+    "text_en": "I usually do exercises before work.",
+    "hint_ru": "Обычно я делаю зарядку перед работой."
+  },
+  {
+    "id": 1089,
+    "block": "Level 2",
+    "text_en": "I sometimes go to work after work.",
+    "hint_ru": "Иногда я иду на работу после работы."
+  },
+  {
+    "id": 1090,
+    "block": "Level 2",
+    "text_en": "I sometimes have lunch when I'm tired.",
+    "hint_ru": "Иногда я обедаю, когда устаю."
+  },
+  {
+    "id": 1091,
+    "block": "Level 2",
+    "text_en": "I sometimes do laundry after work.",
+    "hint_ru": "Я иногда стираю после работы."
+  },
+  {
+    "id": 1092,
+    "block": "Level 2",
+    "text_en": "I sometimes read the news before work.",
+    "hint_ru": "Иногда я читаю новости перед работой."
+  },
+  {
+    "id": 1093,
+    "block": "Level 2",
+    "text_en": "I usually do exercises after work.",
+    "hint_ru": "Обычно я делаю зарядку после работы."
+  },
+  {
+    "id": 1094,
+    "block": "Level 2",
+    "text_en": "I usually do laundry after work.",
+    "hint_ru": "Я обычно стираю после работы."
+  },
+  {
+    "id": 1095,
+    "block": "Level 2",
+    "text_en": "I almost always write notes after work.",
+    "hint_ru": "Я почти всегда пишу заметки после работы."
+  },
+  {
+    "id": 1096,
+    "block": "Level 2",
+    "text_en": "I sometimes practice speaking after work.",
+    "hint_ru": "Иногда я практикуюсь в разговорной речи после работы."
+  },
+  {
+    "id": 1097,
+    "block": "Level 2",
+    "text_en": "I usually have breakfast when I have time.",
+    "hint_ru": "Обычно я завтракаю, когда у меня есть время."
+  },
+  {
+    "id": 1098,
+    "block": "Level 2",
+    "text_en": "I usually wake up before work.",
+    "hint_ru": "Обычно я просыпаюсь перед работой."
+  },
+  {
+    "id": 1099,
+    "block": "Level 2",
+    "text_en": "I usually go to bed before work.",
+    "hint_ru": "Обычно я ложусь спать перед работой."
+  },
+  {
+    "id": 1100,
+    "block": "Level 2",
+    "text_en": "I sometimes have lunch after work.",
+    "hint_ru": "Иногда я обедаю после работы."
+  },
+  {
+    "id": 1101,
+    "block": "Level 2",
+    "text_en": "I sometimes clean the house before work.",
+    "hint_ru": "Иногда я убираюсь в доме перед работой."
+  },
+  {
+    "id": 1102,
+    "block": "Level 2",
+    "text_en": "I almost always work from home when I have time.",
+    "hint_ru": "Я почти всегда работаю дома, когда у меня есть время."
+  },
+  {
+    "id": 1103,
+    "block": "Level 2",
+    "text_en": "I often check my messages when I'm tired.",
+    "hint_ru": "Я часто проверяю сообщения, когда устаю."
+  },
+  {
+    "id": 1104,
+    "block": "Level 2",
+    "text_en": "I sometimes go to bed before work.",
+    "hint_ru": "Иногда я ложусь спать перед работой."
+  },
+  {
+    "id": 1105,
+    "block": "Level 2",
+    "text_en": "I sometimes write notes when I'm tired.",
+    "hint_ru": "Иногда я пишу заметки, когда устаю."
+  },
+  {
+    "id": 1106,
+    "block": "Level 2",
+    "text_en": "I sometimes shop for groceries when I have time.",
+    "hint_ru": "Иногда я покупаю продукты, когда у меня есть время."
+  },
+  {
+    "id": 1107,
+    "block": "Level 2",
+    "text_en": "I almost always rest after work.",
+    "hint_ru": "Я почти всегда отдыхаю после работы."
+  },
+  {
+    "id": 1108,
+    "block": "Level 2",
+    "text_en": "I almost always practice speaking before work.",
+    "hint_ru": "Я почти всегда практикуюсь в разговорной речи перед работой."
+  },
+  {
+    "id": 1109,
+    "block": "Level 2",
+    "text_en": "I usually review vocabulary before work.",
+    "hint_ru": "Обычно я просматриваю словарный запас перед работой."
+  },
+  {
+    "id": 1110,
+    "block": "Level 2",
+    "text_en": "I almost always practice speaking when I'm tired.",
+    "hint_ru": "Я почти всегда тренируюсь говорить, когда устаю."
+  },
+  {
+    "id": 1111,
+    "block": "Level 2",
+    "text_en": "I almost always shop for groceries when I have time.",
+    "hint_ru": "Я почти всегда покупаю продукты, когда у меня есть время."
+  },
+  {
+    "id": 1112,
+    "block": "Level 2",
+    "text_en": "I sometimes have breakfast when I'm tired.",
+    "hint_ru": "Иногда я завтракаю, когда устаю."
+  },
+  {
+    "id": 1113,
+    "block": "Level 2",
+    "text_en": "I usually stay home in the afternoon.",
+    "hint_ru": "Я обычно остаюсь дома во второй половине дня."
+  },
+  {
+    "id": 1114,
+    "block": "Level 2",
+    "text_en": "I sometimes check my messages when I have time.",
+    "hint_ru": "Я иногда проверяю свои сообщения, когда у меня есть время."
+  },
+  {
+    "id": 1115,
+    "block": "Level 2",
+    "text_en": "I often stay home when I have time.",
+    "hint_ru": "Я часто остаюсь дома, когда у меня есть время."
+  },
+  {
+    "id": 1116,
+    "block": "Level 2",
+    "text_en": "I usually do exercises when I'm tired.",
+    "hint_ru": "Обычно я делаю упражнения, когда устаю."
+  },
+  {
+    "id": 1117,
+    "block": "Level 2",
+    "text_en": "I usually read the news when I have time.",
+    "hint_ru": "Обычно я читаю новости, когда у меня есть время."
+  },
+  {
+    "id": 1118,
+    "block": "Level 2",
+    "text_en": "I often rest before work.",
+    "hint_ru": "Я часто отдыхаю перед работой."
+  },
+  {
+    "id": 1119,
+    "block": "Level 2",
+    "text_en": "I often get dressed when I have time.",
+    "hint_ru": "Я часто одеваюсь, когда у меня есть время."
+  },
+  {
+    "id": 1120,
+    "block": "Level 2",
+    "text_en": "I often clean the house after work.",
+    "hint_ru": "Я часто убираюсь дома после работы."
+  },
+  {
+    "id": 1121,
+    "block": "Level 2",
+    "text_en": "I almost always write notes in the morning.",
+    "hint_ru": "Я почти всегда пишу заметки утром."
+  },
+  {
+    "id": 1122,
+    "block": "Level 2",
+    "text_en": "I sometimes take a shower when I'm tired.",
+    "hint_ru": "Иногда я принимаю душ, когда устаю."
+  },
+  {
+    "id": 1123,
+    "block": "Level 2",
+    "text_en": "I often take a break before work.",
+    "hint_ru": "Я часто делаю перерыв перед работой."
+  },
+  {
+    "id": 1124,
+    "block": "Level 2",
+    "text_en": "I sometimes write notes when I have time.",
+    "hint_ru": "Иногда я пишу заметки, когда у меня есть время."
+  },
+  {
+    "id": 1125,
+    "block": "Level 2",
+    "text_en": "I sometimes take a break before work.",
+    "hint_ru": "Иногда я делаю перерыв перед работой."
+  },
+  {
+    "id": 1126,
+    "block": "Level 2",
+    "text_en": "I often have lunch after work.",
+    "hint_ru": "Я часто обедаю после работы."
+  },
+  {
+    "id": 1127,
+    "block": "Level 2",
+    "text_en": "I almost always have lunch when I'm tired.",
+    "hint_ru": "Я почти всегда обедаю, когда устаю."
+  },
+  {
+    "id": 1128,
+    "block": "Level 2",
+    "text_en": "I usually go for a walk during the week.",
+    "hint_ru": "Я обычно гуляю в течение недели."
+  },
+  {
+    "id": 1129,
+    "block": "Level 2",
+    "text_en": "I almost always do laundry when I have time.",
+    "hint_ru": "Я почти всегда стираю, когда есть время."
+  },
+  {
+    "id": 1130,
+    "block": "Level 2",
+    "text_en": "I often cook dinner when I have time.",
+    "hint_ru": "Я часто готовлю ужин, когда у меня есть время."
+  },
+  {
+    "id": 1131,
+    "block": "Level 2",
+    "text_en": "I sometimes do exercises during the week.",
+    "hint_ru": "Иногда я делаю упражнения в течение недели."
+  },
+  {
+    "id": 1132,
+    "block": "Level 2",
+    "text_en": "I often stretch before work.",
+    "hint_ru": "Я часто растягиваюсь перед работой."
+  },
+  {
+    "id": 1133,
+    "block": "Level 2",
+    "text_en": "I often do laundry after work.",
+    "hint_ru": "Я часто стираю после работы."
+  },
+  {
+    "id": 1134,
+    "block": "Level 2",
+    "text_en": "I sometimes stretch when I'm tired.",
+    "hint_ru": "Я иногда растягиваюсь, когда устаю."
+  },
+  {
+    "id": 1135,
+    "block": "Level 2",
+    "text_en": "I sometimes listen to music when I'm tired.",
+    "hint_ru": "Иногда я слушаю музыку, когда устаю."
+  },
+  {
+    "id": 1136,
+    "block": "Level 2",
+    "text_en": "I usually stay home in the evening.",
+    "hint_ru": "Я обычно остаюсь дома вечером."
+  },
+  {
+    "id": 1137,
+    "block": "Level 2",
+    "text_en": "I usually have a snack when I have time.",
+    "hint_ru": "Обычно я перекусываю, когда у меня есть время."
+  },
+  {
+    "id": 1138,
+    "block": "Level 2",
+    "text_en": "I usually read the news before work.",
+    "hint_ru": "Обычно я читаю новости перед работой."
+  },
+  {
+    "id": 1139,
+    "block": "Level 2",
+    "text_en": "I usually have lunch before work.",
+    "hint_ru": "Обычно я обедаю перед работой."
+  },
+  {
+    "id": 1140,
+    "block": "Level 2",
+    "text_en": "I usually go to work on weekends.",
+    "hint_ru": "Обычно я хожу на работу по выходным."
+  },
+  {
+    "id": 1141,
+    "block": "Level 2",
+    "text_en": "I almost always study English when I have time.",
+    "hint_ru": "Я почти всегда изучаю английский, когда у меня есть время."
+  },
+  {
+    "id": 1142,
+    "block": "Level 2",
+    "text_en": "I almost always go to the gym after work.",
+    "hint_ru": "Я почти всегда хожу в спортзал после работы."
+  },
+  {
+    "id": 1143,
+    "block": "Level 2",
+    "text_en": "I usually take a shower after work.",
+    "hint_ru": "Я обычно принимаю душ после работы."
+  },
+  {
+    "id": 1144,
+    "block": "Level 2",
+    "text_en": "I almost always do laundry when I'm tired.",
+    "hint_ru": "Я почти всегда стираю, когда устаю."
+  },
+  {
+    "id": 1145,
+    "block": "Level 2",
+    "text_en": "I often rest when I have time.",
+    "hint_ru": "Я часто отдыхаю, когда у меня есть время."
+  },
+  {
+    "id": 1146,
+    "block": "Level 2",
+    "text_en": "I often study English after work.",
+    "hint_ru": "Я часто изучаю английский после работы."
+  },
+  {
+    "id": 1147,
+    "block": "Level 2",
+    "text_en": "I almost always plan my day when I have time.",
+    "hint_ru": "Я почти всегда планирую свой день, когда у меня есть время."
+  },
+  {
+    "id": 1148,
+    "block": "Level 2",
+    "text_en": "I often write notes when I have time.",
+    "hint_ru": "Я часто пишу заметки, когда у меня есть время."
+  },
+  {
+    "id": 1149,
+    "block": "Level 2",
+    "text_en": "I almost always have breakfast after work.",
+    "hint_ru": "Я почти всегда завтракаю после работы."
+  },
+  {
+    "id": 1150,
+    "block": "Level 2",
+    "text_en": "I often wake up before work.",
+    "hint_ru": "Я часто просыпаюсь перед работой."
+  },
+  {
+    "id": 1151,
+    "block": "Level 2",
+    "text_en": "I often wake up when I'm tired.",
+    "hint_ru": "Я часто просыпаюсь, когда устал."
+  },
+  {
+    "id": 1152,
+    "block": "Level 2",
+    "text_en": "I often work from home before work.",
+    "hint_ru": "Я часто работаю дома перед работой."
+  },
+  {
+    "id": 1153,
+    "block": "Level 2",
+    "text_en": "I sometimes make coffee when I'm tired.",
+    "hint_ru": "Иногда я завариваю кофе, когда устаю."
+  },
+  {
+    "id": 1154,
+    "block": "Level 2",
+    "text_en": "I sometimes watch videos when I have time.",
+    "hint_ru": "Иногда смотрю видео, когда есть время."
+  },
+  {
+    "id": 1155,
+    "block": "Level 2",
+    "text_en": "I sometimes shop for groceries when I'm tired.",
+    "hint_ru": "Иногда я покупаю продукты, когда устаю."
+  },
+  {
+    "id": 1156,
+    "block": "Level 2",
+    "text_en": "I sometimes wake up when I'm tired.",
+    "hint_ru": "Иногда я просыпаюсь, когда устал."
+  },
+  {
+    "id": 1157,
+    "block": "Level 2",
+    "text_en": "I often cook dinner before work.",
+    "hint_ru": "Я часто готовлю ужин перед работой."
+  },
+  {
+    "id": 1158,
+    "block": "Level 2",
+    "text_en": "I often go to the gym before work.",
+    "hint_ru": "Я часто хожу в спортзал перед работой."
+  },
+  {
+    "id": 1159,
+    "block": "Level 2",
+    "text_en": "I almost always have lunch in the morning.",
+    "hint_ru": "Я почти всегда обедаю утром."
+  },
+  {
+    "id": 1160,
+    "block": "Level 2",
+    "text_en": "I sometimes make coffee after work.",
+    "hint_ru": "Иногда я готовлю кофе после работы."
+  },
+  {
+    "id": 1161,
+    "block": "Level 2",
+    "text_en": "I often watch videos when I have time.",
+    "hint_ru": "Я часто смотрю видео, когда у меня есть время."
+  },
+  {
+    "id": 1162,
+    "block": "Level 2",
+    "text_en": "I usually read the news on weekends.",
+    "hint_ru": "Обычно я читаю новости по выходным."
+  },
+  {
+    "id": 1163,
+    "block": "Level 2",
+    "text_en": "I often clean the house when I'm tired.",
+    "hint_ru": "Я часто убираюсь в доме, когда устаю."
+  },
+  {
+    "id": 1164,
+    "block": "Level 2",
+    "text_en": "I sometimes do exercises in the evening.",
+    "hint_ru": "Иногда я делаю зарядку вечером."
+  },
+  {
+    "id": 1165,
+    "block": "Level 2",
+    "text_en": "I usually make coffee when I have time.",
+    "hint_ru": "Обычно я готовлю кофе, когда у меня есть время."
+  },
+  {
+    "id": 1166,
+    "block": "Level 2",
+    "text_en": "I almost always drink water in the morning.",
+    "hint_ru": "Я почти всегда пью воду по утрам."
+  },
+  {
+    "id": 1167,
+    "block": "Level 2",
+    "text_en": "I often have breakfast after work.",
+    "hint_ru": "Я часто завтракаю после работы."
+  },
+  {
+    "id": 1168,
+    "block": "Level 2",
+    "text_en": "I usually meet friends in the morning.",
+    "hint_ru": "Обычно я встречаюсь с друзьями утром."
+  },
+  {
+    "id": 1169,
+    "block": "Level 2",
+    "text_en": "I sometimes plan my day when I have time.",
+    "hint_ru": "Иногда я планирую свой день, когда у меня есть время."
+  },
+  {
+    "id": 1170,
+    "block": "Level 2",
+    "text_en": "I often shop for groceries when I'm tired.",
+    "hint_ru": "Я часто покупаю продукты, когда устаю."
+  },
+  {
+    "id": 1171,
+    "block": "Level 2",
+    "text_en": "I usually study English when I have time.",
+    "hint_ru": "Обычно я изучаю английский, когда у меня есть время."
+  },
+  {
+    "id": 1172,
+    "block": "Level 2",
+    "text_en": "I almost always work from home after work.",
+    "hint_ru": "Я почти всегда работаю дома после работы."
+  },
+  {
+    "id": 1173,
+    "block": "Level 2",
+    "text_en": "I almost always practice speaking after work.",
+    "hint_ru": "Я почти всегда практикуюсь в разговорной речи после работы."
+  },
+  {
+    "id": 1174,
+    "block": "Level 2",
+    "text_en": "I almost always go to the gym in the evening.",
+    "hint_ru": "Я почти всегда хожу в спортзал вечером."
+  },
+  {
+    "id": 1175,
+    "block": "Level 2",
+    "text_en": "I often wake up when I have time.",
+    "hint_ru": "Я часто просыпаюсь, когда у меня есть время."
+  },
+  {
+    "id": 1176,
+    "block": "Level 2",
+    "text_en": "I almost always work from home at night.",
+    "hint_ru": "Я почти всегда работаю дома по ночам."
+  },
+  {
+    "id": 1177,
+    "block": "Level 2",
+    "text_en": "I often stay home after work.",
+    "hint_ru": "Я часто остаюсь дома после работы."
+  },
+  {
+    "id": 1178,
+    "block": "Level 2",
+    "text_en": "I almost always read the news after work.",
+    "hint_ru": "Я почти всегда читаю новости после работы."
+  },
+  {
+    "id": 1179,
+    "block": "Level 2",
+    "text_en": "I sometimes study English when I'm tired.",
+    "hint_ru": "Иногда я изучаю английский, когда устаю."
+  },
+  {
+    "id": 1180,
+    "block": "Level 2",
+    "text_en": "I usually practice speaking in the evening.",
+    "hint_ru": "Обычно я практикуюсь в разговорной речи вечером."
+  },
+  {
+    "id": 1181,
+    "block": "Level 2",
+    "text_en": "I usually make coffee in the afternoon.",
+    "hint_ru": "Обычно я готовлю кофе во второй половине дня."
+  },
+  {
+    "id": 1182,
+    "block": "Level 2",
+    "text_en": "I almost always do laundry in the afternoon.",
+    "hint_ru": "Я почти всегда стираю во второй половине дня."
+  },
+  {
+    "id": 1183,
+    "block": "Level 2",
+    "text_en": "I usually practice speaking before work.",
+    "hint_ru": "Обычно я практикуюсь в разговорной речи перед работой."
+  },
+  {
+    "id": 1184,
+    "block": "Level 2",
+    "text_en": "I usually watch videos when I have time.",
+    "hint_ru": "Обычно я смотрю видео, когда у меня есть время."
+  },
+  {
+    "id": 1185,
+    "block": "Level 2",
+    "text_en": "I sometimes work from home after work.",
+    "hint_ru": "Иногда я работаю дома после работы."
+  },
+  {
+    "id": 1186,
+    "block": "Level 2",
+    "text_en": "I sometimes go to work when I'm tired.",
+    "hint_ru": "Иногда я иду на работу, когда я устал."
+  },
+  {
+    "id": 1187,
+    "block": "Level 2",
+    "text_en": "I often do exercises after work.",
+    "hint_ru": "Я часто делаю зарядку после работы."
+  },
+  {
+    "id": 1188,
+    "block": "Level 2",
+    "text_en": "I usually check my messages after work.",
+    "hint_ru": "Обычно я проверяю сообщения после работы."
+  },
+  {
+    "id": 1189,
+    "block": "Level 2",
+    "text_en": "I sometimes have breakfast when I have time.",
+    "hint_ru": "Я иногда завтракаю, когда у меня есть время."
+  },
+  {
+    "id": 1190,
+    "block": "Level 2",
+    "text_en": "I almost always cook dinner before work.",
+    "hint_ru": "Я почти всегда готовлю ужин перед работой."
+  },
+  {
+    "id": 1191,
+    "block": "Level 2",
+    "text_en": "I sometimes eat dinner during the week.",
+    "hint_ru": "Иногда я ужинаю в течение недели."
+  },
+  {
+    "id": 1192,
+    "block": "Level 2",
+    "text_en": "I often write notes when I'm tired.",
+    "hint_ru": "Я часто пишу заметки, когда устаю."
+  },
+  {
+    "id": 1193,
+    "block": "Level 2",
+    "text_en": "I usually take a break before work.",
+    "hint_ru": "Обычно я делаю перерыв перед работой."
+  },
+  {
+    "id": 1194,
+    "block": "Level 2",
+    "text_en": "I sometimes go for a walk when I have time.",
+    "hint_ru": "Иногда я иду гулять, когда у меня есть время."
+  },
+  {
+    "id": 1195,
+    "block": "Level 2",
+    "text_en": "I usually check my messages on weekends.",
+    "hint_ru": "Обычно я проверяю сообщения по выходным."
+  },
+  {
+    "id": 1196,
+    "block": "Level 2",
+    "text_en": "I almost always wake up when I'm tired.",
+    "hint_ru": "Я почти всегда просыпаюсь, когда устал."
+  },
+  {
+    "id": 1197,
+    "block": "Level 2",
+    "text_en": "I often practice speaking after work.",
+    "hint_ru": "Я часто практикуюсь в разговорной речи после работы."
+  },
+  {
+    "id": 1198,
+    "block": "Level 2",
+    "text_en": "I sometimes cook dinner in the afternoon.",
+    "hint_ru": "Иногда я готовлю ужин во второй половине дня."
+  },
+  {
+    "id": 1199,
+    "block": "Level 2",
+    "text_en": "I often take a shower after work.",
+    "hint_ru": "Я часто принимаю душ после работы."
+  },
+  {
+    "id": 1200,
+    "block": "Level 2",
+    "text_en": "I often drink water in the afternoon.",
+    "hint_ru": "Я часто пью воду во второй половине дня."
+  },
+  {
+    "id": 1201,
+    "block": "Level 2",
+    "text_en": "I often do laundry before work.",
+    "hint_ru": "Я часто стираю перед работой."
+  },
+  {
+    "id": 1202,
+    "block": "Level 2",
+    "text_en": "I sometimes go to bed when I have time.",
+    "hint_ru": "Иногда я ложусь спать, когда у меня есть время."
+  },
+  {
+    "id": 1203,
+    "block": "Level 2",
+    "text_en": "I sometimes go to bed after work.",
+    "hint_ru": "Я иногда ложусь спать после работы."
+  },
+  {
+    "id": 1204,
+    "block": "Level 2",
+    "text_en": "I often review vocabulary when I have time.",
+    "hint_ru": "Я часто просматриваю словарный запас, когда у меня есть время."
+  },
+  {
+    "id": 1205,
+    "block": "Level 2",
+    "text_en": "I usually study English before work.",
+    "hint_ru": "Обычно я изучаю английский перед работой."
+  },
+  {
+    "id": 1206,
+    "block": "Level 2",
+    "text_en": "I usually study English when I'm tired.",
+    "hint_ru": "Я обычно изучаю английский, когда устаю."
+  },
+  {
+    "id": 1207,
+    "block": "Level 2",
+    "text_en": "I usually have breakfast after work.",
+    "hint_ru": "Я обычно завтракаю после работы."
+  },
+  {
+    "id": 1208,
+    "block": "Level 2",
+    "text_en": "I often do laundry when I'm tired.",
+    "hint_ru": "Я часто стираю, когда устаю."
+  },
+  {
+    "id": 1209,
+    "block": "Level 2",
+    "text_en": "I usually make coffee after work.",
+    "hint_ru": "Обычно я готовлю кофе после работы."
+  },
+  {
+    "id": 1210,
+    "block": "Level 2",
+    "text_en": "I usually get dressed before work.",
+    "hint_ru": "Обычно я одеваюсь перед работой."
+  },
+  {
+    "id": 1211,
+    "block": "Level 2",
+    "text_en": "I almost always watch videos when I'm tired.",
+    "hint_ru": "Я почти всегда смотрю видео, когда устаю."
+  },
+  {
+    "id": 1212,
+    "block": "Level 2",
+    "text_en": "I almost always take a shower when I have time.",
+    "hint_ru": "Я почти всегда принимаю душ, когда есть время."
+  },
+  {
+    "id": 1213,
+    "block": "Level 2",
+    "text_en": "I often get dressed in the morning.",
+    "hint_ru": "Я часто одеваюсь утром."
+  },
+  {
+    "id": 1214,
+    "block": "Level 2",
+    "text_en": "I almost always stretch in the morning.",
+    "hint_ru": "Я почти всегда растягиваюсь по утрам."
+  },
+  {
+    "id": 1215,
+    "block": "Level 2",
+    "text_en": "I almost always watch videos when I have time.",
+    "hint_ru": "Я почти всегда смотрю видео, когда у меня есть время."
+  },
+  {
+    "id": 1216,
+    "block": "Level 2",
+    "text_en": "I sometimes go to work during the week.",
+    "hint_ru": "Иногда я хожу на работу в течение недели."
+  },
+  {
+    "id": 1217,
+    "block": "Level 2",
+    "text_en": "I almost always take a break when I have time.",
+    "hint_ru": "Я почти всегда делаю перерыв, когда у меня есть время."
+  },
+  {
+    "id": 1218,
+    "block": "Level 2",
+    "text_en": "I sometimes make coffee when I have time.",
+    "hint_ru": "Иногда я готовлю кофе, когда у меня есть время."
+  },
+  {
+    "id": 1219,
+    "block": "Level 2",
+    "text_en": "I usually make coffee in the evening.",
+    "hint_ru": "Обычно я готовлю кофе вечером."
+  },
+  {
+    "id": 1220,
+    "block": "Level 2",
+    "text_en": "I almost always check my messages before work.",
+    "hint_ru": "Я почти всегда проверяю сообщения перед работой."
+  },
+  {
+    "id": 1221,
+    "block": "Level 2",
+    "text_en": "I sometimes review vocabulary when I have time.",
+    "hint_ru": "Иногда я просматриваю словарный запас, когда у меня есть время."
+  },
+  {
+    "id": 1222,
+    "block": "Level 2",
+    "text_en": "I often make coffee when I'm tired.",
+    "hint_ru": "Я часто готовлю кофе, когда устаю."
+  },
+  {
+    "id": 1223,
+    "block": "Level 2",
+    "text_en": "I almost always stretch after work.",
+    "hint_ru": "Я почти всегда растягиваюсь после работы."
+  },
+  {
+    "id": 1224,
+    "block": "Level 2",
+    "text_en": "I usually meet friends after work.",
+    "hint_ru": "Обычно я встречаюсь с друзьями после работы."
+  },
+  {
+    "id": 1225,
+    "block": "Level 2",
+    "text_en": "I usually clean the house when I'm tired.",
+    "hint_ru": "Обычно я убираюсь в доме, когда устаю."
+  },
+  {
+    "id": 1226,
+    "block": "Level 2",
+    "text_en": "I sometimes study English after work.",
+    "hint_ru": "Иногда я изучаю английский после работы."
+  },
+  {
+    "id": 1227,
+    "block": "Level 2",
+    "text_en": "I usually listen to music when I have time.",
+    "hint_ru": "Обычно я слушаю музыку, когда у меня есть время."
+  },
+  {
+    "id": 1228,
+    "block": "Level 2",
+    "text_en": "I almost always make coffee when I'm tired.",
+    "hint_ru": "Я почти всегда готовлю кофе, когда устаю."
+  },
+  {
+    "id": 1229,
+    "block": "Level 2",
+    "text_en": "I usually listen to music on weekends.",
+    "hint_ru": "Обычно я слушаю музыку по выходным."
+  },
+  {
+    "id": 1230,
+    "block": "Level 2",
+    "text_en": "I almost always get dressed when I'm tired.",
+    "hint_ru": "Я почти всегда одеваюсь, когда устаю."
+  },
+  {
+    "id": 1231,
+    "block": "Level 2",
+    "text_en": "I usually have lunch in the evening.",
+    "hint_ru": "Обычно я обедаю вечером."
+  },
+  {
+    "id": 1232,
+    "block": "Level 2",
+    "text_en": "I often meet friends after work.",
+    "hint_ru": "Я часто встречаюсь с друзьями после работы."
+  },
+  {
+    "id": 1233,
+    "block": "Level 2",
+    "text_en": "I often take a break when I'm tired.",
+    "hint_ru": "Я часто делаю перерыв, когда устаю."
+  },
+  {
+    "id": 1234,
+    "block": "Level 2",
+    "text_en": "I often listen to music after work.",
+    "hint_ru": "Я часто слушаю музыку после работы."
+  },
+  {
+    "id": 1235,
+    "block": "Level 2",
+    "text_en": "I often meet friends before work.",
+    "hint_ru": "Я часто встречаюсь с друзьями перед работой."
+  },
+  {
+    "id": 1236,
+    "block": "Level 2",
+    "text_en": "I almost always get dressed during the week.",
+    "hint_ru": "Я почти всегда одеваюсь в течение недели."
+  },
+  {
+    "id": 1237,
+    "block": "Level 2",
+    "text_en": "I usually go for a walk in the afternoon.",
+    "hint_ru": "Обычно я иду гулять во второй половине дня."
+  },
+  {
+    "id": 1238,
+    "block": "Level 2",
+    "text_en": "I sometimes wake up before work.",
+    "hint_ru": "Иногда я просыпаюсь перед работой."
+  },
+  {
+    "id": 1239,
+    "block": "Level 2",
+    "text_en": "I sometimes go to work before work.",
+    "hint_ru": "Иногда я иду на работу перед работой."
+  },
+  {
+    "id": 1240,
+    "block": "Level 2",
+    "text_en": "I almost always go to the gym before work.",
+    "hint_ru": "Я почти всегда хожу в спортзал перед работой."
+  },
+  {
+    "id": 1241,
+    "block": "Level 2",
+    "text_en": "I often make coffee in the evening.",
+    "hint_ru": "Я часто готовлю кофе вечером."
+  },
+  {
+    "id": 1242,
+    "block": "Level 2",
+    "text_en": "I usually stay home during the week.",
+    "hint_ru": "Я обычно остаюсь дома в течение недели."
+  },
+  {
+    "id": 1243,
+    "block": "Level 2",
+    "text_en": "I usually wake up when I have time.",
+    "hint_ru": "Обычно я просыпаюсь, когда у меня есть время."
+  },
+  {
+    "id": 1244,
+    "block": "Level 2",
+    "text_en": "I often go to bed when I'm tired.",
+    "hint_ru": "Я часто ложусь спать, когда устаю."
+  },
+  {
+    "id": 1245,
+    "block": "Level 2",
+    "text_en": "I often clean the house in the evening.",
+    "hint_ru": "Я часто убираюсь дома вечером."
+  },
+  {
+    "id": 1246,
+    "block": "Level 2",
+    "text_en": "I usually eat dinner in the morning.",
+    "hint_ru": "Я обычно ужинаю утром."
+  },
+  {
+    "id": 1247,
+    "block": "Level 2",
+    "text_en": "I almost always listen to music in the evening.",
+    "hint_ru": "Я почти всегда слушаю музыку вечером."
+  },
+  {
+    "id": 1248,
+    "block": "Level 2",
+    "text_en": "I almost always have lunch in the afternoon.",
+    "hint_ru": "Я почти всегда обедаю во второй половине дня."
+  },
+  {
+    "id": 1249,
+    "block": "Level 2",
+    "text_en": "I sometimes get dressed at night.",
+    "hint_ru": "Иногда я одеваюсь вечером."
+  },
+  {
+    "id": 1250,
+    "block": "Level 2",
+    "text_en": "I almost always rest when I have time.",
+    "hint_ru": "Я почти всегда отдыхаю, когда у меня есть время."
+  },
+  {
+    "id": 1251,
+    "block": "Level 2",
+    "text_en": "I sometimes practice speaking when I have time.",
+    "hint_ru": "Иногда я практикуюсь в разговорной речи, когда у меня есть время."
+  },
+  {
+    "id": 1252,
+    "block": "Level 2",
+    "text_en": "I almost always stretch before work.",
+    "hint_ru": "Я почти всегда разминаюсь перед работой."
+  },
+  {
+    "id": 1253,
+    "block": "Level 2",
+    "text_en": "I almost always go to work after work.",
+    "hint_ru": "Я почти всегда иду на работу после работы."
+  },
+  {
+    "id": 1254,
+    "block": "Level 2",
+    "text_en": "I usually read the news after work.",
+    "hint_ru": "Обычно я читаю новости после работы."
+  },
+  {
+    "id": 1255,
+    "block": "Level 2",
+    "text_en": "I often stretch after work.",
+    "hint_ru": "Я часто растягиваюсь после работы."
+  },
+  {
+    "id": 1256,
+    "block": "Level 2",
+    "text_en": "I usually go for a walk after work.",
+    "hint_ru": "Я обычно иду гулять после работы."
+  },
+  {
+    "id": 1257,
+    "block": "Level 2",
+    "text_en": "I almost always go to the gym when I'm tired.",
+    "hint_ru": "Я почти всегда хожу в спортзал, когда устаю."
+  },
+  {
+    "id": 1258,
+    "block": "Level 2",
+    "text_en": "I often go to work after work.",
+    "hint_ru": "Я часто иду на работу после работы."
+  },
+  {
+    "id": 1259,
+    "block": "Level 2",
+    "text_en": "I almost always drink water when I have time.",
+    "hint_ru": "Я почти всегда пью воду, когда есть время."
+  },
+  {
+    "id": 1260,
+    "block": "Level 2",
+    "text_en": "I often read the news after work.",
+    "hint_ru": "Я часто читаю новости после работы."
+  },
+  {
+    "id": 1261,
+    "block": "Level 2",
+    "text_en": "I almost always make coffee after work.",
+    "hint_ru": "Я почти всегда готовлю кофе после работы."
+  },
+  {
+    "id": 1262,
+    "block": "Level 2",
+    "text_en": "I usually work from home when I'm tired.",
+    "hint_ru": "Обычно я работаю дома, когда устаю."
+  },
+  {
+    "id": 1263,
+    "block": "Level 2",
+    "text_en": "I almost always rest at night.",
+    "hint_ru": "Я почти всегда отдыхаю ночью."
+  },
+  {
+    "id": 1264,
+    "block": "Level 2",
+    "text_en": "I sometimes shop for groceries after work.",
+    "hint_ru": "Иногда я покупаю продукты после работы."
+  },
+  {
+    "id": 1265,
+    "block": "Level 2",
+    "text_en": "I often practice speaking in the evening.",
+    "hint_ru": "Я часто практикуюсь в разговорной речи вечером."
+  },
+  {
+    "id": 1266,
+    "block": "Level 2",
+    "text_en": "I almost always shop for groceries when I'm tired.",
+    "hint_ru": "Я почти всегда покупаю продукты, когда устаю."
+  },
+  {
+    "id": 1267,
+    "block": "Level 2",
+    "text_en": "I sometimes cook dinner when I'm tired.",
+    "hint_ru": "Иногда я готовлю ужин, когда устаю."
+  },
+  {
+    "id": 1268,
+    "block": "Level 2",
+    "text_en": "I usually stretch before work.",
+    "hint_ru": "Обычно я растягиваюсь перед работой."
+  },
+  {
+    "id": 1269,
+    "block": "Level 2",
+    "text_en": "I often stretch in the afternoon.",
+    "hint_ru": "Я часто растягиваюсь во второй половине дня."
+  },
+  {
+    "id": 1270,
+    "block": "Level 2",
+    "text_en": "I sometimes get dressed after work.",
+    "hint_ru": "Иногда я одеваюсь после работы."
+  },
+  {
+    "id": 1271,
+    "block": "Level 2",
+    "text_en": "I sometimes have lunch when I have time.",
+    "hint_ru": "Иногда я обедаю, когда у меня есть время."
+  },
+  {
+    "id": 1272,
+    "block": "Level 2",
+    "text_en": "I sometimes go to work in the evening.",
+    "hint_ru": "Иногда я иду на работу вечером."
+  },
+  {
+    "id": 1273,
+    "block": "Level 2",
+    "text_en": "I almost always work from home when I'm tired.",
+    "hint_ru": "Я почти всегда работаю дома, когда устаю."
+  },
+  {
+    "id": 1274,
+    "block": "Level 2",
+    "text_en": "I usually check my messages when I'm tired.",
+    "hint_ru": "Обычно я проверяю сообщения, когда устаю."
+  },
+  {
+    "id": 1275,
+    "block": "Level 2",
+    "text_en": "I almost always get dressed when I have time.",
+    "hint_ru": "Я почти всегда одеваюсь, когда у меня есть время."
+  },
+  {
+    "id": 1276,
+    "block": "Level 2",
+    "text_en": "I almost always drink water when I'm tired.",
+    "hint_ru": "Я почти всегда пью воду, когда устаю."
+  },
+  {
+    "id": 1277,
+    "block": "Level 2",
+    "text_en": "I sometimes review vocabulary after work.",
+    "hint_ru": "Иногда я просматриваю словарный запас после работы."
+  },
+  {
+    "id": 1278,
+    "block": "Level 2",
+    "text_en": "I often wake up in the afternoon.",
+    "hint_ru": "Я часто просыпаюсь днем."
+  },
+  {
+    "id": 1279,
+    "block": "Level 2",
+    "text_en": "I usually review vocabulary during the week.",
+    "hint_ru": "Обычно я просматриваю словарный запас в течение недели."
+  },
+  {
+    "id": 1280,
+    "block": "Level 2",
+    "text_en": "I almost always stretch when I'm tired.",
+    "hint_ru": "Я почти всегда растягиваюсь, когда устаю."
+  },
+  {
+    "id": 1281,
+    "block": "Level 2",
+    "text_en": "I almost always write notes when I have time.",
+    "hint_ru": "Я почти всегда пишу заметки, когда у меня есть время."
+  },
+  {
+    "id": 1282,
+    "block": "Level 2",
+    "text_en": "I almost always plan my day in the morning.",
+    "hint_ru": "Я почти всегда планирую свой день утром."
+  },
+  {
+    "id": 1283,
+    "block": "Level 2",
+    "text_en": "I often drink water in the morning.",
+    "hint_ru": "Я часто пью воду по утрам."
+  },
+  {
+    "id": 1284,
+    "block": "Level 2",
+    "text_en": "I almost always go for a walk when I'm tired.",
+    "hint_ru": "Я почти всегда иду гулять, когда устаю."
+  },
+  {
+    "id": 1285,
+    "block": "Level 2",
+    "text_en": "I usually shop for groceries when I'm tired.",
+    "hint_ru": "Я обычно покупаю продукты, когда устаю."
+  },
+  {
+    "id": 1286,
+    "block": "Level 2",
+    "text_en": "I usually review vocabulary when I'm tired.",
+    "hint_ru": "Обычно я просматриваю словарный запас, когда устаю."
+  },
+  {
+    "id": 1287,
+    "block": "Level 2",
+    "text_en": "I usually drink water when I'm tired.",
+    "hint_ru": "Я обычно пью воду, когда устаю."
+  },
+  {
+    "id": 1288,
+    "block": "Level 2",
+    "text_en": "I almost always write notes in the afternoon.",
+    "hint_ru": "Я почти всегда пишу заметки во второй половине дня."
+  },
+  {
+    "id": 1289,
+    "block": "Level 2",
+    "text_en": "I almost always cook dinner after work.",
+    "hint_ru": "Я почти всегда готовлю ужин после работы."
+  },
+  {
+    "id": 1290,
+    "block": "Level 2",
+    "text_en": "I almost always have lunch before work.",
+    "hint_ru": "Я почти всегда обедаю перед работой."
+  },
+  {
+    "id": 1291,
+    "block": "Level 2",
+    "text_en": "I sometimes listen to music during the week.",
+    "hint_ru": "Иногда я слушаю музыку в течение недели."
+  },
+  {
+    "id": 1292,
+    "block": "Level 2",
+    "text_en": "I sometimes eat dinner when I'm tired.",
+    "hint_ru": "Иногда я ужинаю, когда устаю."
+  },
+  {
+    "id": 1293,
+    "block": "Level 2",
+    "text_en": "I almost always review vocabulary before work.",
+    "hint_ru": "Я почти всегда просматриваю словарный запас перед работой."
+  },
+  {
+    "id": 1294,
+    "block": "Level 2",
+    "text_en": "I usually go to bed when I'm tired.",
+    "hint_ru": "Обычно я ложусь спать, когда устаю."
+  },
+  {
+    "id": 1295,
+    "block": "Level 2",
+    "text_en": "I sometimes meet friends when I have time.",
+    "hint_ru": "Иногда я встречаюсь с друзьями, когда у меня есть время."
+  },
+  {
+    "id": 1296,
+    "block": "Level 2",
+    "text_en": "I usually practice speaking when I have time.",
+    "hint_ru": "Обычно я практикуюсь в разговорной речи, когда у меня есть время."
+  },
+  {
+    "id": 1297,
+    "block": "Level 2",
+    "text_en": "I often watch videos in the evening.",
+    "hint_ru": "Я часто смотрю видео вечером."
+  },
+  {
+    "id": 1298,
+    "block": "Level 2",
+    "text_en": "I almost always cook dinner when I'm tired.",
+    "hint_ru": "Я почти всегда готовлю ужин, когда устаю."
+  },
+  {
+    "id": 1299,
+    "block": "Level 2",
+    "text_en": "I usually get dressed during the week.",
+    "hint_ru": "Обычно я одеваюсь в течение недели."
+  },
+  {
+    "id": 1300,
+    "block": "Level 2",
+    "text_en": "I usually do laundry in the afternoon.",
+    "hint_ru": "Обычно я стираю во второй половине дня."
+  },
+  {
+    "id": 1301,
+    "block": "Level 2",
+    "text_en": "I usually clean the house before work.",
+    "hint_ru": "Обычно я убираюсь в доме перед работой."
+  },
+  {
+    "id": 1302,
+    "block": "Level 2",
+    "text_en": "I almost always review vocabulary at night.",
+    "hint_ru": "Я почти всегда просматриваю словарный запас ночью."
+  },
+  {
+    "id": 1303,
+    "block": "Level 2",
+    "text_en": "I usually take a shower before work.",
+    "hint_ru": "Я обычно принимаю душ перед работой."
+  },
+  {
+    "id": 1304,
+    "block": "Level 2",
+    "text_en": "I almost always read the news when I'm tired.",
+    "hint_ru": "Я почти всегда читаю новости, когда устаю."
+  },
+  {
+    "id": 1305,
+    "block": "Level 2",
+    "text_en": "I often plan my day when I'm tired.",
+    "hint_ru": "Я часто планирую свой день, когда я устал."
+  },
+  {
+    "id": 1306,
+    "block": "Level 2",
+    "text_en": "I usually go to work in the morning.",
+    "hint_ru": "Обычно я иду на работу утром."
+  },
+  {
+    "id": 1307,
+    "block": "Level 2",
+    "text_en": "I sometimes rest when I'm tired.",
+    "hint_ru": "Иногда я отдыхаю, когда устаю."
+  },
+  {
+    "id": 1308,
+    "block": "Level 2",
+    "text_en": "I sometimes get dressed in the morning.",
+    "hint_ru": "Иногда я одеваюсь утром."
+  },
+  {
+    "id": 1309,
+    "block": "Level 2",
+    "text_en": "I sometimes practice speaking when I'm tired.",
+    "hint_ru": "Иногда я тренируюсь говорить, когда устаю."
+  },
+  {
+    "id": 1310,
+    "block": "Level 2",
+    "text_en": "I almost always eat dinner when I'm tired.",
+    "hint_ru": "Я почти всегда ужинаю, когда устаю."
+  },
+  {
+    "id": 1311,
+    "block": "Level 2",
+    "text_en": "I usually clean the house when I have time.",
+    "hint_ru": "Обычно я убираюсь в доме, когда у меня есть время."
+  },
+  {
+    "id": 1312,
+    "block": "Level 2",
+    "text_en": "I often go to bed when I have time.",
+    "hint_ru": "Я часто ложусь спать, когда у меня есть время."
+  },
+  {
+    "id": 1313,
+    "block": "Level 2",
+    "text_en": "I sometimes shop for groceries on weekends.",
+    "hint_ru": "Иногда я покупаю продукты по выходным."
+  },
+  {
+    "id": 1314,
+    "block": "Level 2",
+    "text_en": "I sometimes read the news after work.",
+    "hint_ru": "Я иногда читаю новости после работы."
+  },
+  {
+    "id": 1315,
+    "block": "Level 2",
+    "text_en": "I often go for a walk when I'm tired.",
+    "hint_ru": "Я часто иду гулять, когда устаю."
+  },
+  {
+    "id": 1316,
+    "block": "Level 2",
+    "text_en": "I often check my messages after work.",
+    "hint_ru": "Я часто проверяю сообщения после работы."
+  },
+  {
+    "id": 1317,
+    "block": "Level 2",
+    "text_en": "I sometimes take a shower before work.",
+    "hint_ru": "Иногда я принимаю душ перед работой."
+  },
+  {
+    "id": 1318,
+    "block": "Level 2",
+    "text_en": "I usually take a break when I'm tired.",
+    "hint_ru": "Обычно я делаю перерыв, когда устаю."
+  },
+  {
+    "id": 1319,
+    "block": "Level 2",
+    "text_en": "I almost always have breakfast when I have time.",
+    "hint_ru": "Я почти всегда завтракаю, когда у меня есть время."
+  },
+  {
+    "id": 1320,
+    "block": "Level 2",
+    "text_en": "I usually go to the gym when I'm tired.",
+    "hint_ru": "Обычно я иду в спортзал, когда устаю."
+  },
+  {
+    "id": 1321,
+    "block": "Level 2",
+    "text_en": "I usually write notes when I'm tired.",
+    "hint_ru": "Обычно я пишу заметки, когда устаю."
+  },
+  {
+    "id": 1322,
+    "block": "Level 2",
+    "text_en": "I often do laundry when I have time.",
+    "hint_ru": "Я часто стираю, когда у меня есть время."
+  },
+  {
+    "id": 1323,
+    "block": "Level 2",
+    "text_en": "I almost always have a snack when I'm tired.",
+    "hint_ru": "Я почти всегда перекусываю, когда устаю."
+  },
+  {
+    "id": 1324,
+    "block": "Level 2",
+    "text_en": "I often review vocabulary after work.",
+    "hint_ru": "Я часто просматриваю словарный запас после работы."
+  },
+  {
+    "id": 1325,
+    "block": "Level 2",
+    "text_en": "I sometimes review vocabulary before work.",
+    "hint_ru": "Иногда я просматриваю словарный запас перед работой."
+  },
+  {
+    "id": 1326,
+    "block": "Level 2",
+    "text_en": "I almost always take a shower before work.",
+    "hint_ru": "Я почти всегда принимаю душ перед работой."
+  },
+  {
+    "id": 1327,
+    "block": "Level 2",
+    "text_en": "I often do exercises at night.",
+    "hint_ru": "Я часто делаю упражнения по ночам."
+  },
+  {
+    "id": 1328,
+    "block": "Level 2",
+    "text_en": "I usually shop for groceries when I have time.",
+    "hint_ru": "Обычно я покупаю продукты, когда у меня есть время."
+  },
+  {
+    "id": 1329,
+    "block": "Level 2",
+    "text_en": "I usually shop for groceries at night.",
+    "hint_ru": "Обычно я покупаю продукты вечером."
+  },
+  {
+    "id": 1330,
+    "block": "Level 2",
+    "text_en": "I almost always have breakfast before work.",
+    "hint_ru": "Я почти всегда завтракаю перед работой."
+  },
+  {
+    "id": 1331,
+    "block": "Level 2",
+    "text_en": "I sometimes practice speaking before work.",
+    "hint_ru": "Иногда я тренируюсь говорить перед работой."
+  },
+  {
+    "id": 1332,
+    "block": "Level 2",
+    "text_en": "I usually wake up in the morning.",
+    "hint_ru": "Обычно я просыпаюсь утром."
+  },
+  {
+    "id": 1333,
+    "block": "Level 2",
+    "text_en": "I often rest after work.",
+    "hint_ru": "Я часто отдыхаю после работы."
+  },
+  {
+    "id": 1334,
+    "block": "Level 2",
+    "text_en": "I sometimes go for a walk in the afternoon.",
+    "hint_ru": "Иногда я выхожу на прогулку во второй половине дня."
+  },
+  {
+    "id": 1335,
+    "block": "Level 2",
+    "text_en": "I usually take a shower when I'm tired.",
+    "hint_ru": "Я обычно принимаю душ, когда устаю."
+  },
+  {
+    "id": 1336,
+    "block": "Level 2",
+    "text_en": "I almost always listen to music when I'm tired.",
+    "hint_ru": "Я почти всегда слушаю музыку, когда устаю."
+  },
+  {
+    "id": 1337,
+    "block": "Level 2",
+    "text_en": "I sometimes take a break after work.",
+    "hint_ru": "Иногда я делаю перерыв после работы."
+  },
+  {
+    "id": 1338,
+    "block": "Level 2",
+    "text_en": "I usually have a snack after work.",
+    "hint_ru": "Я обычно перекусываю после работы."
+  },
+  {
+    "id": 1339,
+    "block": "Level 2",
+    "text_en": "I often take a shower before work.",
+    "hint_ru": "Я часто принимаю душ перед работой."
+  },
+  {
+    "id": 1340,
+    "block": "Level 2",
+    "text_en": "I almost always meet friends when I have time.",
+    "hint_ru": "Я почти всегда встречаюсь с друзьями, когда у меня есть время."
+  },
+  {
+    "id": 1341,
+    "block": "Level 2",
+    "text_en": "I sometimes study English before work.",
+    "hint_ru": "Иногда я изучаю английский перед работой."
+  },
+  {
+    "id": 1342,
+    "block": "Level 2",
+    "text_en": "I sometimes go to bed in the evening.",
+    "hint_ru": "Я иногда ложусь спать вечером."
+  },
+  {
+    "id": 1343,
+    "block": "Level 2",
+    "text_en": "I almost always listen to music after work.",
+    "hint_ru": "Я почти всегда слушаю музыку после работы."
+  },
+  {
+    "id": 1344,
+    "block": "Level 2",
+    "text_en": "I almost always study English before work.",
+    "hint_ru": "Я почти всегда изучаю английский перед работой."
+  },
+  {
+    "id": 1345,
+    "block": "Level 2",
+    "text_en": "I almost always rest when I'm tired.",
+    "hint_ru": "Я почти всегда отдыхаю, когда устаю."
+  },
+  {
+    "id": 1346,
+    "block": "Level 2",
+    "text_en": "I almost always take a shower when I'm tired.",
+    "hint_ru": "Я почти всегда принимаю душ, когда устаю."
+  },
+  {
+    "id": 1347,
+    "block": "Level 2",
+    "text_en": "I almost always work from home before work.",
+    "hint_ru": "Я почти всегда работаю дома перед работой."
+  },
+  {
+    "id": 1348,
+    "block": "Level 2",
+    "text_en": "I almost always check my messages when I have time.",
+    "hint_ru": "Я почти всегда проверяю сообщения, когда у меня есть время."
+  },
+  {
+    "id": 1349,
+    "block": "Level 2",
+    "text_en": "I often rest in the afternoon.",
+    "hint_ru": "Я часто отдыхаю во второй половине дня."
+  },
+  {
+    "id": 1350,
+    "block": "Level 2",
+    "text_en": "I sometimes work from home when I'm tired.",
+    "hint_ru": "Иногда я работаю дома, когда устаю."
+  },
+  {
+    "id": 1351,
+    "block": "Level 2",
+    "text_en": "I sometimes do exercises before work.",
+    "hint_ru": "Иногда я делаю зарядку перед работой."
+  },
+  {
+    "id": 1352,
+    "block": "Level 2",
+    "text_en": "I usually listen to music when I'm tired.",
+    "hint_ru": "Обычно я слушаю музыку, когда устаю."
+  },
+  {
+    "id": 1353,
+    "block": "Level 2",
+    "text_en": "I sometimes get dressed before work.",
+    "hint_ru": "Иногда я одеваюсь перед работой."
+  },
+  {
+    "id": 1354,
+    "block": "Level 2",
+    "text_en": "I often eat dinner after work.",
+    "hint_ru": "Я часто ужинаю после работы."
+  },
+  {
+    "id": 1355,
+    "block": "Level 2",
+    "text_en": "I usually drink water after work.",
+    "hint_ru": "Обычно я пью воду после работы."
+  },
+  {
+    "id": 1356,
+    "block": "Level 2",
+    "text_en": "I often clean the house when I have time.",
+    "hint_ru": "Я часто убираюсь в доме, когда у меня есть время."
+  },
+  {
+    "id": 1357,
+    "block": "Level 2",
+    "text_en": "I often do exercises in the afternoon.",
+    "hint_ru": "Я часто делаю упражнения во второй половине дня."
+  },
+  {
+    "id": 1358,
+    "block": "Level 2",
+    "text_en": "I almost always shop for groceries in the morning.",
+    "hint_ru": "Я почти всегда покупаю продукты утром."
+  },
+  {
+    "id": 1359,
+    "block": "Level 2",
+    "text_en": "I sometimes watch videos when I'm tired.",
+    "hint_ru": "Я иногда смотрю видео, когда устаю."
+  },
+  {
+    "id": 1360,
+    "block": "Level 2",
+    "text_en": "I almost always go for a walk after work.",
+    "hint_ru": "Я почти всегда иду гулять после работы."
+  },
+  {
+    "id": 1361,
+    "block": "Level 2",
+    "text_en": "I almost always watch videos in the evening.",
+    "hint_ru": "Я почти всегда смотрю видео вечером."
+  },
+  {
+    "id": 1362,
+    "block": "Level 2",
+    "text_en": "I usually do laundry in the morning.",
+    "hint_ru": "Я обычно стираю утром."
+  },
+  {
+    "id": 1363,
+    "block": "Level 2",
+    "text_en": "I sometimes do exercises in the morning.",
+    "hint_ru": "Иногда я делаю зарядку по утрам."
+  },
+  {
+    "id": 1364,
+    "block": "Level 2",
+    "text_en": "I often practice speaking on weekends.",
+    "hint_ru": "Я часто практикуюсь в разговорной речи по выходным."
+  },
+  {
+    "id": 1365,
+    "block": "Level 2",
+    "text_en": "I sometimes drink water during the week.",
+    "hint_ru": "Я иногда пью воду в течение недели."
+  },
+  {
+    "id": 1366,
+    "block": "Level 2",
+    "text_en": "I sometimes rest after work.",
+    "hint_ru": "Я иногда отдыхаю после работы."
+  },
+  {
+    "id": 1367,
+    "block": "Level 2",
+    "text_en": "I usually clean the house in the afternoon.",
+    "hint_ru": "Обычно я убираюсь в доме во второй половине дня."
+  },
+  {
+    "id": 1368,
+    "block": "Level 2",
+    "text_en": "I sometimes check my messages before work.",
+    "hint_ru": "Иногда я проверяю сообщения перед работой."
+  },
+  {
+    "id": 1369,
+    "block": "Level 2",
+    "text_en": "I almost always go to the gym when I have time.",
+    "hint_ru": "Я почти всегда хожу в спортзал, когда есть время."
+  },
+  {
+    "id": 1370,
+    "block": "Level 2",
+    "text_en": "I often shop for groceries after work.",
+    "hint_ru": "Я часто покупаю продукты после работы."
+  },
+  {
+    "id": 1371,
+    "block": "Level 2",
+    "text_en": "I usually plan my day after work.",
+    "hint_ru": "Обычно я планирую свой день после работы."
+  },
+  {
+    "id": 1372,
+    "block": "Level 2",
+    "text_en": "I sometimes clean the house after work.",
+    "hint_ru": "Иногда я убираюсь в доме после работы."
+  },
+  {
+    "id": 1373,
+    "block": "Level 2",
+    "text_en": "I sometimes go to the gym in the afternoon.",
+    "hint_ru": "Иногда я хожу в спортзал во второй половине дня."
+  },
+  {
+    "id": 1374,
+    "block": "Level 2",
+    "text_en": "I usually study English in the morning.",
+    "hint_ru": "Обычно я изучаю английский утром."
+  },
+  {
+    "id": 1375,
+    "block": "Level 2",
+    "text_en": "I often do exercises when I have time.",
+    "hint_ru": "Я часто делаю упражнения, когда у меня есть время."
+  },
+  {
+    "id": 1376,
+    "block": "Level 2",
+    "text_en": "Can we reschedule for in an hour?",
+    "hint_ru": "Можем ли мы перенести встречу на час?"
+  },
+  {
+    "id": 1377,
+    "block": "Level 2",
+    "text_en": "Can we meet in an hour?",
+    "hint_ru": "Можем ли мы встретиться через час?"
+  },
+  {
+    "id": 1378,
+    "block": "Level 2",
+    "text_en": "I can't do it this weekend.",
+    "hint_ru": "Я не смогу сделать это в эти выходные."
+  },
+  {
+    "id": 1379,
+    "block": "Level 2",
+    "text_en": "I'll be there in ten minutes.",
+    "hint_ru": "Я буду там через десять минут."
+  },
+  {
+    "id": 1380,
+    "block": "Level 2",
+    "text_en": "I can't do it later.",
+    "hint_ru": "Я не могу сделать это позже."
+  },
+  {
+    "id": 1381,
+    "block": "Level 2",
+    "text_en": "Let's meet this evening.",
+    "hint_ru": "Давай встретимся сегодня вечером."
+  },
+  {
+    "id": 1382,
+    "block": "Level 2",
+    "text_en": "I can do it in an hour.",
+    "hint_ru": "Я могу сделать это за час."
+  },
+  {
+    "id": 1383,
+    "block": "Level 2",
+    "text_en": "Can we meet next week?",
+    "hint_ru": "Можем ли мы встретиться на следующей неделе?"
+  },
+  {
+    "id": 1384,
+    "block": "Level 2",
+    "text_en": "I'll be ready soon.",
+    "hint_ru": "Я скоро буду готов."
+  },
+  {
+    "id": 1385,
+    "block": "Level 2",
+    "text_en": "Let's do it in a few minutes.",
+    "hint_ru": "Давайте сделаем это за несколько минут."
+  },
+  {
+    "id": 1386,
+    "block": "Level 2",
+    "text_en": "I can do it this weekend.",
+    "hint_ru": "Я могу сделать это в эти выходные."
+  },
+  {
+    "id": 1387,
+    "block": "Level 2",
+    "text_en": "What time should we meet?",
+    "hint_ru": "В какое время нам следует встретиться?"
+  },
+  {
+    "id": 1388,
+    "block": "Level 2",
+    "text_en": "Can we reschedule for tomorrow?",
+    "hint_ru": "Можем ли мы перенести встречу на завтра?"
+  },
+  {
+    "id": 1389,
+    "block": "Level 2",
+    "text_en": "I'll do it in an hour.",
+    "hint_ru": "Я сделаю это через час."
+  },
+  {
+    "id": 1390,
+    "block": "Level 2",
+    "text_en": "I can do it this afternoon.",
+    "hint_ru": "Я могу сделать это сегодня днем."
+  },
+  {
+    "id": 1391,
+    "block": "Level 2",
+    "text_en": "Does tomorrow work for you?",
+    "hint_ru": "Завтрашний день вам подходит?"
+  },
+  {
+    "id": 1392,
+    "block": "Level 2",
+    "text_en": "Let's do it today.",
+    "hint_ru": "Давайте сделаем это сегодня."
+  },
+  {
+    "id": 1393,
+    "block": "Level 2",
+    "text_en": "Are you free this weekend?",
+    "hint_ru": "Ты свободен на этих выходных?"
+  },
+  {
+    "id": 1394,
+    "block": "Level 2",
+    "text_en": "Can we talk tomorrow?",
+    "hint_ru": "Можем ли мы поговорить завтра?"
+  },
+  {
+    "id": 1395,
+    "block": "Level 2",
+    "text_en": "Let's do it later.",
+    "hint_ru": "Давай сделаем это позже."
+  },
+  {
+    "id": 1396,
+    "block": "Level 2",
+    "text_en": "I can't do it tomorrow.",
+    "hint_ru": "Я не смогу сделать это завтра."
+  },
+  {
+    "id": 1397,
+    "block": "Level 2",
+    "text_en": "Can we reschedule for today?",
+    "hint_ru": "Можем ли мы перенести встречу на сегодня?"
+  },
+  {
+    "id": 1398,
+    "block": "Level 2",
+    "text_en": "I'll do it tomorrow.",
+    "hint_ru": "Я сделаю это завтра."
+  },
+  {
+    "id": 1399,
+    "block": "Level 2",
+    "text_en": "Let's do it in an hour.",
+    "hint_ru": "Давай сделаем это за час."
+  },
+  {
+    "id": 1400,
+    "block": "Level 2",
+    "text_en": "Let's meet this weekend.",
+    "hint_ru": "Давай встретимся на этих выходных."
+  },
+  {
+    "id": 1401,
+    "block": "Level 2",
+    "text_en": "Can we meet today?",
+    "hint_ru": "Можем ли мы встретиться сегодня?"
+  },
+  {
+    "id": 1402,
+    "block": "Level 2",
+    "text_en": "Are you free this afternoon?",
+    "hint_ru": "Ты свободен сегодня днём?"
+  },
+  {
+    "id": 1403,
+    "block": "Level 2",
+    "text_en": "I'll do it today.",
+    "hint_ru": "Я сделаю это сегодня."
+  },
+  {
+    "id": 1404,
+    "block": "Level 2",
+    "text_en": "I can't do it in an hour.",
+    "hint_ru": "Я не смогу сделать это за час."
+  },
+  {
+    "id": 1405,
+    "block": "Level 2",
+    "text_en": "What time works for you?",
+    "hint_ru": "Какое время вам подходит?"
+  },
+  {
+    "id": 1406,
+    "block": "Level 2",
+    "text_en": "I can do it this evening.",
+    "hint_ru": "Я могу сделать это сегодня вечером."
+  },
+  {
+    "id": 1407,
+    "block": "Level 2",
+    "text_en": "I can do it tomorrow.",
+    "hint_ru": "Я могу сделать это завтра."
+  },
+  {
+    "id": 1408,
+    "block": "Level 2",
+    "text_en": "Does this evening work for you?",
+    "hint_ru": "Этот вечер вам подходит?"
+  },
+  {
+    "id": 1409,
+    "block": "Level 2",
+    "text_en": "Let's do it this afternoon.",
+    "hint_ru": "Давай сделаем это сегодня днем."
+  },
+  {
+    "id": 1410,
+    "block": "Level 2",
+    "text_en": "Does next week work for you?",
+    "hint_ru": "Следующая неделя подойдет вам?"
+  },
+  {
+    "id": 1411,
+    "block": "Level 2",
+    "text_en": "I'll do it next week.",
+    "hint_ru": "Я сделаю это на следующей неделе."
+  },
+  {
+    "id": 1412,
+    "block": "Level 2",
+    "text_en": "Are you free today?",
+    "hint_ru": "Ты сегодня свободен?"
+  },
+  {
+    "id": 1413,
+    "block": "Level 2",
+    "text_en": "Are you free in a few minutes?",
+    "hint_ru": "Вы свободны через несколько минут?"
+  },
+  {
+    "id": 1414,
+    "block": "Level 2",
+    "text_en": "Are you free later?",
+    "hint_ru": "Ты свободен позже?"
+  },
+  {
+    "id": 1415,
+    "block": "Level 2",
+    "text_en": "I need more time.",
+    "hint_ru": "Мне нужно больше времени."
+  },
+  {
+    "id": 1416,
+    "block": "Level 2",
+    "text_en": "I'm almost done.",
+    "hint_ru": "Я почти закончил."
+  },
+  {
+    "id": 1417,
+    "block": "Level 2",
+    "text_en": "Are you free in an hour?",
+    "hint_ru": "Ты свободен через час?"
+  },
+  {
+    "id": 1418,
+    "block": "Level 2",
+    "text_en": "I can't do it this afternoon.",
+    "hint_ru": "Я не могу сделать это сегодня днем."
+  },
+  {
+    "id": 1419,
+    "block": "Level 2",
+    "text_en": "Can we reschedule for later?",
+    "hint_ru": "Можем ли мы перенести встречу на более поздний срок?"
+  },
+  {
+    "id": 1420,
+    "block": "Level 2",
+    "text_en": "Let's meet later.",
+    "hint_ru": "Давай встретимся позже."
+  },
+  {
+    "id": 1421,
+    "block": "Level 2",
+    "text_en": "Let's meet tomorrow.",
+    "hint_ru": "Давай встретимся завтра."
+  },
+  {
+    "id": 1422,
+    "block": "Level 2",
+    "text_en": "I can't do it in a few minutes.",
+    "hint_ru": "Я не смогу сделать это за несколько минут."
+  },
+  {
+    "id": 1423,
+    "block": "Level 2",
+    "text_en": "Are you free tomorrow?",
+    "hint_ru": "Ты свободен завтра?"
+  },
+  {
+    "id": 1424,
+    "block": "Level 2",
+    "text_en": "Let's do it this weekend.",
+    "hint_ru": "Давай сделаем это на этих выходных."
+  },
+  {
+    "id": 1425,
+    "block": "Level 2",
+    "text_en": "Does in a few minutes work for you?",
+    "hint_ru": "Через несколько минут вам подойдет?"
+  },
+  {
+    "id": 1426,
+    "block": "Level 2",
+    "text_en": "Let's meet at the entrance.",
+    "hint_ru": "Давайте встретимся у входа."
+  },
+  {
+    "id": 1427,
+    "block": "Level 2",
+    "text_en": "Can we reschedule for in a few minutes?",
+    "hint_ru": "Можем ли мы перенести встречу через несколько минут?"
+  },
+  {
+    "id": 1428,
+    "block": "Level 2",
+    "text_en": "Are you free this evening?",
+    "hint_ru": "Ты свободен сегодня вечером?"
+  },
+  {
+    "id": 1429,
+    "block": "Level 2",
+    "text_en": "Let's meet next week.",
+    "hint_ru": "Давай встретимся на следующей неделе."
+  },
+  {
+    "id": 1430,
+    "block": "Level 2",
+    "text_en": "I'm stuck in traffic.",
+    "hint_ru": "Я застрял в пробке."
+  },
+  {
+    "id": 1431,
+    "block": "Level 2",
+    "text_en": "Can we meet this weekend?",
+    "hint_ru": "Можем ли мы встретиться в эти выходные?"
+  },
+  {
+    "id": 1432,
+    "block": "Level 2",
+    "text_en": "I'll do it this evening.",
+    "hint_ru": "Я сделаю это сегодня вечером."
+  },
+  {
+    "id": 1433,
+    "block": "Level 2",
+    "text_en": "I'll be there in five minutes.",
+    "hint_ru": "Я буду там через пять минут."
+  },
+  {
+    "id": 1434,
+    "block": "Level 2",
+    "text_en": "Let's do it tomorrow.",
+    "hint_ru": "Давай сделаем это завтра."
+  },
+  {
+    "id": 1435,
+    "block": "Level 2",
+    "text_en": "Sorry, something came up.",
+    "hint_ru": "Извините, что-то всплыло."
+  },
+  {
+    "id": 1436,
+    "block": "Level 2",
+    "text_en": "Let's do it this evening.",
+    "hint_ru": "Давай сделаем это сегодня вечером."
+  },
+  {
+    "id": 1437,
+    "block": "Level 2",
+    "text_en": "I can't do it today.",
+    "hint_ru": "Я не могу сделать это сегодня."
+  },
+  {
+    "id": 1438,
+    "block": "Level 2",
+    "text_en": "I can do it later.",
+    "hint_ru": "Я могу сделать это позже."
+  },
+  {
+    "id": 1439,
+    "block": "Level 2",
+    "text_en": "Let's meet today.",
+    "hint_ru": "Давайте встретимся сегодня."
+  },
+  {
+    "id": 1440,
+    "block": "Level 2",
+    "text_en": "Are you free next week?",
+    "hint_ru": "Ты свободен на следующей неделе?"
+  },
+  {
+    "id": 1441,
+    "block": "Level 2",
+    "text_en": "Can we reschedule for this afternoon?",
+    "hint_ru": "Можем ли мы перенести встречу на сегодня после обеда?"
+  },
+  {
+    "id": 1442,
+    "block": "Level 2",
+    "text_en": "Can we meet this afternoon?",
+    "hint_ru": "Можем ли мы встретиться сегодня днем?"
+  },
+  {
+    "id": 1443,
+    "block": "Level 2",
+    "text_en": "Does this afternoon work for you?",
+    "hint_ru": "Вам подходит этот день во второй половине дня?"
+  },
+  {
+    "id": 1444,
+    "block": "Level 2",
+    "text_en": "I'll do it this weekend.",
+    "hint_ru": "Я сделаю это на этих выходных."
+  },
+  {
+    "id": 1445,
+    "block": "Level 2",
+    "text_en": "Let's meet in an hour.",
+    "hint_ru": "Давай встретимся через час."
+  },
+  {
+    "id": 1446,
+    "block": "Level 2",
+    "text_en": "I'll do it in a few minutes.",
+    "hint_ru": "Я сделаю это через несколько минут."
+  },
+  {
+    "id": 1447,
+    "block": "Level 2",
+    "text_en": "Can we reschedule for this evening?",
+    "hint_ru": "Можем ли мы перенести встречу на этот вечер?"
+  },
+  {
+    "id": 1448,
+    "block": "Level 2",
+    "text_en": "I'll do it later.",
+    "hint_ru": "Я сделаю это позже."
+  },
+  {
+    "id": 1449,
+    "block": "Level 2",
+    "text_en": "Can we meet later?",
+    "hint_ru": "Можем ли мы встретиться позже?"
+  },
+  {
+    "id": 1450,
+    "block": "Level 2",
+    "text_en": "I can do it today.",
+    "hint_ru": "Я могу сделать это сегодня."
+  },
+  {
+    "id": 1451,
+    "block": "Level 2",
+    "text_en": "Let's do it next week.",
+    "hint_ru": "Давай сделаем это на следующей неделе."
+  },
+  {
+    "id": 1452,
+    "block": "Level 2",
+    "text_en": "Does in an hour work for you?",
+    "hint_ru": "Через час у вас получится?"
+  },
+  {
+    "id": 1453,
+    "block": "Level 2",
+    "text_en": "I can do it in a few minutes.",
+    "hint_ru": "Я могу сделать это за несколько минут."
+  },
+  {
+    "id": 1454,
+    "block": "Level 2",
+    "text_en": "Let's keep it short today.",
+    "hint_ru": "Давайте сегодня будем краткими."
+  },
+  {
+    "id": 1455,
+    "block": "Level 2",
+    "text_en": "I can't do it next week.",
+    "hint_ru": "Я не смогу сделать это на следующей неделе."
+  },
+  {
+    "id": 1456,
+    "block": "Level 2",
+    "text_en": "Let's take a short break.",
+    "hint_ru": "Давайте сделаем небольшой перерыв."
+  },
+  {
+    "id": 1457,
+    "block": "Level 2",
+    "text_en": "Can we meet this evening?",
+    "hint_ru": "Можем ли мы встретиться сегодня вечером?"
+  },
+  {
+    "id": 1458,
+    "block": "Level 2",
+    "text_en": "Let's meet outside.",
+    "hint_ru": "Давай встретимся снаружи."
+  },
+  {
+    "id": 1459,
+    "block": "Level 2",
+    "text_en": "Can we meet tomorrow?",
+    "hint_ru": "Можем ли мы встретиться завтра?"
+  },
+  {
+    "id": 1460,
+    "block": "Level 2",
+    "text_en": "Does this weekend work for you?",
+    "hint_ru": "Эти выходные вам подходят?"
+  },
+  {
+    "id": 1461,
+    "block": "Level 2",
+    "text_en": "I'll do it this afternoon.",
+    "hint_ru": "Я сделаю это сегодня днем."
+  },
+  {
+    "id": 1462,
+    "block": "Level 2",
+    "text_en": "Does later work for you?",
+    "hint_ru": "Позже вам подойдет?"
+  },
+  {
+    "id": 1463,
+    "block": "Level 2",
+    "text_en": "Can we meet in a few minutes?",
+    "hint_ru": "Можем ли мы встретиться через несколько минут?"
+  },
+  {
+    "id": 1464,
+    "block": "Level 2",
+    "text_en": "Does today work for you?",
+    "hint_ru": "Сегодняшний день вам подходит?"
+  },
+  {
+    "id": 1465,
+    "block": "Level 2",
+    "text_en": "Let's meet this afternoon.",
+    "hint_ru": "Давай встретимся сегодня днем."
+  },
+  {
+    "id": 1466,
+    "block": "Level 2",
+    "text_en": "Let's meet in a few minutes.",
+    "hint_ru": "Давайте встретимся через несколько минут."
+  },
+  {
+    "id": 1467,
+    "block": "Level 2",
+    "text_en": "I can't do it this evening.",
+    "hint_ru": "Я не могу сделать это сегодня вечером."
+  },
+  {
+    "id": 1468,
+    "block": "Level 2",
+    "text_en": "Can we reschedule for this weekend?",
+    "hint_ru": "Можем ли мы перенести встречу на эти выходные?"
+  },
+  {
+    "id": 1469,
+    "block": "Level 2",
+    "text_en": "Can we reschedule for next week?",
+    "hint_ru": "Можем ли мы перенести встречу на следующую неделю?"
+  },
+  {
+    "id": 1470,
+    "block": "Level 2",
+    "text_en": "Can we talk after work?",
+    "hint_ru": "Можем ли мы поговорить после работы?"
+  },
+  {
+    "id": 1471,
+    "block": "Level 2",
+    "text_en": "I can do it next week.",
+    "hint_ru": "Я могу сделать это на следующей неделе."
+  },
+  {
+    "id": 1472,
+    "block": "Level 2",
+    "text_en": "I'll send you the screenshot now.",
+    "hint_ru": "Скриншот сейчас пришлю."
+  },
+  {
+    "id": 1473,
+    "block": "Level 2",
+    "text_en": "Can you message them, please?",
+    "hint_ru": "Можете ли вы им написать, пожалуйста?"
+  },
+  {
+    "id": 1474,
+    "block": "Level 2",
+    "text_en": "I'll send you the screenshot this evening.",
+    "hint_ru": "Скриншот пришлю вам сегодня вечером."
+  },
+  {
+    "id": 1475,
+    "block": "Level 2",
+    "text_en": "I'll call my friend next week.",
+    "hint_ru": "Я позвоню своему другу на следующей неделе."
+  },
+  {
+    "id": 1476,
+    "block": "Level 2",
+    "text_en": "I'll text her next week.",
+    "hint_ru": "Я напишу ей на следующей неделе."
+  },
+  {
+    "id": 1477,
+    "block": "Level 2",
+    "text_en": "I'll message her this evening.",
+    "hint_ru": "Я напишу ей сегодня вечером."
+  },
+  {
+    "id": 1478,
+    "block": "Level 2",
+    "text_en": "I'll message my colleague next week.",
+    "hint_ru": "Я напишу своему коллеге на следующей неделе."
+  },
+  {
+    "id": 1479,
+    "block": "Level 2",
+    "text_en": "I'll text my boss today.",
+    "hint_ru": "Сегодня я напишу своему боссу."
+  },
+  {
+    "id": 1480,
+    "block": "Level 2",
+    "text_en": "Please send me the document.",
+    "hint_ru": "Пожалуйста, пришлите мне документ."
+  },
+  {
+    "id": 1481,
+    "block": "Level 2",
+    "text_en": "I'll text you later.",
+    "hint_ru": "Я напишу тебе позже."
+  },
+  {
+    "id": 1482,
+    "block": "Level 2",
+    "text_en": "I'll text him this evening.",
+    "hint_ru": "Я напишу ему сегодня вечером."
+  },
+  {
+    "id": 1483,
+    "block": "Level 2",
+    "text_en": "I'll message him now.",
+    "hint_ru": "Я напишу ему сейчас."
+  },
+  {
+    "id": 1484,
+    "block": "Level 2",
+    "text_en": "I'll text her this evening.",
+    "hint_ru": "Я напишу ей сегодня вечером."
+  },
+  {
+    "id": 1485,
+    "block": "Level 2",
+    "text_en": "I'll send you the screenshot next week.",
+    "hint_ru": "Я пришлю вам скриншот на следующей неделе."
+  },
+  {
+    "id": 1486,
+    "block": "Level 2",
+    "text_en": "I'll text you this evening.",
+    "hint_ru": "Я напишу тебе сегодня вечером."
+  },
+  {
+    "id": 1487,
+    "block": "Level 2",
+    "text_en": "I'll reply in a minute.",
+    "hint_ru": "Я отвечу через минуту."
+  },
+  {
+    "id": 1488,
+    "block": "Level 2",
+    "text_en": "I'll call my friend tomorrow.",
+    "hint_ru": "Завтра позвоню другу."
+  },
+  {
+    "id": 1489,
+    "block": "Level 2",
+    "text_en": "I'll message them today.",
+    "hint_ru": "Я напишу им сегодня."
+  },
+  {
+    "id": 1490,
+    "block": "Level 2",
+    "text_en": "Can you call my friend, please?",
+    "hint_ru": "Можешь позвонить моему другу, пожалуйста?"
+  },
+  {
+    "id": 1491,
+    "block": "Level 2",
+    "text_en": "Please send me the screenshot.",
+    "hint_ru": "Пожалуйста, пришлите мне скриншот."
+  },
+  {
+    "id": 1492,
+    "block": "Level 2",
+    "text_en": "I'll message my family tomorrow.",
+    "hint_ru": "Завтра я отправлю сообщение своей семье."
+  },
+  {
+    "id": 1493,
+    "block": "Level 2",
+    "text_en": "I'll call them later.",
+    "hint_ru": "Я позвоню им позже."
+  },
+  {
+    "id": 1494,
+    "block": "Level 2",
+    "text_en": "Can you text my friend, please?",
+    "hint_ru": "Можешь написать моему другу, пожалуйста?"
+  },
+  {
+    "id": 1495,
+    "block": "Level 2",
+    "text_en": "I'll send you your location later.",
+    "hint_ru": "Я пришлю вам ваше местоположение позже."
+  },
+  {
+    "id": 1496,
+    "block": "Level 2",
+    "text_en": "I'll message my friend tomorrow.",
+    "hint_ru": "Я напишу своему другу завтра."
+  },
+  {
+    "id": 1497,
+    "block": "Level 2",
+    "text_en": "I'll send you the link next week.",
+    "hint_ru": "Я пришлю вам ссылку на следующей неделе."
+  },
+  {
+    "id": 1498,
+    "block": "Level 2",
+    "text_en": "Please send me the file.",
+    "hint_ru": "Пожалуйста, пришлите мне файл."
+  },
+  {
+    "id": 1499,
+    "block": "Level 2",
+    "text_en": "I'll message her now.",
+    "hint_ru": "Я напишу ей сейчас."
+  },
+  {
+    "id": 1500,
+    "block": "Level 2",
+    "text_en": "I'll call her now.",
+    "hint_ru": "Я позвоню ей сейчас."
+  },
+  {
+    "id": 1501,
+    "block": "Level 2",
+    "text_en": "I'll text my friend today.",
+    "hint_ru": "Сегодня я напишу своему другу."
+  }
+]

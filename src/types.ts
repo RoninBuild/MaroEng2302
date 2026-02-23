@@ -14,6 +14,7 @@ export interface Frame {
     block: BlockType;
     text_en: string;
     hint_ru: string;
+    distractors?: string[]; // Pre-curated wrong answers from baza666.xlsx
 }
 
 export interface UserProgressFrame {

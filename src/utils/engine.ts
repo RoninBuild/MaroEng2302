@@ -15,7 +15,7 @@ export function getTodayQueue(state: AppState) {
     const courseFrames = getCourseFrames(state);
 
     const unseenFrames = courseFrames.filter(f => !state.progress[f.id]);
-    // Shuffle unseen frames so daily new cards are random
+    // Shuffle so daily new cards are random
     const shuffled = [...unseenFrames].sort(() => Math.random() - 0.5);
     const newCards = shuffled.slice(0, state.dailyNewCount);
 
@@ -28,96 +28,81 @@ export function getTodayQueue(state: AppState) {
     return { newCards, reviewCards };
 }
 
-// ─── Smart Distractor Generation ────────────────────────────────────────────
-// Extract the "subject" (first word) from an English frame
-function getSubject(text: string): string {
-    return text.split(' ')[0].toLowerCase();
-}
+// ─── Similarity Scoring (fallback when no pre-built distractors) ─────────────
+function getFirstTwo(text: string) { return text.split(' ').slice(0, 2).join(' ').toLowerCase(); }
+function getFirstThree(text: string) { return text.split(' ').slice(0, 3).join(' ').toLowerCase(); }
 
-// Extract first 2 words (subject + first verb/auxiliary)
-function getFirstTwo(text: string): string {
-    return text.split(' ').slice(0, 2).join(' ').toLowerCase();
-}
-
-// Extract first 3 words
-function getFirstThree(text: string): string {
-    return text.split(' ').slice(0, 3).join(' ').toLowerCase();
-}
-
-// Score how "confusable" a candidate is with the target frame
-// Higher = more similar = better distractor
 function similarityScore(target: Frame, candidate: Frame): number {
     let score = 0;
-
     const tWords = target.text_en.toLowerCase().split(/\W+/).filter(Boolean);
     const cWords = candidate.text_en.toLowerCase().split(/\W+/).filter(Boolean);
 
-    // Same first word (subject): "I", "You", "She", etc.
-    if (getSubject(target.text_en) === getSubject(candidate.text_en)) score += 5;
-
-    // Same first 2 words (e.g. "I am", "I want", "you are")
+    if (target.text_en.split(' ')[0].toLowerCase() === candidate.text_en.split(' ')[0].toLowerCase()) score += 5;
     if (getFirstTwo(target.text_en) === getFirstTwo(candidate.text_en)) score += 8;
-
-    // Same first 3 words
     if (getFirstThree(target.text_en) === getFirstThree(candidate.text_en)) score += 12;
-
-    // Same block
     if (target.block === candidate.block) score += 3;
 
-    // Shared key words (not filler)
     const fillers = new Set(['i', 'to', 'a', 'an', 'the', 'is', 'are', 'was', 'be', 'of', 'in', 'and', 'it', 'not']);
-    const targetKeyWords = tWords.filter(w => w.length > 2 && !fillers.has(w));
-    const candidateKeyWords = new Set(cWords.filter(w => w.length > 2 && !fillers.has(w)));
-    const shared = targetKeyWords.filter(w => candidateKeyWords.has(w));
-    score += shared.length * 2;
-
-    // Similar phrase length (±2 words)
+    const targetKeys = tWords.filter(w => w.length > 2 && !fillers.has(w));
+    const candidateKeys = new Set(cWords.filter(w => w.length > 2 && !fillers.has(w)));
+    score += targetKeys.filter(w => candidateKeys.has(w)).length * 2;
     if (Math.abs(tWords.length - cWords.length) <= 2) score += 2;
 
     return score;
 }
 
+// ─── Smart Quiz Options ───────────────────────────────────────────────────────
 export function generateQuizOptions(correctFrame: Frame, count: number = 4): Frame[] {
-    // CRITICAL: only pull distractors from the SAME course as the correct frame
-    // Core frames have clean Russian in hint_ru; Level 2 may have mixed English/Russian
-    const pool = correctFrame.id < 1000 ? CORE_FRAMES : LEVEL2_FRAMES;
 
-    // Score all candidates (excluding the correct frame)
+    // PRIORITY: Use pre-curated distractors from baza666.xlsx
+    if (correctFrame.distractors && correctFrame.distractors.length >= 3) {
+        const shuffled = [...correctFrame.distractors].sort(() => Math.random() - 0.5);
+        const chosen = shuffled.slice(0, count - 1);
+
+        // Build synthetic Frame objects for each distractor string
+        const distractorFrames: Frame[] = chosen.map((text, i) => ({
+            id: -(correctFrame.id * 100 + i + 1), // negative = never matches correct answer
+            block: correctFrame.block,
+            text_en: '',
+            hint_ru: text,
+        }));
+
+        const options = [correctFrame, ...distractorFrames];
+        for (let i = options.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [options[i], options[j]] = [options[j], options[i]];
+        }
+        return options;
+    }
+
+    // FALLBACK: algorithmic similarity (for any frames without pre-built distractors)
+    const pool = correctFrame.id < 1000 ? CORE_FRAMES : LEVEL2_FRAMES;
     const candidates = pool
         .filter(f => f.id !== correctFrame.id)
         .map(f => ({ frame: f, score: similarityScore(correctFrame, f) }));
-
-    // Sort by similarity, descending
     candidates.sort((a, b) => b.score - a.score);
 
-    // Take top (count-1) most similar, but add some randomness among the top tier
-    // Take top 10 and pick randomly from them to avoid always same set
     const topTier = candidates.slice(0, Math.min(12, candidates.length));
-    // Shuffle the top tier
     for (let i = topTier.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
         [topTier[i], topTier[j]] = [topTier[j], topTier[i]];
     }
-
     const distractors = topTier.slice(0, count - 1).map(c => c.frame);
     const options = [correctFrame, ...distractors];
-
-    // Shuffle final options
     for (let i = options.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
         [options[i], options[j]] = [options[j], options[i]];
     }
-
     return options;
 }
 
-// ─── Infinity Mode ───────────────────────────────────────────────────────────
-// Returns all Core frames in a random shuffled order (for endless practice)
+// ─── Infinity Mode ────────────────────────────────────────────────────────────
 export function getInfinityQueue(course: string): Frame[] {
     const frames = course === 'Level 2' ? LEVEL2_FRAMES : CORE_FRAMES;
     return [...frames].sort(() => Math.random() - 0.5);
 }
 
+// ─── Stats ────────────────────────────────────────────────────────────────────
 export function getTotalLearned(state: AppState) {
     const courseFrames = getCourseFrames(state);
     const courseIds = new Set(courseFrames.map(f => f.id));

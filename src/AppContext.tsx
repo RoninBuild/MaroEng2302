@@ -13,7 +13,7 @@ const defaultState: AppState = {
     progress: {},
     streak: 0,
     lastFinishedSessionDate: null,
-    dailyNewCount: 36,
+    dailyNewCount: 50,
     useTyping: true,
     activeCourse: 'Core Challenge',
 };

@@ -297,7 +297,7 @@
     "id": 22,
     "block": "Core",
     "text_en": "I am good at ____ing.",
-    "hint_ru": "Я хорошо умею ____ (делать).",
+    "hint_ru": "I am good at ____ing.",
     "distractors": [
       "Давай(те) ____ сегодня днём.",
       "У меня вопрос насчёт ____.",
@@ -311,7 +311,7 @@
     "id": 23,
     "block": "Core",
     "text_en": "I am bad at ____ing.",
-    "hint_ru": "Я плохо умею ____ (делать).",
+    "hint_ru": "I am bad at ____ing.",
     "distractors": [
       "____, так что ____.",
       "Причина в том, что ____.",
@@ -325,7 +325,7 @@
     "id": 24,
     "block": "Core",
     "text_en": "I am used to ____ing.",
-    "hint_ru": "Я привык(ла) ____ (делать).",
+    "hint_ru": "I am used to ____ing.",
     "distractors": [
       "Тебе/вам стоит ____.",
       "Мне интересно ____ / я интересуюсь ____.",
@@ -339,7 +339,7 @@
     "id": 25,
     "block": "Core",
     "text_en": "I am not used to ____ing.",
-    "hint_ru": "Я не привык(ла) ____ (делать).",
+    "hint_ru": "I am not used to ____ing.",
     "distractors": [
       "У меня проблема с ____.",
       "Это зависит от ____.",
@@ -437,7 +437,7 @@
     "id": 32,
     "block": "Core",
     "text_en": "You want to ____.",
-    "hint_ru": "Ты/вы хочешь(те) ____.",
+    "hint_ru": "You want to ____.",
     "distractors": [
       "Если ____, ____.",
       "Пожалуйста, ____.",
@@ -451,7 +451,7 @@
     "id": 33,
     "block": "Core",
     "text_en": "You need to ____.",
-    "hint_ru": "Тебе/вам нужно ____.",
+    "hint_ru": "You need to ____.",
     "distractors": [
       "Я подумываю о том, чтобы ____.",
       "Я могу ____ на следующей неделе.",
@@ -465,7 +465,7 @@
     "id": 34,
     "block": "Core",
     "text_en": "You have to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "You have to ____.",
     "distractors": [
       "Я могу ____ завтра.",
       "Пожалуйста, ____.",
@@ -479,7 +479,7 @@
     "id": 35,
     "block": "Core",
     "text_en": "You don't have to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "You don't have to ____.",
     "distractors": [
       "Я могу ____ на следующей неделе.",
       "Мне не стоит ____.",
@@ -493,7 +493,7 @@
     "id": 36,
     "block": "Core",
     "text_en": "You would like to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "You would like to ____.",
     "distractors": [
       "Я хочу ____.",
       "Я не могу ____.",
@@ -507,7 +507,7 @@
     "id": 37,
     "block": "Core",
     "text_en": "You would rather ____ than ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "You would rather ____ than ____.",
     "distractors": [
       "Я ищу ____.",
       "Пожалуйста, ____.",
@@ -521,7 +521,7 @@
     "id": 38,
     "block": "Core",
     "text_en": "You prefer to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "You prefer to ____.",
     "distractors": [
       "Раньше я ____.",
       "Стоит ли мне ____?",
@@ -535,7 +535,7 @@
     "id": 39,
     "block": "Core",
     "text_en": "You prefer ____ to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "You prefer ____ to ____.",
     "distractors": [
       "Я не собираюсь ____.",
       "Я могу ____ на этих выходных.",
@@ -549,7 +549,7 @@
     "id": 40,
     "block": "Core",
     "text_en": "You decided to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "You decided to ____.",
     "distractors": [
       "Я должен(на) ____.",
       "Можем ____ сегодня днём?",
@@ -563,7 +563,7 @@
     "id": 41,
     "block": "Core",
     "text_en": "You are going to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "You are going to ____.",
     "distractors": [
       "Пожалуйста, ____.",
       "Я не могу ____.",
@@ -577,7 +577,7 @@
     "id": 42,
     "block": "Core",
     "text_en": "You are not going to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "You are not going to ____.",
     "distractors": [
       "У меня вопрос насчёт ____.",
       "Я могу ____ на этих выходных.",
@@ -591,7 +591,7 @@
     "id": 43,
     "block": "Core",
     "text_en": "You are about to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "You are about to ____.",
     "distractors": [
       "Давай(те) ____ сегодня днём.",
       "Стоит ли мне ____?",
@@ -605,7 +605,7 @@
     "id": 44,
     "block": "Core",
     "text_en": "You are trying to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "You are trying to ____.",
     "distractors": [
       "Перед тем как ____, ____.",
       "У меня проблема с ____.",
@@ -619,7 +619,7 @@
     "id": 45,
     "block": "Core",
     "text_en": "You are thinking about ____ing.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "You are thinking about ____ing.",
     "distractors": [
       "У меня есть идея: ____.",
       "Я должен(на) ____.",
@@ -633,7 +633,7 @@
     "id": 46,
     "block": "Core",
     "text_en": "You are looking for ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "You are looking for ____.",
     "distractors": [
       "У меня проблема с ____.",
       "Я хочу ____.",
@@ -647,7 +647,7 @@
     "id": 47,
     "block": "Core",
     "text_en": "You are ready to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "You are ready to ____.",
     "distractors": [
       "У меня есть идея: ____.",
       "Пожалуйста, ____.",
@@ -661,7 +661,7 @@
     "id": 48,
     "block": "Core",
     "text_en": "You are not ready to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "You are not ready to ____.",
     "distractors": [
       "Сначала ____. Потом ____.",
       "Мне нужно снова ____.",
@@ -675,7 +675,7 @@
     "id": 49,
     "block": "Core",
     "text_en": "You are interested in ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "You are interested in ____.",
     "distractors": [
       "У меня вопрос насчёт ____.",
       "Пожалуйста, ____.",
@@ -689,7 +689,7 @@
     "id": 50,
     "block": "Core",
     "text_en": "You are worried about ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "You are worried about ____.",
     "distractors": [
       "Давай(те) ____ позже.",
       "Есть ____.",
@@ -703,7 +703,7 @@
     "id": 51,
     "block": "Core",
     "text_en": "You are excited about ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "You are excited about ____.",
     "distractors": [
       "Я пытаюсь ____.",
       "Если ____, ____.",
@@ -717,7 +717,7 @@
     "id": 52,
     "block": "Core",
     "text_en": "You are afraid of ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "You are afraid of ____.",
     "distractors": [
       "Пожалуйста, ____.",
       "Я могу ____ на этих выходных.",
@@ -731,7 +731,7 @@
     "id": 53,
     "block": "Core",
     "text_en": "You are good at ____ing.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "You are good at ____ing.",
     "distractors": [
       "Давай(те) ____ сегодня днём.",
       "Я пытаюсь ____.",
@@ -745,7 +745,7 @@
     "id": 54,
     "block": "Core",
     "text_en": "You are bad at ____ing.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "You are bad at ____ing.",
     "distractors": [
       "Пожалуйста, ____.",
       "По-моему, ____.",
@@ -759,7 +759,7 @@
     "id": 55,
     "block": "Core",
     "text_en": "You are used to ____ing.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "You are used to ____ing.",
     "distractors": [
       "Перед тем как ____, ____.",
       "Я не привык(ла) ____ (делать).",
@@ -773,7 +773,7 @@
     "id": 56,
     "block": "Core",
     "text_en": "You are not used to ____ing.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "You are not used to ____ing.",
     "distractors": [
       "Пожалуйста, ____.",
       "Когда ____, ____.",
@@ -787,7 +787,7 @@
     "id": 57,
     "block": "Core",
     "text_en": "You have time to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "You have time to ____.",
     "distractors": [
       "Я пытаюсь ____.",
       "Давай(те) ____ сегодня днём.",
@@ -801,7 +801,7 @@
     "id": 58,
     "block": "Core",
     "text_en": "You have no time to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "You have no time to ____.",
     "distractors": [
       "Пожалуйста, ____.",
       "Мне нужно снова ____.",
@@ -815,7 +815,7 @@
     "id": 59,
     "block": "Core",
     "text_en": "You have a question about ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "You have a question about ____.",
     "distractors": [
       "У меня вопрос насчёт ____.",
       "Пожалуйста, ____.",
@@ -829,7 +829,7 @@
     "id": 60,
     "block": "Core",
     "text_en": "You have a problem with ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "You have a problem with ____.",
     "distractors": [
       "Это зависит от ____.",
       "Я хочу ____.",
@@ -843,7 +843,7 @@
     "id": 61,
     "block": "Core",
     "text_en": "You have an idea: ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "You have an idea: ____.",
     "distractors": [
       "Потому что ____, ____.",
       "Можем ____ прямо сейчас?",
@@ -857,7 +857,7 @@
     "id": 62,
     "block": "Core",
     "text_en": "You have to ____ again.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "You have to ____ again.",
     "distractors": [
       "Тебе/вам стоит ____.",
       "Я могу ____ на этих выходных.",
@@ -871,7 +871,7 @@
     "id": 63,
     "block": "Core",
     "text_en": "We want to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "We want to ____.",
     "distractors": [
       "У меня вопрос насчёт ____.",
       "У меня недостаточно ____.",
@@ -885,7 +885,7 @@
     "id": 64,
     "block": "Core",
     "text_en": "We need to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "We need to ____.",
     "distractors": [
       "Я предпочитаю ____.",
       "Мне не стоит ____.",
@@ -899,7 +899,7 @@
     "id": 65,
     "block": "Core",
     "text_en": "We have to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "We have to ____.",
     "distractors": [
       "Пожалуйста, ____.",
       "Я не могу ____.",
@@ -913,7 +913,7 @@
     "id": 66,
     "block": "Core",
     "text_en": "We don't have to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "We don't have to ____.",
     "distractors": [
       "Пожалуйста, ____.",
       "Сначала ____. Потом ____.",
@@ -927,7 +927,7 @@
     "id": 67,
     "block": "Core",
     "text_en": "We would like to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "We would like to ____.",
     "distractors": [
       "Пожалуйста, ____.",
       "Это зависит от ____.",
@@ -941,7 +941,7 @@
     "id": 68,
     "block": "Core",
     "text_en": "We would rather ____ than ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "We would rather ____ than ____.",
     "distractors": [
       "Я бы лучше ____, чем ____.",
       "Раньше я ____.",
@@ -955,7 +955,7 @@
     "id": 69,
     "block": "Core",
     "text_en": "We prefer to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "We prefer to ____.",
     "distractors": [
       "Раньше я ____.",
       "Я не собираюсь ____.",
@@ -969,7 +969,7 @@
     "id": 70,
     "block": "Core",
     "text_en": "We prefer ____ to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "We prefer ____ to ____.",
     "distractors": [
       "У меня нет времени ____.",
       "Я могу ____.",
@@ -983,7 +983,7 @@
     "id": 71,
     "block": "Core",
     "text_en": "We decided to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "We decided to ____.",
     "distractors": [
       "Причина в том, что ____.",
       "Мне нужно снова ____.",
@@ -997,7 +997,7 @@
     "id": 72,
     "block": "Core",
     "text_en": "We are going to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "We are going to ____.",
     "distractors": [
       "Я не могу ____ завтра.",
       "Ты/вы хочешь(те) ____?",
@@ -1011,7 +1011,7 @@
     "id": 73,
     "block": "Core",
     "text_en": "We are not going to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "We are not going to ____.",
     "distractors": [
       "Я пытаюсь ____.",
       "Раньше я ____.",
@@ -1025,7 +1025,7 @@
     "id": 74,
     "block": "Core",
     "text_en": "We are about to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "We are about to ____.",
     "distractors": [
       "У меня вопрос насчёт ____.",
       "Честно говоря, ____.",
@@ -1039,7 +1039,7 @@
     "id": 75,
     "block": "Core",
     "text_en": "We are trying to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "We are trying to ____.",
     "distractors": [
       "Пожалуйста, ____.",
       "Я решил(а) ____.",
@@ -1053,7 +1053,7 @@
     "id": 76,
     "block": "Core",
     "text_en": "We are thinking about ____ing.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "We are thinking about ____ing.",
     "distractors": [
       "Когда ____, ____.",
       "Я не могу ____ сегодня.",
@@ -1067,7 +1067,7 @@
     "id": 77,
     "block": "Core",
     "text_en": "We are looking for ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "We are looking for ____.",
     "distractors": [
       "Давай(те) ____ сегодня днём.",
       "Я не могу ____.",
@@ -1081,7 +1081,7 @@
     "id": 78,
     "block": "Core",
     "text_en": "We are ready to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "We are ready to ____.",
     "distractors": [
       "Пожалуйста, ____.",
       "Я должен(на) ____.",
@@ -1095,7 +1095,7 @@
     "id": 79,
     "block": "Core",
     "text_en": "We are not ready to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "We are not ready to ____.",
     "distractors": [
       "Я ищу ____.",
       "Я должен(на) ____.",
@@ -1109,7 +1109,7 @@
     "id": 80,
     "block": "Core",
     "text_en": "We are interested in ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "We are interested in ____.",
     "distractors": [
       "У меня нет времени ____.",
       "Давай(те) ____ на этих выходных.",
@@ -1123,7 +1123,7 @@
     "id": 81,
     "block": "Core",
     "text_en": "We are worried about ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "We are worried about ____.",
     "distractors": [
       "Я могу ____ завтра.",
       "У меня нет времени ____.",
@@ -1137,7 +1137,7 @@
     "id": 82,
     "block": "Core",
     "text_en": "We are excited about ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "We are excited about ____.",
     "distractors": [
       "Я могу ____ завтра.",
       "Тебе/вам нужно ____.",
@@ -1151,7 +1151,7 @@
     "id": 83,
     "block": "Core",
     "text_en": "We are afraid of ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "We are afraid of ____.",
     "distractors": [
       "Я бы лучше ____, чем ____.",
       "Я хочу ____.",
@@ -1165,7 +1165,7 @@
     "id": 84,
     "block": "Core",
     "text_en": "We are good at ____ing.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "We are good at ____ing.",
     "distractors": [
       "Я могу ____ завтра.",
       "Я не могу ____ на следующей неделе.",
@@ -1179,7 +1179,7 @@
     "id": 85,
     "block": "Core",
     "text_en": "We are bad at ____ing.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "We are bad at ____ing.",
     "distractors": [
       "Тебе/вам стоит ____.",
       "Когда ____, ____.",
@@ -1193,7 +1193,7 @@
     "id": 86,
     "block": "Core",
     "text_en": "We are used to ____ing.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "We are used to ____ing.",
     "distractors": [
       "Я ищу ____.",
       "Я бы хотел(а) ____.",
@@ -1207,7 +1207,7 @@
     "id": 87,
     "block": "Core",
     "text_en": "We are not used to ____ing.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "We are not used to ____ing.",
     "distractors": [
       "Если ____, ____.",
       "Я должен(на) ____.",
@@ -1221,7 +1221,7 @@
     "id": 88,
     "block": "Core",
     "text_en": "We have time to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "We have time to ____.",
     "distractors": [
       "Я бы лучше ____, чем ____.",
       "Стоит ли мне ____?",
@@ -1235,7 +1235,7 @@
     "id": 89,
     "block": "Core",
     "text_en": "We have no time to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "We have no time to ____.",
     "distractors": [
       "Я бы лучше ____, чем ____.",
       "У меня нет времени ____.",
@@ -1249,7 +1249,7 @@
     "id": 90,
     "block": "Core",
     "text_en": "We have a question about ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "We have a question about ____.",
     "distractors": [
       "Пожалуйста, ____.",
       "Тебе/вам стоит ____.",
@@ -1263,7 +1263,7 @@
     "id": 91,
     "block": "Core",
     "text_en": "We have a problem with ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "We have a problem with ____.",
     "distractors": [
       "Пожалуйста, ____.",
       "Мне нужно снова ____.",
@@ -1277,7 +1277,7 @@
     "id": 92,
     "block": "Core",
     "text_en": "We have an idea: ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "We have an idea: ____.",
     "distractors": [
       "Пожалуйста, ____.",
       "Давай(те) ____ позже.",
@@ -1291,7 +1291,7 @@
     "id": 93,
     "block": "Core",
     "text_en": "We have to ____ again.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "We have to ____ again.",
     "distractors": [
       "Я не думаю, что ____.",
       "Я не могу ____ прямо сейчас.",
@@ -1305,7 +1305,7 @@
     "id": 94,
     "block": "Core",
     "text_en": "They want to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "They want to ____.",
     "distractors": [
       "Пожалуйста, ____.",
       "Давай(те) ____ позже.",
@@ -1319,7 +1319,7 @@
     "id": 95,
     "block": "Core",
     "text_en": "They need to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "They need to ____.",
     "distractors": [
       "Пожалуйста, ____.",
       "Я подумываю о том, чтобы ____.",
@@ -1333,7 +1333,7 @@
     "id": 96,
     "block": "Core",
     "text_en": "They have to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "They have to ____.",
     "distractors": [
       "У меня проблема с ____.",
       "Пожалуйста, ____.",
@@ -1347,7 +1347,7 @@
     "id": 97,
     "block": "Core",
     "text_en": "They don't have to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "They don't have to ____.",
     "distractors": [
       "Честно говоря, ____.",
       "Стоит ли мне ____?",
@@ -1361,7 +1361,7 @@
     "id": 98,
     "block": "Core",
     "text_en": "They would like to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "They would like to ____.",
     "distractors": [
       "У меня проблема с ____.",
       "У меня есть идея: ____.",
@@ -1375,7 +1375,7 @@
     "id": 99,
     "block": "Core",
     "text_en": "They would rather ____ than ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "They would rather ____ than ____.",
     "distractors": [
       "Честно говоря, ____.",
       "Пожалуйста, ____.",
@@ -1389,7 +1389,7 @@
     "id": 100,
     "block": "Core",
     "text_en": "They prefer to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "They prefer to ____.",
     "distractors": [
       "Пожалуйста, ____.",
       "Это зависит от ____.",
@@ -1403,7 +1403,7 @@
     "id": 101,
     "block": "Core",
     "text_en": "They prefer ____ to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "They prefer ____ to ____.",
     "distractors": [
       "Я ищу ____.",
       "Пожалуйста, ____.",
@@ -1417,7 +1417,7 @@
     "id": 102,
     "block": "Core",
     "text_en": "They decided to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "They decided to ____.",
     "distractors": [
       "Если ____, ____.",
       "У меня недостаточно ____.",
@@ -1431,7 +1431,7 @@
     "id": 103,
     "block": "Core",
     "text_en": "They are going to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "They are going to ____.",
     "distractors": [
       "Честно говоря, ____.",
       "Если ____, ____.",
@@ -1445,7 +1445,7 @@
     "id": 104,
     "block": "Core",
     "text_en": "They are not going to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "They are not going to ____.",
     "distractors": [
       "Я ищу ____.",
       "Тебе/вам нужно ____.",
@@ -1459,7 +1459,7 @@
     "id": 105,
     "block": "Core",
     "text_en": "They are about to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "They are about to ____.",
     "distractors": [
       "Я бы лучше ____, чем ____.",
       "Если ____, ____.",
@@ -1473,7 +1473,7 @@
     "id": 106,
     "block": "Core",
     "text_en": "They are trying to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "They are trying to ____.",
     "distractors": [
       "Я не могу ____ на этих выходных.",
       "Можем ____ на этих выходных?",
@@ -1487,7 +1487,7 @@
     "id": 107,
     "block": "Core",
     "text_en": "They are thinking about ____ing.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "They are thinking about ____ing.",
     "distractors": [
       "Если ____, ____.",
       "Вообще-то, ____.",
@@ -1501,7 +1501,7 @@
     "id": 108,
     "block": "Core",
     "text_en": "They are looking for ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "They are looking for ____.",
     "distractors": [
       "Пожалуйста, ____.",
       "Я готов(а) ____.",
@@ -1515,7 +1515,7 @@
     "id": 109,
     "block": "Core",
     "text_en": "They are ready to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "They are ready to ____.",
     "distractors": [
       "Стоит ли мне ____?",
       "Это зависит от ____.",
@@ -1529,7 +1529,7 @@
     "id": 110,
     "block": "Core",
     "text_en": "They are not ready to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "They are not ready to ____.",
     "distractors": [
       "Кажется, что ____.",
       "Я должен(на) ____.",
@@ -1543,7 +1543,7 @@
     "id": 111,
     "block": "Core",
     "text_en": "They are interested in ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "They are interested in ____.",
     "distractors": [
       "Я не могу ____ сегодня.",
       "Давай(те) ____ на следующей неделе.",
@@ -1557,7 +1557,7 @@
     "id": 112,
     "block": "Core",
     "text_en": "They are worried about ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "They are worried about ____.",
     "distractors": [
       "Раньше я ____.",
       "Это зависит от ____.",
@@ -1571,7 +1571,7 @@
     "id": 113,
     "block": "Core",
     "text_en": "They are excited about ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "They are excited about ____.",
     "distractors": [
       "У меня нет времени ____.",
       "Если ____, ____.",
@@ -1585,7 +1585,7 @@
     "id": 114,
     "block": "Core",
     "text_en": "They are afraid of ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "They are afraid of ____.",
     "distractors": [
       "Давай(те) ____ сегодня днём.",
       "Когда ____, ____.",
@@ -1599,7 +1599,7 @@
     "id": 115,
     "block": "Core",
     "text_en": "They are good at ____ing.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "They are good at ____ing.",
     "distractors": [
       "У меня вопрос насчёт ____.",
       "Сначала ____. Потом ____.",
@@ -1613,7 +1613,7 @@
     "id": 116,
     "block": "Core",
     "text_en": "They are bad at ____ing.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "They are bad at ____ing.",
     "distractors": [
       "Я могу ____ завтра.",
       "Сначала ____. Потом ____.",
@@ -1627,7 +1627,7 @@
     "id": 117,
     "block": "Core",
     "text_en": "They are used to ____ing.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "They are used to ____ing.",
     "distractors": [
       "Я не думаю, что ____.",
       "Мне нужно снова ____.",
@@ -1641,7 +1641,7 @@
     "id": 118,
     "block": "Core",
     "text_en": "They are not used to ____ing.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "They are not used to ____ing.",
     "distractors": [
       "У меня проблема с ____.",
       "Стоит ли мне ____?",
@@ -1655,7 +1655,7 @@
     "id": 119,
     "block": "Core",
     "text_en": "They have time to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "They have time to ____.",
     "distractors": [
       "Я бы лучше ____, чем ____.",
       "Пожалуйста, ____.",
@@ -1669,7 +1669,7 @@
     "id": 120,
     "block": "Core",
     "text_en": "They have no time to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "They have no time to ____.",
     "distractors": [
       "Я не привык(ла) ____ (делать).",
       "Есть ____.",
@@ -1683,7 +1683,7 @@
     "id": 121,
     "block": "Core",
     "text_en": "They have a question about ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "They have a question about ____.",
     "distractors": [
       "____, так что ____.",
       "Это зависит от ____.",
@@ -1697,7 +1697,7 @@
     "id": 122,
     "block": "Core",
     "text_en": "They have a problem with ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "They have a problem with ____.",
     "distractors": [
       "Давай(те) ____ сегодня днём.",
       "Пожалуйста, ____.",
@@ -1711,7 +1711,7 @@
     "id": 123,
     "block": "Core",
     "text_en": "They have an idea: ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "They have an idea: ____.",
     "distractors": [
       "У меня проблема с ____.",
       "Потому что ____, ____.",
@@ -1725,7 +1725,7 @@
     "id": 124,
     "block": "Core",
     "text_en": "They have to ____ again.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "They have to ____ again.",
     "distractors": [
       "Я могу ____.",
       "Тебе/вам стоит ____.",
@@ -1739,7 +1739,7 @@
     "id": 125,
     "block": "Core",
     "text_en": "He wants to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "He wants to ____.",
     "distractors": [
       "Пожалуйста, ____.",
       "Я готов(а) ____.",
@@ -1753,7 +1753,7 @@
     "id": 126,
     "block": "Core",
     "text_en": "He needs to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "He needs to ____.",
     "distractors": [
       "Тебе/вам стоит ____.",
       "Я не могу ____.",
@@ -1767,7 +1767,7 @@
     "id": 127,
     "block": "Core",
     "text_en": "He has to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "He has to ____.",
     "distractors": [
       "Когда ____, ____.",
       "Я не могу ____ сегодня.",
@@ -1781,7 +1781,7 @@
     "id": 128,
     "block": "Core",
     "text_en": "He doesn't have to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "He doesn't have to ____.",
     "distractors": [
       "Перед тем как ____, ____.",
       "Я должен(на) ____.",
@@ -1795,7 +1795,7 @@
     "id": 129,
     "block": "Core",
     "text_en": "He would like to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "He would like to ____.",
     "distractors": [
       "Перед тем как ____, ____.",
       "Пожалуйста, ____.",
@@ -1809,7 +1809,7 @@
     "id": 130,
     "block": "Core",
     "text_en": "He would rather ____ than ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "He would rather ____ than ____.",
     "distractors": [
       "Я могу ____ завтра.",
       "Я могу ____.",
@@ -1823,7 +1823,7 @@
     "id": 131,
     "block": "Core",
     "text_en": "He prefers to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "He prefers to ____.",
     "distractors": [
       "Когда ____, ____.",
       "Мне нужно снова ____.",
@@ -1837,7 +1837,7 @@
     "id": 132,
     "block": "Core",
     "text_en": "He prefers ____ to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "He prefers ____ to ____.",
     "distractors": [
       "Давай(те) ____ на этих выходных.",
       "Я не думаю, что ____.",
@@ -1851,7 +1851,7 @@
     "id": 133,
     "block": "Core",
     "text_en": "He decided to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "He decided to ____.",
     "distractors": [
       "У меня есть идея: ____.",
       "Я не собираюсь ____.",
@@ -1865,7 +1865,7 @@
     "id": 134,
     "block": "Core",
     "text_en": "He is going to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "He is going to ____.",
     "distractors": [
       "Кажется, что ____.",
       "У меня вопрос насчёт ____.",
@@ -1879,7 +1879,7 @@
     "id": 135,
     "block": "Core",
     "text_en": "He is not going to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "He is not going to ____.",
     "distractors": [
       "Я не думаю, что ____.",
       "Мне не стоит ____.",
@@ -1893,7 +1893,7 @@
     "id": 136,
     "block": "Core",
     "text_en": "He is about to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "He is about to ____.",
     "distractors": [
       "У меня нет времени ____.",
       "У меня недостаточно ____.",
@@ -1907,7 +1907,7 @@
     "id": 137,
     "block": "Core",
     "text_en": "He is trying to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "He is trying to ____.",
     "distractors": [
       "Пожалуйста, ____.",
       "Мне нужно / я должен(на) ____.",
@@ -1921,7 +1921,7 @@
     "id": 138,
     "block": "Core",
     "text_en": "He is thinking about ____ing.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "He is thinking about ____ing.",
     "distractors": [
       "Я хочу ____.",
       "Можем ____ на следующей неделе?",
@@ -1935,7 +1935,7 @@
     "id": 139,
     "block": "Core",
     "text_en": "He is looking for ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "He is looking for ____.",
     "distractors": [
       "Пожалуйста, ____.",
       "Я не могу ____ на этих выходных.",
@@ -1949,7 +1949,7 @@
     "id": 140,
     "block": "Core",
     "text_en": "He is ready to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "He is ready to ____.",
     "distractors": [
       "У меня проблема с ____.",
       "Мне не стоит ____.",
@@ -1963,7 +1963,7 @@
     "id": 141,
     "block": "Core",
     "text_en": "He is not ready to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "He is not ready to ____.",
     "distractors": [
       "Если ____, ____.",
       "По-моему, ____.",
@@ -1977,7 +1977,7 @@
     "id": 142,
     "block": "Core",
     "text_en": "He is interested in ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "He is interested in ____.",
     "distractors": [
       "Это зависит от ____.",
       "Пожалуйста, ____.",
@@ -1991,7 +1991,7 @@
     "id": 143,
     "block": "Core",
     "text_en": "He is worried about ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "He is worried about ____.",
     "distractors": [
       "Причина в том, что ____.",
       "Мне стоит ____.",
@@ -2005,7 +2005,7 @@
     "id": 144,
     "block": "Core",
     "text_en": "He is excited about ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "He is excited about ____.",
     "distractors": [
       "Раньше я ____.",
       "Я не могу ____ завтра.",
@@ -2019,7 +2019,7 @@
     "id": 145,
     "block": "Core",
     "text_en": "He is afraid of ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "He is afraid of ____.",
     "distractors": [
       "Пожалуйста, ____.",
       "Потому что ____, ____.",
@@ -2033,7 +2033,7 @@
     "id": 146,
     "block": "Core",
     "text_en": "He is good at ____ing.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "He is good at ____ing.",
     "distractors": [
       "У меня вопрос насчёт ____.",
       "По-моему, ____.",
@@ -2047,7 +2047,7 @@
     "id": 147,
     "block": "Core",
     "text_en": "He is bad at ____ing.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "He is bad at ____ing.",
     "distractors": [
       "Пожалуйста, ____.",
       "Я могу ____ на следующей неделе.",
@@ -2061,7 +2061,7 @@
     "id": 148,
     "block": "Core",
     "text_en": "He is used to ____ing.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "He is used to ____ing.",
     "distractors": [
       "Тебе/вам нужно ____.",
       "Мне нужно / я должен(на) ____.",
@@ -2075,7 +2075,7 @@
     "id": 149,
     "block": "Core",
     "text_en": "He is not used to ____ing.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "He is not used to ____ing.",
     "distractors": [
       "У меня проблема с ____.",
       "Давай(те) ____ сегодня днём.",
@@ -2089,7 +2089,7 @@
     "id": 150,
     "block": "Core",
     "text_en": "He has time to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "He has time to ____.",
     "distractors": [
       "Я бы лучше ____, чем ____.",
       "Давай(те) ____ сегодня днём.",
@@ -2103,7 +2103,7 @@
     "id": 151,
     "block": "Core",
     "text_en": "He has no time to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "He has no time to ____.",
     "distractors": [
       "Я рад(а) / воодушевлён(а) из‑за ____.",
       "Пожалуйста, ____.",
@@ -2117,7 +2117,7 @@
     "id": 152,
     "block": "Core",
     "text_en": "He has a question about ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "He has a question about ____.",
     "distractors": [
       "Я ищу ____.",
       "Раньше я ____.",
@@ -2131,7 +2131,7 @@
     "id": 153,
     "block": "Core",
     "text_en": "He has a problem with ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "He has a problem with ____.",
     "distractors": [
       "Тебе/вам нужно ____.",
       "У меня вопрос насчёт ____.",
@@ -2145,7 +2145,7 @@
     "id": 154,
     "block": "Core",
     "text_en": "He has an idea: ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "He has an idea: ____.",
     "distractors": [
       "Я ищу ____.",
       "Давай(те) ____ на этих выходных.",
@@ -2159,7 +2159,7 @@
     "id": 155,
     "block": "Core",
     "text_en": "He has to ____ again.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "He has to ____ again.",
     "distractors": [
       "Стоит ли мне ____?",
       "У меня недостаточно ____.",
@@ -2173,7 +2173,7 @@
     "id": 156,
     "block": "Core",
     "text_en": "She wants to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "She wants to ____.",
     "distractors": [
       "Причина в том, что ____.",
       "Стоит ли мне ____?",
@@ -2187,7 +2187,7 @@
     "id": 157,
     "block": "Core",
     "text_en": "She needs to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "She needs to ____.",
     "distractors": [
       "Давай(те) ____ сегодня.",
       "Можем ____ сегодня вечером?",
@@ -2201,7 +2201,7 @@
     "id": 158,
     "block": "Core",
     "text_en": "She has to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "She has to ____.",
     "distractors": [
       "Пожалуйста, ____.",
       "Я подумываю о том, чтобы ____.",
@@ -2215,7 +2215,7 @@
     "id": 159,
     "block": "Core",
     "text_en": "She doesn't have to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "She doesn't have to ____.",
     "distractors": [
       "Раньше я ____.",
       "Я готов(а) ____.",
@@ -2229,7 +2229,7 @@
     "id": 160,
     "block": "Core",
     "text_en": "She would like to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "She would like to ____.",
     "distractors": [
       "Я бы лучше ____, чем ____.",
       "Честно говоря, ____.",
@@ -2243,7 +2243,7 @@
     "id": 161,
     "block": "Core",
     "text_en": "She would rather ____ than ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "She would rather ____ than ____.",
     "distractors": [
       "Я не могу ____ завтра.",
       "По-моему, ____.",
@@ -2257,7 +2257,7 @@
     "id": 162,
     "block": "Core",
     "text_en": "She prefers to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "She prefers to ____.",
     "distractors": [
       "Если ____, ____.",
       "Пожалуйста, ____.",
@@ -2271,7 +2271,7 @@
     "id": 163,
     "block": "Core",
     "text_en": "She prefers ____ to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "She prefers ____ to ____.",
     "distractors": [
       "Я могу ____ завтра.",
       "Я рад(а) / воодушевлён(а) из‑за ____.",
@@ -2285,7 +2285,7 @@
     "id": 164,
     "block": "Core",
     "text_en": "She decided to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "She decided to ____.",
     "distractors": [
       "Давай(те) ____ сегодня днём.",
       "Если ____, ____.",
@@ -2299,7 +2299,7 @@
     "id": 165,
     "block": "Core",
     "text_en": "She is going to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "She is going to ____.",
     "distractors": [
       "Я не могу ____ сегодня.",
       "Давай(те) ____ позже.",
@@ -2313,7 +2313,7 @@
     "id": 166,
     "block": "Core",
     "text_en": "She is not going to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "She is not going to ____.",
     "distractors": [
       "Если ____, ____.",
       "Я могу ____ на этих выходных.",
@@ -2327,7 +2327,7 @@
     "id": 167,
     "block": "Core",
     "text_en": "She is about to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "She is about to ____.",
     "distractors": [
       "Перед тем как ____, ____.",
       "Пожалуйста, ____.",
@@ -2341,7 +2341,7 @@
     "id": 168,
     "block": "Core",
     "text_en": "She is trying to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "She is trying to ____.",
     "distractors": [
       "Раньше я ____.",
       "Я не могу ____ сегодня.",
@@ -2355,7 +2355,7 @@
     "id": 169,
     "block": "Core",
     "text_en": "She is thinking about ____ing.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "She is thinking about ____ing.",
     "distractors": [
       "____, так что ____.",
       "Пожалуйста, ____.",
@@ -2369,7 +2369,7 @@
     "id": 170,
     "block": "Core",
     "text_en": "She is looking for ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "She is looking for ____.",
     "distractors": [
       "У меня вопрос насчёт ____.",
       "Я привык(ла) ____ (делать).",
@@ -2383,7 +2383,7 @@
     "id": 171,
     "block": "Core",
     "text_en": "She is ready to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "She is ready to ____.",
     "distractors": [
       "Пожалуйста, ____.",
       "Тебе/вам стоит ____.",
@@ -2397,7 +2397,7 @@
     "id": 172,
     "block": "Core",
     "text_en": "She is not ready to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "She is not ready to ____.",
     "distractors": [
       "Я могу ____.",
       "Я не собираюсь ____.",
@@ -2411,7 +2411,7 @@
     "id": 173,
     "block": "Core",
     "text_en": "She is interested in ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "She is interested in ____.",
     "distractors": [
       "Тебе/вам стоит ____.",
       "Я могу ____ на следующей неделе.",
@@ -2425,7 +2425,7 @@
     "id": 174,
     "block": "Core",
     "text_en": "She is worried about ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "She is worried about ____.",
     "distractors": [
       "Перед тем как ____, ____.",
       "Я не могу ____ завтра.",
@@ -2439,7 +2439,7 @@
     "id": 175,
     "block": "Core",
     "text_en": "She is excited about ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "She is excited about ____.",
     "distractors": [
       "У меня проблема с ____.",
       "Это зависит от ____.",
@@ -2453,7 +2453,7 @@
     "id": 176,
     "block": "Core",
     "text_en": "She is afraid of ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "She is afraid of ____.",
     "distractors": [
       "Стоит ли мне ____?",
       "У меня недостаточно ____.",
@@ -2467,7 +2467,7 @@
     "id": 177,
     "block": "Core",
     "text_en": "She is good at ____ing.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "She is good at ____ing.",
     "distractors": [
       "Честно говоря, ____.",
       "Я должен(на) ____.",
@@ -2481,7 +2481,7 @@
     "id": 178,
     "block": "Core",
     "text_en": "She is bad at ____ing.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "She is bad at ____ing.",
     "distractors": [
       "Тебе/вам нужно ____.",
       "Стоит ли мне ____?",
@@ -2495,7 +2495,7 @@
     "id": 179,
     "block": "Core",
     "text_en": "She is used to ____ing.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "She is used to ____ing.",
     "distractors": [
       "У меня есть идея: ____.",
       "Я готов(а) ____.",
@@ -2509,7 +2509,7 @@
     "id": 180,
     "block": "Core",
     "text_en": "She is not used to ____ing.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "She is not used to ____ing.",
     "distractors": [
       "Я не привык(ла) ____ (делать).",
       "У меня вопрос насчёт ____.",
@@ -2523,7 +2523,7 @@
     "id": 181,
     "block": "Core",
     "text_en": "She has time to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "She has time to ____.",
     "distractors": [
       "Хотя ____, ____.",
       "Я могу ____ на следующей неделе.",
@@ -2537,7 +2537,7 @@
     "id": 182,
     "block": "Core",
     "text_en": "She has no time to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "She has no time to ____.",
     "distractors": [
       "Я пытаюсь ____.",
       "Я не могу ____.",
@@ -2551,7 +2551,7 @@
     "id": 183,
     "block": "Core",
     "text_en": "She has a question about ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "She has a question about ____.",
     "distractors": [
       "У меня есть идея: ____.",
       "Вообще-то, ____.",
@@ -2565,7 +2565,7 @@
     "id": 184,
     "block": "Core",
     "text_en": "She has a problem with ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "She has a problem with ____.",
     "distractors": [
       "Я бы лучше ____, чем ____.",
       "Я не могу ____ сегодня вечером.",
@@ -2579,7 +2579,7 @@
     "id": 185,
     "block": "Core",
     "text_en": "She has an idea: ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "She has an idea: ____.",
     "distractors": [
       "Я могу ____ завтра.",
       "Пожалуйста, ____.",
@@ -2593,7 +2593,7 @@
     "id": 186,
     "block": "Core",
     "text_en": "She has to ____ again.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "She has to ____ again.",
     "distractors": [
       "Пожалуйста, ____.",
       "Я подумываю о том, чтобы ____.",
@@ -2605,7 +2605,7 @@
   },
   {
     "id": 187,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Can you ____?",
     "hint_ru": "Можете ____?",
     "distractors": [
@@ -2619,7 +2619,7 @@
   },
   {
     "id": 188,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Could you ____?",
     "hint_ru": "Не могли бы вы ____?",
     "distractors": [
@@ -2633,7 +2633,7 @@
   },
   {
     "id": 189,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Could you ____, please?",
     "hint_ru": "Не могли бы вы ____, пожалуйста?",
     "distractors": [
@@ -2647,7 +2647,7 @@
   },
   {
     "id": 190,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Would you ____, please?",
     "hint_ru": "Вы могли бы ____, пожалуйста?",
     "distractors": [
@@ -2661,9 +2661,9 @@
   },
   {
     "id": 191,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Would you mind ____ing?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Would you mind ____ing?",
     "distractors": [
       "Тебе/вам стоит ____.",
       "Я не собираюсь ____.",
@@ -2675,9 +2675,9 @@
   },
   {
     "id": 192,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Would you mind if I ____?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Would you mind if I ____?",
     "distractors": [
       "У меня проблема с ____.",
       "Я могу ____ прямо сейчас.",
@@ -2689,9 +2689,9 @@
   },
   {
     "id": 193,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Do you mind if I ____?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Do you mind if I ____?",
     "distractors": [
       "Перед тем как ____, ____.",
       "Я могу ____.",
@@ -2703,9 +2703,9 @@
   },
   {
     "id": 194,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Is it okay if I ____?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Is it okay if I ____?",
     "distractors": [
       "Раньше я ____.",
       "Стоит ли мне ____?",
@@ -2717,9 +2717,9 @@
   },
   {
     "id": 195,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Is it possible to ____?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Is it possible to ____?",
     "distractors": [
       "У меня нет времени ____.",
       "Я пытаюсь ____.",
@@ -2731,9 +2731,9 @@
   },
   {
     "id": 196,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Is there a way to ____?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Is there a way to ____?",
     "distractors": [
       "У меня вопрос насчёт ____.",
       "Я не собираюсь ____.",
@@ -2745,7 +2745,7 @@
   },
   {
     "id": 197,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Can I ____?",
     "hint_ru": "Можно мне ____?",
     "distractors": [
@@ -2759,7 +2759,7 @@
   },
   {
     "id": 198,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Could I ____?",
     "hint_ru": "Могу ли я ____?",
     "distractors": [
@@ -2773,7 +2773,7 @@
   },
   {
     "id": 199,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Should I ____?",
     "hint_ru": "Стоит ли мне ____?",
     "distractors": [
@@ -2787,9 +2787,9 @@
   },
   {
     "id": 200,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Do I need to ____?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Do I need to ____?",
     "distractors": [
       "У меня есть идея: ____.",
       "Я могу ____ прямо сейчас.",
@@ -2801,9 +2801,9 @@
   },
   {
     "id": 201,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Do you want to ____?",
-    "hint_ru": "Ты/вы хочешь(те) ____?",
+    "hint_ru": "Do you want to ____?",
     "distractors": [
       "Потому что ____, ____.",
       "Можем ____ сегодня днём?",
@@ -2815,9 +2815,9 @@
   },
   {
     "id": 202,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Would you like to ____?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Would you like to ____?",
     "distractors": [
       "Я ищу ____.",
       "У меня проблема с ____.",
@@ -2829,9 +2829,9 @@
   },
   {
     "id": 203,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Can we ____?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Can we ____?",
     "distractors": [
       "Я переживаю из‑за ____.",
       "Я могу ____ прямо сейчас.",
@@ -2843,9 +2843,9 @@
   },
   {
     "id": 204,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Could we ____?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Could we ____?",
     "distractors": [
       "Раньше я ____.",
       "Стоит ли мне ____?",
@@ -2857,9 +2857,9 @@
   },
   {
     "id": 205,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Should we ____?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Should we ____?",
     "distractors": [
       "Когда ____, ____.",
       "Я готов(а) ____.",
@@ -2871,9 +2871,9 @@
   },
   {
     "id": 206,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Can you help me with ____?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Can you help me with ____?",
     "distractors": [
       "____, так что ____.",
       "Это зависит от ____.",
@@ -2885,9 +2885,9 @@
   },
   {
     "id": 207,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Can you check ____ for me?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Can you check ____ for me?",
     "distractors": [
       "Я бы лучше ____, чем ____.",
       "Если ____, ____.",
@@ -2899,9 +2899,9 @@
   },
   {
     "id": 208,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Can you send me ____?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Can you send me ____?",
     "distractors": [
       "У меня есть идея: ____.",
       "Тебе/вам нужно ____.",
@@ -2913,9 +2913,9 @@
   },
   {
     "id": 209,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Can you show me ____?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Can you show me ____?",
     "distractors": [
       "Пожалуйста, ____.",
       "Мне нужно / я должен(на) ____.",
@@ -2927,9 +2927,9 @@
   },
   {
     "id": 210,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Can you explain ____?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Can you explain ____?",
     "distractors": [
       "Я бы лучше ____, чем ____.",
       "Я могу ____ на следующей неделе.",
@@ -2941,9 +2941,9 @@
   },
   {
     "id": 211,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "What do you mean by ____?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "What do you mean by ____?",
     "distractors": [
       "Давай(те) ____ сегодня днём.",
       "Я могу ____.",
@@ -2955,9 +2955,9 @@
   },
   {
     "id": 212,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "What’s the difference between ____ and ____?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "What's the difference between ____ and ____?",
     "distractors": [
       "Я могу ____ завтра.",
       "Если ____, ____.",
@@ -2969,9 +2969,9 @@
   },
   {
     "id": 213,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "How long does it take to ____?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "How long does it take to ____?",
     "distractors": [
       "Честно говоря, ____.",
       "Я не думаю, что ____.",
@@ -2983,9 +2983,9 @@
   },
   {
     "id": 214,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "How much does ____ cost?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "How much does ____ cost?",
     "distractors": [
       "Пожалуйста, ____.",
       "Я не думаю, что ____.",
@@ -2997,9 +2997,9 @@
   },
   {
     "id": 215,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "What does ____ mean?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "What does ____ mean?",
     "distractors": [
       "____, так что ____.",
       "Это зависит от ____.",
@@ -3011,9 +3011,9 @@
   },
   {
     "id": 216,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "How do you say ____ in English?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "How do you say ____ in English?",
     "distractors": [
       "Я должен(на) ____.",
       "Я бы хотел(а) ____.",
@@ -3025,9 +3025,9 @@
   },
   {
     "id": 217,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "How do you spell ____?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "How do you spell ____?",
     "distractors": [
       "Я ищу ____.",
       "Тебе/вам нужно ____.",
@@ -3039,9 +3039,9 @@
   },
   {
     "id": 218,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "How do you pronounce ____?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "How do you pronounce ____?",
     "distractors": [
       "Пожалуйста, ____.",
       "Сначала ____. Потом ____.",
@@ -3053,9 +3053,9 @@
   },
   {
     "id": 219,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Can you repeat that?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Can you repeat that?",
     "distractors": [
       "Давай(те) отправить ссылку.",
       "Можете найти вариант получше, пожалуйста?",
@@ -3067,9 +3067,9 @@
   },
   {
     "id": 220,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Can you say that again?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Can you say that again?",
     "distractors": [
       "Мне нужно отправить скриншот.",
       "Можете отправить файл, пожалуйста?",
@@ -3081,9 +3081,9 @@
   },
   {
     "id": 221,
-    "block": "Core",
+    "block": "Clarify / I didn't understand",
     "text_en": "Sorry, I didn’t catch that.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Sorry, I didn't catch that.",
     "distractors": [
       "Я понял(а).",
       "Давай(те) проверить детали.",
@@ -3097,7 +3097,7 @@
     "id": 222,
     "block": "Core",
     "text_en": "Sorry, I didn’t understand.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Sorry, I didn't understand.",
     "distractors": [
       "Я не уверен(а).",
       "Можете проверить расписание, пожалуйста?",
@@ -3109,9 +3109,9 @@
   },
   {
     "id": 223,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Can you speak more slowly?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Can you speak more slowly?",
     "distractors": [
       "Давай(те) найти лучший маршрут.",
       "Давай(те) проверить детали.",
@@ -3123,9 +3123,9 @@
   },
   {
     "id": 224,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Can you give me an example?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Can you give me an example?",
     "distractors": [
       "Мне нужно отправить скриншот.",
       "Мне нужно отправить фото.",
@@ -3137,9 +3137,9 @@
   },
   {
     "id": 225,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Can you write it down?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Can you write it down?",
     "distractors": [
       "Давай(те) проверить цену.",
       "Давай(те) отправить ссылку.",
@@ -3151,9 +3151,9 @@
   },
   {
     "id": 226,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Can you be more specific?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Can you be more specific?",
     "distractors": [
       "Мне нужно подтвердить детали.",
       "Мне нужно отправить скриншот.",
@@ -3277,7 +3277,7 @@
   },
   {
     "id": 235,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "What I mean is, ____.",
     "hint_ru": "Я имею в виду, что ____.",
     "distractors": [
@@ -3307,7 +3307,7 @@
     "id": 237,
     "block": "Core",
     "text_en": "That’s why ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "That's why ____.",
     "distractors": [
       "Давай(те) ____ сегодня днём.",
       "Пожалуйста, ____.",
@@ -3319,7 +3319,7 @@
   },
   {
     "id": 238,
-    "block": "Core",
+    "block": "Reactions / patterns",
     "text_en": "It depends on ____.",
     "hint_ru": "Это зависит от ____.",
     "distractors": [
@@ -3361,9 +3361,9 @@
   },
   {
     "id": 241,
-    "block": "Core",
+    "block": "Connectors / logic",
     "text_en": "I’m not sure if ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "I'm not sure if ____.",
     "distractors": [
       "Пожалуйста, ____.",
       "Давай(те) ____ на этих выходных.",
@@ -3375,9 +3375,9 @@
   },
   {
     "id": 242,
-    "block": "Core",
+    "block": "Reactions / patterns",
     "text_en": "I’m not sure about ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "I'm not sure about ____.",
     "distractors": [
       "Мне нужно снова ____.",
       "Я решил(а) ____.",
@@ -3389,7 +3389,7 @@
   },
   {
     "id": 243,
-    "block": "Core",
+    "block": "Connectors / logic",
     "text_en": "Because ____, ____.",
     "hint_ru": "Потому что ____, ____.",
     "distractors": [
@@ -3403,7 +3403,7 @@
   },
   {
     "id": 244,
-    "block": "Core",
+    "block": "Connectors / logic",
     "text_en": "If ____, ____.",
     "hint_ru": "Если ____, ____.",
     "distractors": [
@@ -3417,7 +3417,7 @@
   },
   {
     "id": 245,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "When ____, ____.",
     "hint_ru": "Когда ____, ____.",
     "distractors": [
@@ -3431,7 +3431,7 @@
   },
   {
     "id": 246,
-    "block": "Core",
+    "block": "Connectors / logic",
     "text_en": "Before ____, ____.",
     "hint_ru": "Перед тем как ____, ____.",
     "distractors": [
@@ -3445,7 +3445,7 @@
   },
   {
     "id": 247,
-    "block": "Core",
+    "block": "Connectors / logic",
     "text_en": "After ____, ____.",
     "hint_ru": "После того как ____, ____.",
     "distractors": [
@@ -3459,7 +3459,7 @@
   },
   {
     "id": 248,
-    "block": "Core",
+    "block": "Connectors / logic",
     "text_en": "Even if ____, ____.",
     "hint_ru": "Даже если ____, ____.",
     "distractors": [
@@ -3487,7 +3487,7 @@
   },
   {
     "id": 250,
-    "block": "Core",
+    "block": "Connectors / logic",
     "text_en": "Although ____, ____.",
     "hint_ru": "Хотя ____, ____.",
     "distractors": [
@@ -3501,7 +3501,7 @@
   },
   {
     "id": 251,
-    "block": "Core",
+    "block": "Connectors / logic",
     "text_en": "____ because ____.",
     "hint_ru": "____, потому что ____.",
     "distractors": [
@@ -3515,7 +3515,7 @@
   },
   {
     "id": 252,
-    "block": "Core",
+    "block": "Connectors / logic",
     "text_en": "____ so ____.",
     "hint_ru": "____, так что ____.",
     "distractors": [
@@ -3529,7 +3529,7 @@
   },
   {
     "id": 253,
-    "block": "Core",
+    "block": "Connectors / logic",
     "text_en": "____ but ____.",
     "hint_ru": "____, но ____.",
     "distractors": [
@@ -3559,7 +3559,7 @@
     "id": 255,
     "block": "Core",
     "text_en": "In the end, ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "In the end, ____.",
     "distractors": [
       "Я подумываю о том, чтобы ____.",
       "Можно мне ____?",
@@ -3573,7 +3573,7 @@
     "id": 256,
     "block": "Core",
     "text_en": "At least ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "At least ____.",
     "distractors": [
       "Причина в том, что ____.",
       "Мне нужно / я должен(на) ____.",
@@ -3585,9 +3585,9 @@
   },
   {
     "id": 257,
-    "block": "Core",
+    "block": "Modals",
     "text_en": "I can ____.",
-    "hint_ru": "Я могу ____.",
+    "hint_ru": "I can ____.",
     "distractors": [
       "Раньше я ____.",
       "Пожалуйста, ____.",
@@ -3601,7 +3601,7 @@
     "id": 258,
     "block": "Core",
     "text_en": "I can’t ____.",
-    "hint_ru": "Я не могу ____.",
+    "hint_ru": "I can't ____.",
     "distractors": [
       "____, так что ____.",
       "Я предпочитаю ____.",
@@ -3613,9 +3613,9 @@
   },
   {
     "id": 259,
-    "block": "Core",
+    "block": "Modals",
     "text_en": "I could ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "I could ____.",
     "distractors": [
       "У меня проблема с ____.",
       "У меня есть идея: ____.",
@@ -3629,7 +3629,7 @@
     "id": 260,
     "block": "Core",
     "text_en": "I couldn’t ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "I couldn't ____.",
     "distractors": [
       "Я могу ____ завтра.",
       "Тебе/вам нужно ____.",
@@ -3641,9 +3641,9 @@
   },
   {
     "id": 261,
-    "block": "Core",
+    "block": "Modals",
     "text_en": "I should ____.",
-    "hint_ru": "Мне стоит ____.",
+    "hint_ru": "I should ____.",
     "distractors": [
       "Пожалуйста, ____.",
       "Мне интересно ____ / я интересуюсь ____.",
@@ -3657,7 +3657,7 @@
     "id": 262,
     "block": "Core",
     "text_en": "I shouldn’t ____.",
-    "hint_ru": "Мне не стоит ____.",
+    "hint_ru": "I shouldn't ____.",
     "distractors": [
       "Я бы лучше ____, чем ____.",
       "Я пытаюсь ____.",
@@ -3669,9 +3669,9 @@
   },
   {
     "id": 263,
-    "block": "Core",
+    "block": "Modals",
     "text_en": "I might ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "I might ____.",
     "distractors": [
       "Вообще-то, ____.",
       "Когда ____, ____.",
@@ -3683,9 +3683,9 @@
   },
   {
     "id": 264,
-    "block": "Core",
+    "block": "Modals",
     "text_en": "I may ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "I may ____.",
     "distractors": [
       "Можно мне ____?",
       "Давай(те) ____ на следующей неделе.",
@@ -3697,9 +3697,9 @@
   },
   {
     "id": 265,
-    "block": "Core",
+    "block": "Modals",
     "text_en": "I must ____.",
-    "hint_ru": "Я должен(на) ____.",
+    "hint_ru": "I must ____.",
     "distractors": [
       "Пожалуйста, ____.",
       "Вообще-то, ____.",
@@ -3711,9 +3711,9 @@
   },
   {
     "id": 266,
-    "block": "Core",
+    "block": "Modals",
     "text_en": "You can ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "You can ____.",
     "distractors": [
       "Тебе/вам нужно ____.",
       "Я не могу ____.",
@@ -3727,7 +3727,7 @@
     "id": 267,
     "block": "Core",
     "text_en": "You can’t ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "You can't ____.",
     "distractors": [
       "Пожалуйста, ____.",
       "Можно мне ____?",
@@ -3739,9 +3739,9 @@
   },
   {
     "id": 268,
-    "block": "Core",
+    "block": "Modals",
     "text_en": "You could ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "You could ____.",
     "distractors": [
       "Я ищу ____.",
       "По-моему, ____.",
@@ -3755,7 +3755,7 @@
     "id": 269,
     "block": "Core",
     "text_en": "You couldn’t ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "You couldn't ____.",
     "distractors": [
       "У меня проблема с ____.",
       "Причина в том, что ____.",
@@ -3767,9 +3767,9 @@
   },
   {
     "id": 270,
-    "block": "Core",
+    "block": "Modals",
     "text_en": "You should ____.",
-    "hint_ru": "Тебе/вам стоит ____.",
+    "hint_ru": "You should ____.",
     "distractors": [
       "Причина в том, что ____.",
       "Пожалуйста, ____.",
@@ -3783,7 +3783,7 @@
     "id": 271,
     "block": "Core",
     "text_en": "You shouldn’t ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "You shouldn't ____.",
     "distractors": [
       "Дело в том, что ____.",
       "Я готов(а) ____.",
@@ -3795,9 +3795,9 @@
   },
   {
     "id": 272,
-    "block": "Core",
+    "block": "Modals",
     "text_en": "You might ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "You might ____.",
     "distractors": [
       "У меня недостаточно ____.",
       "Давай(те) ____ на следующей неделе.",
@@ -3809,9 +3809,9 @@
   },
   {
     "id": 273,
-    "block": "Core",
+    "block": "Modals",
     "text_en": "You may ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "You may ____.",
     "distractors": [
       "Я могу ____ завтра.",
       "У меня есть идея: ____.",
@@ -3823,9 +3823,9 @@
   },
   {
     "id": 274,
-    "block": "Core",
+    "block": "Modals",
     "text_en": "You must ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "You must ____.",
     "distractors": [
       "У меня проблема с ____.",
       "Тебе/вам стоит ____.",
@@ -3837,9 +3837,9 @@
   },
   {
     "id": 275,
-    "block": "Core",
+    "block": "Modals",
     "text_en": "We can ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "We can ____.",
     "distractors": [
       "Я могу ____ завтра.",
       "Я не могу ____ завтра.",
@@ -3853,7 +3853,7 @@
     "id": 276,
     "block": "Core",
     "text_en": "We can’t ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "We can't ____.",
     "distractors": [
       "Я бы лучше ____, чем ____.",
       "Я ищу ____.",
@@ -3865,9 +3865,9 @@
   },
   {
     "id": 277,
-    "block": "Core",
+    "block": "Modals",
     "text_en": "We could ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "We could ____.",
     "distractors": [
       "____, так что ____.",
       "Я ищу ____.",
@@ -3881,7 +3881,7 @@
     "id": 278,
     "block": "Core",
     "text_en": "We couldn’t ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "We couldn't ____.",
     "distractors": [
       "Дело в том, что ____.",
       "Мне интересно ____ / я интересуюсь ____.",
@@ -3893,9 +3893,9 @@
   },
   {
     "id": 279,
-    "block": "Core",
+    "block": "Modals",
     "text_en": "We should ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "We should ____.",
     "distractors": [
       "Я могу ____ на этих выходных.",
       "Мне не стоит ____.",
@@ -3909,7 +3909,7 @@
     "id": 280,
     "block": "Core",
     "text_en": "We shouldn’t ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "We shouldn't ____.",
     "distractors": [
       "Давай(те) ____ сегодня днём.",
       "Я пытаюсь ____.",
@@ -3921,9 +3921,9 @@
   },
   {
     "id": 281,
-    "block": "Core",
+    "block": "Modals",
     "text_en": "We might ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "We might ____.",
     "distractors": [
       "Я не могу ____ сегодня.",
       "Я бы хотел(а) ____.",
@@ -3935,9 +3935,9 @@
   },
   {
     "id": 282,
-    "block": "Core",
+    "block": "Modals",
     "text_en": "We may ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "We may ____.",
     "distractors": [
       "Я пытаюсь ____.",
       "У меня вопрос насчёт ____.",
@@ -3949,9 +3949,9 @@
   },
   {
     "id": 283,
-    "block": "Core",
+    "block": "Modals",
     "text_en": "We must ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "We must ____.",
     "distractors": [
       "Я не могу ____ завтра.",
       "Мне не стоит ____.",
@@ -3963,9 +3963,9 @@
   },
   {
     "id": 284,
-    "block": "Core",
+    "block": "Modals",
     "text_en": "They can ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "They can ____.",
     "distractors": [
       "Причина в том, что ____.",
       "Пожалуйста, ____.",
@@ -3979,7 +3979,7 @@
     "id": 285,
     "block": "Core",
     "text_en": "They can’t ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "They can't ____.",
     "distractors": [
       "Я могу ____ завтра.",
       "У меня вопрос насчёт ____.",
@@ -3991,9 +3991,9 @@
   },
   {
     "id": 286,
-    "block": "Core",
+    "block": "Modals",
     "text_en": "They could ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "They could ____.",
     "distractors": [
       "Мне нужно / я должен(на) ____.",
       "Я не думаю, что ____.",
@@ -4007,7 +4007,7 @@
     "id": 287,
     "block": "Core",
     "text_en": "They couldn’t ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "They couldn't ____.",
     "distractors": [
       "У меня нет времени ____.",
       "Раньше я ____.",
@@ -4019,9 +4019,9 @@
   },
   {
     "id": 288,
-    "block": "Core",
+    "block": "Modals",
     "text_en": "They should ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "They should ____.",
     "distractors": [
       "У меня нет времени ____.",
       "У меня вопрос насчёт ____.",
@@ -4035,7 +4035,7 @@
     "id": 289,
     "block": "Core",
     "text_en": "They shouldn’t ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "They shouldn't ____.",
     "distractors": [
       "У меня есть идея: ____.",
       "Пожалуйста, ____.",
@@ -4047,9 +4047,9 @@
   },
   {
     "id": 290,
-    "block": "Core",
+    "block": "Modals",
     "text_en": "They might ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "They might ____.",
     "distractors": [
       "Пожалуйста, ____.",
       "Я хочу ____.",
@@ -4061,9 +4061,9 @@
   },
   {
     "id": 291,
-    "block": "Core",
+    "block": "Modals",
     "text_en": "They may ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "They may ____.",
     "distractors": [
       "Я ищу ____.",
       "Тебе/вам нужно ____.",
@@ -4075,9 +4075,9 @@
   },
   {
     "id": 292,
-    "block": "Core",
+    "block": "Modals",
     "text_en": "They must ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "They must ____.",
     "distractors": [
       "Пожалуйста, ____.",
       "Я могу ____ прямо сейчас.",
@@ -4089,9 +4089,9 @@
   },
   {
     "id": 293,
-    "block": "Core",
+    "block": "Modals",
     "text_en": "He can ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "He can ____.",
     "distractors": [
       "Мне нужно / я должен(на) ____.",
       "Мне нужно снова ____.",
@@ -4105,7 +4105,7 @@
     "id": 294,
     "block": "Core",
     "text_en": "He can’t ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "He can't ____.",
     "distractors": [
       "Я не могу ____.",
       "Я предпочитаю ____.",
@@ -4117,9 +4117,9 @@
   },
   {
     "id": 295,
-    "block": "Core",
+    "block": "Modals",
     "text_en": "He could ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "He could ____.",
     "distractors": [
       "Я ищу ____.",
       "Перед тем как ____, ____.",
@@ -4133,7 +4133,7 @@
     "id": 296,
     "block": "Core",
     "text_en": "He couldn’t ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "He couldn't ____.",
     "distractors": [
       "Перед тем как ____, ____.",
       "Вообще-то, ____.",
@@ -4145,9 +4145,9 @@
   },
   {
     "id": 297,
-    "block": "Core",
+    "block": "Modals",
     "text_en": "He should ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "He should ____.",
     "distractors": [
       "Я бы лучше ____, чем ____.",
       "У меня проблема с ____.",
@@ -4161,7 +4161,7 @@
     "id": 298,
     "block": "Core",
     "text_en": "He shouldn’t ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "He shouldn't ____.",
     "distractors": [
       "Я могу ____.",
       "Я не могу ____ завтра.",
@@ -4173,9 +4173,9 @@
   },
   {
     "id": 299,
-    "block": "Core",
+    "block": "Modals",
     "text_en": "He might ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "He might ____.",
     "distractors": [
       "Это зависит от ____.",
       "Пожалуйста, ____.",
@@ -4187,9 +4187,9 @@
   },
   {
     "id": 300,
-    "block": "Core",
+    "block": "Modals",
     "text_en": "He may ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "He may ____.",
     "distractors": [
       "Когда ____, ____.",
       "Давай(те) ____ на этих выходных.",
@@ -4201,9 +4201,9 @@
   },
   {
     "id": 301,
-    "block": "Core",
+    "block": "Modals",
     "text_en": "He must ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "He must ____.",
     "distractors": [
       "Не могли бы вы ____, пожалуйста?",
       "Я переживаю из‑за ____.",
@@ -4215,9 +4215,9 @@
   },
   {
     "id": 302,
-    "block": "Core",
+    "block": "Modals",
     "text_en": "She can ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "She can ____.",
     "distractors": [
       "Я могу ____ завтра.",
       "Я должен(на) ____.",
@@ -4231,7 +4231,7 @@
     "id": 303,
     "block": "Core",
     "text_en": "She can’t ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "She can't ____.",
     "distractors": [
       "Я не могу ____.",
       "Можно мне ____?",
@@ -4243,9 +4243,9 @@
   },
   {
     "id": 304,
-    "block": "Core",
+    "block": "Modals",
     "text_en": "She could ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "She could ____.",
     "distractors": [
       "Я ищу ____.",
       "Я пытаюсь ____.",
@@ -4259,7 +4259,7 @@
     "id": 305,
     "block": "Core",
     "text_en": "She couldn’t ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "She couldn't ____.",
     "distractors": [
       "Давай(те) ____ сегодня днём.",
       "У меня вопрос насчёт ____.",
@@ -4271,9 +4271,9 @@
   },
   {
     "id": 306,
-    "block": "Core",
+    "block": "Modals",
     "text_en": "She should ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "She should ____.",
     "distractors": [
       "Перед тем как ____, ____.",
       "У меня есть идея: ____.",
@@ -4287,7 +4287,7 @@
     "id": 307,
     "block": "Core",
     "text_en": "She shouldn’t ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "She shouldn't ____.",
     "distractors": [
       "Я пытаюсь ____.",
       "Это зависит от ____.",
@@ -4299,9 +4299,9 @@
   },
   {
     "id": 308,
-    "block": "Core",
+    "block": "Modals",
     "text_en": "She might ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "She might ____.",
     "distractors": [
       "Тебе/вам нужно ____.",
       "Потому что ____, ____.",
@@ -4313,9 +4313,9 @@
   },
   {
     "id": 309,
-    "block": "Core",
+    "block": "Modals",
     "text_en": "She may ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "She may ____.",
     "distractors": [
       "Давай(те) ____ сегодня вечером.",
       "Я не собираюсь ____.",
@@ -4327,9 +4327,9 @@
   },
   {
     "id": 310,
-    "block": "Core",
+    "block": "Modals",
     "text_en": "She must ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "She must ____.",
     "distractors": [
       "Я пытаюсь ____.",
       "Если ____, ____.",
@@ -4341,9 +4341,9 @@
   },
   {
     "id": 311,
-    "block": "Core",
+    "block": "Reactions / patterns",
     "text_en": "It’s too ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "It's too ____.",
     "distractors": [
       "Тебе/вам стоит ____.",
       "Я не думаю, что ____.",
@@ -4355,9 +4355,9 @@
   },
   {
     "id": 312,
-    "block": "Core",
+    "block": "Reactions / patterns",
     "text_en": "It’s not ____ enough.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "It's not ____ enough.",
     "distractors": [
       "Пожалуйста, ____.",
       "Я готов(а) ____.",
@@ -4369,9 +4369,9 @@
   },
   {
     "id": 313,
-    "block": "Core",
+    "block": "Reactions / patterns",
     "text_en": "It’s ____ enough.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "It's ____ enough.",
     "distractors": [
       "Пожалуйста, ____.",
       "Потому что ____, ____.",
@@ -4385,7 +4385,7 @@
     "id": 314,
     "block": "Core",
     "text_en": "It’s the best ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "It's the best ____.",
     "distractors": [
       "У меня вопрос насчёт ____.",
       "Стоит ли мне ____?",
@@ -4399,7 +4399,7 @@
     "id": 315,
     "block": "Core",
     "text_en": "It’s the worst ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "It's the worst ____.",
     "distractors": [
       "У меня проблема с ____.",
       "Я рад(а) / воодушевлён(а) из‑за ____.",
@@ -4413,7 +4413,7 @@
     "id": 316,
     "block": "Core",
     "text_en": "I’m looking forward to ____ing.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "I'm looking forward to ____ing.",
     "distractors": [
       "Я ищу ____.",
       "Честно говоря, ____.",
@@ -4427,7 +4427,7 @@
     "id": 317,
     "block": "Core",
     "text_en": "I’m in the middle of ____ing.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "I'm in the middle of ____ing.",
     "distractors": [
       "У меня проблема с ____.",
       "Пожалуйста, ____.",
@@ -4441,7 +4441,7 @@
     "id": 318,
     "block": "Core",
     "text_en": "I’m done ____ing.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "I'm done ____ing.",
     "distractors": [
       "Можем ____ позже?",
       "Тебе/вам стоит ____.",
@@ -4455,7 +4455,7 @@
     "id": 319,
     "block": "Core",
     "text_en": "I’m tired of ____ing.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "I'm tired of ____ing.",
     "distractors": [
       "Тебе/вам стоит ____.",
       "Я не могу ____ завтра.",
@@ -4469,7 +4469,7 @@
     "id": 320,
     "block": "Core",
     "text_en": "I’m afraid to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "I'm afraid to ____.",
     "distractors": [
       "Я привык(ла) ____ (делать).",
       "Я могу ____ на следующей неделе.",
@@ -4483,7 +4483,7 @@
     "id": 321,
     "block": "Core",
     "text_en": "I’m afraid that ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "I'm afraid that ____.",
     "distractors": [
       "Честно говоря, ____.",
       "Стоит ли мне ____?",
@@ -4497,7 +4497,7 @@
     "id": 322,
     "block": "Core",
     "text_en": "I hope ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "I hope ____.",
     "distractors": [
       "Раньше я ____.",
       "Это зависит от ____.",
@@ -4511,7 +4511,7 @@
     "id": 323,
     "block": "Core",
     "text_en": "I hope it ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "I hope it ____.",
     "distractors": [
       "Я могу ____ завтра.",
       "У меня вопрос насчёт ____.",
@@ -4525,7 +4525,7 @@
     "id": 324,
     "block": "Core",
     "text_en": "I hope to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "I hope to ____.",
     "distractors": [
       "По-моему, ____.",
       "После того как ____, ____.",
@@ -4539,7 +4539,7 @@
     "id": 325,
     "block": "Core",
     "text_en": "I wish ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "I wish ____.",
     "distractors": [
       "Раньше я ____.",
       "Стоит ли мне ____?",
@@ -4551,9 +4551,9 @@
   },
   {
     "id": 326,
-    "block": "Core",
+    "block": "Clarify / I didn't understand",
     "text_en": "I didn’t mean to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "I didn't mean to ____.",
     "distractors": [
       "Я не собираюсь ____.",
       "Я предпочитаю ____.",
@@ -4567,7 +4567,7 @@
     "id": 327,
     "block": "Core",
     "text_en": "I forgot to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "I forgot to ____.",
     "distractors": [
       "Когда ____, ____.",
       "Я не собираюсь ____.",
@@ -4581,7 +4581,7 @@
     "id": 328,
     "block": "Core",
     "text_en": "I remembered to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "I remembered to ____.",
     "distractors": [
       "Когда ____, ____.",
       "Потому что ____, ____.",
@@ -4595,7 +4595,7 @@
     "id": 329,
     "block": "Core",
     "text_en": "I used to ____.",
-    "hint_ru": "Раньше я ____.",
+    "hint_ru": "I used to ____.",
     "distractors": [
       "Я ищу ____.",
       "У меня вопрос насчёт ____.",
@@ -4609,7 +4609,7 @@
     "id": 330,
     "block": "Core",
     "text_en": "I’m trying not to ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "I'm trying not to ____.",
     "distractors": [
       "Я ищу ____.",
       "Я не могу ____.",
@@ -4623,7 +4623,7 @@
     "id": 331,
     "block": "Core",
     "text_en": "I need help with ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "I need help with ____.",
     "distractors": [
       "Я бы лучше ____, чем ____.",
       "У меня проблема с ____.",
@@ -4637,7 +4637,7 @@
     "id": 332,
     "block": "Core",
     "text_en": "I have to ____ first.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "I have to ____ first.",
     "distractors": [
       "У меня нет времени ____.",
       "У меня вопрос насчёт ____.",
@@ -4651,7 +4651,7 @@
     "id": 333,
     "block": "Core",
     "text_en": "I can’t afford ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "I can't afford ____.",
     "distractors": [
       "Тебе/вам нужно ____.",
       "Я готов(а) ____.",
@@ -4665,7 +4665,7 @@
     "id": 334,
     "block": "Core",
     "text_en": "I’m sorry for ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "I'm sorry for ____.",
     "distractors": [
       "____, так что ____.",
       "Если ____, ____.",
@@ -4677,9 +4677,9 @@
   },
   {
     "id": 335,
-    "block": "Core",
+    "block": "Reactions / patterns",
     "text_en": "Thanks for ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Thanks for ____.",
     "distractors": [
       "У меня есть идея: ____.",
       "Тебе/вам стоит ____.",
@@ -4693,7 +4693,7 @@
     "id": 336,
     "block": "Core",
     "text_en": "There’s ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "There's ____.",
     "distractors": [
       "Причина в том, что ____.",
       "Давай(те) ____ позже.",
@@ -4721,7 +4721,7 @@
     "id": 338,
     "block": "Core",
     "text_en": "This is ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "This is ____.",
     "distractors": [
       "Пожалуйста, ____.",
       "Это зависит от ____.",
@@ -4735,7 +4735,7 @@
     "id": 339,
     "block": "Core",
     "text_en": "That is ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "That is ____.",
     "distractors": [
       "Я могу ____ завтра.",
       "Я не могу ____ сегодня вечером.",
@@ -4749,7 +4749,7 @@
     "id": 340,
     "block": "Core",
     "text_en": "Here’s ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Here's ____.",
     "distractors": [
       "Мне нужно / я должен(на) ____.",
       "Я не могу ____ прямо сейчас.",
@@ -4763,7 +4763,7 @@
     "id": 341,
     "block": "Core",
     "text_en": "Here are ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Here are ____.",
     "distractors": [
       "Если ____, ____.",
       "Пожалуйста, ____.",
@@ -4775,9 +4775,9 @@
   },
   {
     "id": 342,
-    "block": "Core",
+    "block": "Reactions / patterns",
     "text_en": "I have too much ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "I have too much ____.",
     "distractors": [
       "Если ____, ____.",
       "Это зависит от ____.",
@@ -4789,9 +4789,9 @@
   },
   {
     "id": 343,
-    "block": "Core",
+    "block": "Reactions / patterns",
     "text_en": "I have too many ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "I have too many ____.",
     "distractors": [
       "Причина в том, что ____.",
       "Стоит ли мне ____?",
@@ -4803,9 +4803,9 @@
   },
   {
     "id": 344,
-    "block": "Core",
+    "block": "Reactions / patterns",
     "text_en": "I don’t have enough ____.",
-    "hint_ru": "У меня недостаточно ____.",
+    "hint_ru": "I don't have enough ____.",
     "distractors": [
       "У меня проблема с ____.",
       "Сначала ____. Потом ____.",
@@ -4819,7 +4819,7 @@
     "id": 345,
     "block": "Core",
     "text_en": "I need more ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "I need more ____.",
     "distractors": [
       "Я могу ____ завтра.",
       "Я ищу ____.",
@@ -4833,7 +4833,7 @@
     "id": 346,
     "block": "Core",
     "text_en": "I need less ____.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "I need less ____.",
     "distractors": [
       "Честно говоря, ____.",
       "Я не могу ____ завтра.",
@@ -4845,7 +4845,7 @@
   },
   {
     "id": 347,
-    "block": "Core",
+    "block": "Reactions / patterns",
     "text_en": "It depends.",
     "hint_ru": "Зависит.",
     "distractors": [
@@ -4859,7 +4859,7 @@
   },
   {
     "id": 348,
-    "block": "Core",
+    "block": "Reactions / patterns",
     "text_en": "I’m not sure.",
     "hint_ru": "Я не уверен(а).",
     "distractors": [
@@ -4873,7 +4873,7 @@
   },
   {
     "id": 349,
-    "block": "Core",
+    "block": "Reactions / patterns",
     "text_en": "That makes sense.",
     "hint_ru": "Это имеет смысл.",
     "distractors": [
@@ -4887,7 +4887,7 @@
   },
   {
     "id": 350,
-    "block": "Core",
+    "block": "Reactions / patterns",
     "text_en": "I get it.",
     "hint_ru": "Я понял(а).",
     "distractors": [
@@ -4901,7 +4901,7 @@
   },
   {
     "id": 351,
-    "block": "Core",
+    "block": "Reactions / patterns",
     "text_en": "I don’t get it.",
     "hint_ru": "Я не понимаю.",
     "distractors": [
@@ -4915,7 +4915,7 @@
   },
   {
     "id": 352,
-    "block": "Core",
+    "block": "Reactions / patterns",
     "text_en": "No worries.",
     "hint_ru": "Не переживай(те).",
     "distractors": [
@@ -4929,7 +4929,7 @@
   },
   {
     "id": 353,
-    "block": "Core",
+    "block": "Reactions / patterns",
     "text_en": "Sounds good.",
     "hint_ru": "Звучит хорошо.",
     "distractors": [
@@ -4943,9 +4943,9 @@
   },
   {
     "id": 354,
-    "block": "Core",
+    "block": "Reactions / patterns",
     "text_en": "Sounds great.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Sounds great.",
     "distractors": [
       "Мне нужно проверить детали.",
       "Мне нужно подтвердить детали.",
@@ -4957,9 +4957,9 @@
   },
   {
     "id": 355,
-    "block": "Core",
+    "block": "Reactions / patterns",
     "text_en": "Sounds fine.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Sounds fine.",
     "distractors": [
       "Мне нужно отправить фото.",
       "Можете подтвердить бронь, пожалуйста?",
@@ -4971,9 +4971,9 @@
   },
   {
     "id": 356,
-    "block": "Core",
+    "block": "Reactions / patterns",
     "text_en": "Sounds interesting.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Sounds interesting.",
     "distractors": [
       "Мне нужно подтвердить детали.",
       "Мне нужно подтвердить бронирование.",
@@ -4985,9 +4985,9 @@
   },
   {
     "id": 357,
-    "block": "Core",
+    "block": "Reactions / patterns",
     "text_en": "Let me think.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Let me think.",
     "distractors": [
       "Мне нужно подтвердить бронирование.",
       "Давай(те) отправить скриншот.",
@@ -5001,7 +5001,7 @@
     "id": 358,
     "block": "Core",
     "text_en": "Give me a second.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Give me a second.",
     "distractors": [
       "Давай(те) проверить цену.",
       "Мне нужно проверить адрес.",
@@ -5015,7 +5015,7 @@
     "id": 359,
     "block": "Core",
     "text_en": "One moment, please.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "One moment, please.",
     "distractors": [
       "Можете подтвердить бронирование, пожалуйста?",
       "Давай(те) подтвердить бронь.",
@@ -5029,7 +5029,7 @@
     "id": 360,
     "block": "Core",
     "text_en": "Good point.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Good point.",
     "distractors": [
       "Мне нужно проверить цену.",
       "Давай(те) найти адрес.",
@@ -5043,7 +5043,7 @@
     "id": 361,
     "block": "Core",
     "text_en": "I agree.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "I agree.",
     "distractors": [
       "Мне нужно подтвердить детали.",
       "Можете найти лучший маршрут, пожалуйста?",
@@ -5057,7 +5057,7 @@
     "id": 362,
     "block": "Core",
     "text_en": "I disagree.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "I disagree.",
     "distractors": [
       "Давай(те) отправить ссылку.",
       "Можете проверить цену, пожалуйста?",
@@ -5071,7 +5071,7 @@
     "id": 363,
     "block": "Core",
     "text_en": "Exactly.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Exactly.",
     "distractors": [
       "Мне нужно подтвердить детали.",
       "Давай(те) подтвердить бронь.",
@@ -5085,7 +5085,7 @@
     "id": 364,
     "block": "Core",
     "text_en": "Not exactly.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Not exactly.",
     "distractors": [
       "Давай(те) проверить расписание.",
       "Можете найти место, пожалуйста?",
@@ -5097,9 +5097,9 @@
   },
   {
     "id": 365,
-    "block": "Core",
+    "block": "Reactions / patterns",
     "text_en": "Maybe.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Maybe.",
     "distractors": [
       "Можете найти место, пожалуйста?",
       "Давай(те) отправить скриншот.",
@@ -5113,7 +5113,7 @@
     "id": 366,
     "block": "Core",
     "text_en": "Of course.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Of course.",
     "distractors": [
       "Давай(те) отправить ссылку.",
       "Можете подтвердить бронь, пожалуйста?",
@@ -5127,7 +5127,7 @@
     "id": 367,
     "block": "Core",
     "text_en": "Absolutely.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Absolutely.",
     "distractors": [
       "Давай(те) подтвердить бронь.",
       "Мне нужно найти информацию.",
@@ -5139,9 +5139,9 @@
   },
   {
     "id": 368,
-    "block": "Core",
+    "block": "Reactions / patterns",
     "text_en": "Not really.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Not really.",
     "distractors": [
       "Можете проверить цену, пожалуйста?",
       "Звучит хорошо.",
@@ -5155,7 +5155,7 @@
     "id": 369,
     "block": "Core",
     "text_en": "My mistake.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "My mistake.",
     "distractors": [
       "Мне нужно проверить детали.",
       "Давай(те) проверить детали.",
@@ -5169,7 +5169,7 @@
     "id": 370,
     "block": "Core",
     "text_en": "It happens.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "It happens.",
     "distractors": [
       "Мне нужно отправить скриншот.",
       "Давай(те) проверить цену.",
@@ -5181,9 +5181,9 @@
   },
   {
     "id": 371,
-    "block": "Core",
+    "block": "Reactions / patterns",
     "text_en": "Thanks anyway.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Thanks anyway.",
     "distractors": [
       "Я понял(а).",
       "Можете найти адрес, пожалуйста?",
@@ -5195,9 +5195,9 @@
   },
   {
     "id": 372,
-    "block": "Core",
+    "block": "Reactions / patterns",
     "text_en": "I appreciate it.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "I appreciate it.",
     "distractors": [
       "Можете подтвердить бронирование, пожалуйста?",
       "Мне нужно найти информацию.",
@@ -5209,9 +5209,9 @@
   },
   {
     "id": 373,
-    "block": "Core",
+    "block": "Reactions / patterns",
     "text_en": "You’re welcome.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "You're welcome.",
     "distractors": [
       "Мне нужно подтвердить адрес.",
       "Я понял(а).",
@@ -5225,7 +5225,7 @@
     "id": 374,
     "block": "Core",
     "text_en": "No problem.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "No problem.",
     "distractors": [
       "Давай(те) проверить цену.",
       "Можете проверить цену, пожалуйста?",
@@ -5237,9 +5237,9 @@
   },
   {
     "id": 375,
-    "block": "Core",
+    "block": "Reactions / patterns",
     "text_en": "Sure.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Sure.",
     "distractors": [
       "Зависит.",
       "Можете проверить цену, пожалуйста?",
@@ -5251,9 +5251,9 @@
   },
   {
     "id": 376,
-    "block": "Core",
+    "block": "Reactions / patterns",
     "text_en": "Sure thing.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Sure thing.",
     "distractors": [
       "Давай(те) отправить скриншот.",
       "Давай(те) найти адрес.",
@@ -5267,7 +5267,7 @@
     "id": 377,
     "block": "Core",
     "text_en": "All right.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "All right.",
     "distractors": [
       "Можете подтвердить время, пожалуйста?",
       "Давай(те) проверить детали.",
@@ -5281,7 +5281,7 @@
     "id": 378,
     "block": "Core",
     "text_en": "Got it.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Got it.",
     "distractors": [
       "Давай(те) найти лучший маршрут.",
       "Можете найти информацию, пожалуйста?",
@@ -5293,9 +5293,9 @@
   },
   {
     "id": 379,
-    "block": "Core",
+    "block": "Reactions / patterns",
     "text_en": "Fair enough.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Fair enough.",
     "distractors": [
       "Зависит.",
       "Давай(те) проверить цену.",
@@ -5309,7 +5309,7 @@
     "id": 380,
     "block": "Core",
     "text_en": "Keep me posted.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Keep me posted.",
     "distractors": [
       "Мне нужно найти информацию.",
       "Мне нужно проверить адрес.",
@@ -5323,7 +5323,7 @@
     "id": 381,
     "block": "Core",
     "text_en": "I’ll let you know.",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "I'll let you know.",
     "distractors": [
       "Мне нужно найти информацию.",
       "Мне нужно подтвердить бронирование.",
@@ -5335,9 +5335,9 @@
   },
   {
     "id": 382,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "What’s the plan?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "What's the plan?",
     "distractors": [
       "Давай(те) подтвердить детали.",
       "Это имеет смысл.",
@@ -5349,9 +5349,9 @@
   },
   {
     "id": 383,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "What’s next?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "What's next?",
     "distractors": [
       "Мне нужно проверить детали.",
       "Мне нужно подтвердить детали.",
@@ -5377,7 +5377,7 @@
   },
   {
     "id": 385,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Can we ____ today?",
     "hint_ru": "Можем ____ сегодня?",
     "distractors": [
@@ -5391,9 +5391,9 @@
   },
   {
     "id": 386,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Are you free today?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Are you free today?",
     "distractors": [
       "Можете проверить цену, пожалуйста?",
       "Я не понимаю.",
@@ -5405,9 +5405,9 @@
   },
   {
     "id": 387,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Does today work for you?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Does today work for you?",
     "distractors": [
       "Мне нужно подтвердить адрес.",
       "Можете подтвердить бронирование, пожалуйста?",
@@ -5419,7 +5419,7 @@
   },
   {
     "id": 388,
-    "block": "Core",
+    "block": "Modals",
     "text_en": "I can ____ today.",
     "hint_ru": "Я могу ____ сегодня.",
     "distractors": [
@@ -5461,7 +5461,7 @@
   },
   {
     "id": 391,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Can we ____ tomorrow?",
     "hint_ru": "Можем ____ завтра?",
     "distractors": [
@@ -5475,9 +5475,9 @@
   },
   {
     "id": 392,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Are you free tomorrow?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Are you free tomorrow?",
     "distractors": [
       "Мне нужно подтвердить детали.",
       "Давай(те) найти лучший маршрут.",
@@ -5489,9 +5489,9 @@
   },
   {
     "id": 393,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Does tomorrow work for you?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Does tomorrow work for you?",
     "distractors": [
       "Мне нужно отправить скриншот.",
       "Мне нужно проверить адрес.",
@@ -5503,7 +5503,7 @@
   },
   {
     "id": 394,
-    "block": "Core",
+    "block": "Modals",
     "text_en": "I can ____ tomorrow.",
     "hint_ru": "Я могу ____ завтра.",
     "distractors": [
@@ -5545,7 +5545,7 @@
   },
   {
     "id": 397,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Can we ____ this afternoon?",
     "hint_ru": "Можем ____ сегодня днём?",
     "distractors": [
@@ -5559,9 +5559,9 @@
   },
   {
     "id": 398,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Are you free this afternoon?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Are you free this afternoon?",
     "distractors": [
       "Мне нужно проверить время.",
       "Давай(те) подтвердить бронирование.",
@@ -5573,9 +5573,9 @@
   },
   {
     "id": 399,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Does this afternoon work for you?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Does this afternoon work for you?",
     "distractors": [
       "Давай(те) проверить цену.",
       "Я понял(а).",
@@ -5587,7 +5587,7 @@
   },
   {
     "id": 400,
-    "block": "Core",
+    "block": "Modals",
     "text_en": "I can ____ this afternoon.",
     "hint_ru": "Я могу ____ сегодня днём.",
     "distractors": [
@@ -5629,7 +5629,7 @@
   },
   {
     "id": 403,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Can we ____ this evening?",
     "hint_ru": "Можем ____ сегодня вечером?",
     "distractors": [
@@ -5643,9 +5643,9 @@
   },
   {
     "id": 404,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Are you free this evening?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Are you free this evening?",
     "distractors": [
       "Давай(те) найти лучший маршрут.",
       "Я понял(а).",
@@ -5657,9 +5657,9 @@
   },
   {
     "id": 405,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Does this evening work for you?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Does this evening work for you?",
     "distractors": [
       "Давай(те) отправить фото.",
       "Давай(те) отправить скриншот.",
@@ -5671,7 +5671,7 @@
   },
   {
     "id": 406,
-    "block": "Core",
+    "block": "Modals",
     "text_en": "I can ____ this evening.",
     "hint_ru": "Я могу ____ сегодня вечером.",
     "distractors": [
@@ -5713,7 +5713,7 @@
   },
   {
     "id": 409,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Can we ____ this weekend?",
     "hint_ru": "Можем ____ на этих выходных?",
     "distractors": [
@@ -5727,9 +5727,9 @@
   },
   {
     "id": 410,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Are you free this weekend?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Are you free this weekend?",
     "distractors": [
       "Давай(те) проверить детали.",
       "Мне нужно отправить файл.",
@@ -5741,9 +5741,9 @@
   },
   {
     "id": 411,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Does this weekend work for you?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Does this weekend work for you?",
     "distractors": [
       "Давай(те) найти лучший маршрут.",
       "Я понял(а).",
@@ -5755,7 +5755,7 @@
   },
   {
     "id": 412,
-    "block": "Core",
+    "block": "Modals",
     "text_en": "I can ____ this weekend.",
     "hint_ru": "Я могу ____ на этих выходных.",
     "distractors": [
@@ -5797,7 +5797,7 @@
   },
   {
     "id": 415,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Can we ____ next week?",
     "hint_ru": "Можем ____ на следующей неделе?",
     "distractors": [
@@ -5811,9 +5811,9 @@
   },
   {
     "id": 416,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Are you free next week?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Are you free next week?",
     "distractors": [
       "Мне нужно найти информацию.",
       "Мне нужно проверить цену.",
@@ -5825,9 +5825,9 @@
   },
   {
     "id": 417,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Does next week work for you?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Does next week work for you?",
     "distractors": [
       "Можете подтвердить время, пожалуйста?",
       "Давай(те) проверить детали.",
@@ -5839,7 +5839,7 @@
   },
   {
     "id": 418,
-    "block": "Core",
+    "block": "Modals",
     "text_en": "I can ____ next week.",
     "hint_ru": "Я могу ____ на следующей неделе.",
     "distractors": [
@@ -5881,7 +5881,7 @@
   },
   {
     "id": 421,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Can we ____ right now?",
     "hint_ru": "Можем ____ прямо сейчас?",
     "distractors": [
@@ -5895,9 +5895,9 @@
   },
   {
     "id": 422,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Are you free right now?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Are you free right now?",
     "distractors": [
       "Мне нужно подтвердить детали.",
       "Я понял(а).",
@@ -5909,9 +5909,9 @@
   },
   {
     "id": 423,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Does right now work for you?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Does right now work for you?",
     "distractors": [
       "Давай(те) отправить фото.",
       "Можете отправить файл, пожалуйста?",
@@ -5923,7 +5923,7 @@
   },
   {
     "id": 424,
-    "block": "Core",
+    "block": "Modals",
     "text_en": "I can ____ right now.",
     "hint_ru": "Я могу ____ прямо сейчас.",
     "distractors": [
@@ -5965,7 +5965,7 @@
   },
   {
     "id": 427,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Can we ____ later?",
     "hint_ru": "Можем ____ позже?",
     "distractors": [
@@ -5979,9 +5979,9 @@
   },
   {
     "id": 428,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Are you free later?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Are you free later?",
     "distractors": [
       "Мне нужно подтвердить адрес.",
       "Мне нужно проверить цену.",
@@ -5993,9 +5993,9 @@
   },
   {
     "id": 429,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Does later work for you?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Does later work for you?",
     "distractors": [
       "Мне нужно подтвердить адрес.",
       "Мне нужно проверить детали.",
@@ -6007,7 +6007,7 @@
   },
   {
     "id": 430,
-    "block": "Core",
+    "block": "Modals",
     "text_en": "I can ____ later.",
     "hint_ru": "Я могу ____ позже.",
     "distractors": [
@@ -6049,7 +6049,7 @@
   },
   {
     "id": 433,
-    "block": "Core",
+    "block": "Connectors / logic",
     "text_en": "Please ____ if you can.",
     "hint_ru": "Пожалуйста, ____.",
     "distractors": [
@@ -6063,7 +6063,7 @@
   },
   {
     "id": 434,
-    "block": "Core",
+    "block": "Connectors / logic",
     "text_en": "Please ____ when you have time.",
     "hint_ru": "Пожалуйста, ____.",
     "distractors": [
@@ -6119,9 +6119,9 @@
   },
   {
     "id": 438,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Could you please ____?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Could you please ____?",
     "distractors": [
       "Я бы лучше ____, чем ____.",
       "Это зависит от ____.",
@@ -6133,9 +6133,9 @@
   },
   {
     "id": 439,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Can you please ____?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Can you please ____?",
     "distractors": [
       "Раньше я ____.",
       "Я должен(на) ____.",
@@ -6147,9 +6147,9 @@
   },
   {
     "id": 440,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Would you please ____?",
-    "hint_ru": "Перевод уточнить.",
+    "hint_ru": "Would you please ____?",
     "distractors": [
       "Перед тем как ____, ____.",
       "Я должен(на) ____.",
@@ -6175,7 +6175,7 @@
   },
   {
     "id": 442,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Can you check the time, please?",
     "hint_ru": "Можете проверить время, пожалуйста?",
     "distractors": [
@@ -6217,7 +6217,7 @@
   },
   {
     "id": 445,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Can you check the address, please?",
     "hint_ru": "Можете проверить адрес, пожалуйста?",
     "distractors": [
@@ -6259,7 +6259,7 @@
   },
   {
     "id": 448,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Can you check the details, please?",
     "hint_ru": "Можете проверить детали, пожалуйста?",
     "distractors": [
@@ -6301,7 +6301,7 @@
   },
   {
     "id": 451,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Can you check the price, please?",
     "hint_ru": "Можете проверить цену, пожалуйста?",
     "distractors": [
@@ -6343,7 +6343,7 @@
   },
   {
     "id": 454,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Can you check the schedule, please?",
     "hint_ru": "Можете проверить расписание, пожалуйста?",
     "distractors": [
@@ -6385,7 +6385,7 @@
   },
   {
     "id": 457,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Can you send the link, please?",
     "hint_ru": "Можете отправить ссылку, пожалуйста?",
     "distractors": [
@@ -6427,7 +6427,7 @@
   },
   {
     "id": 460,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Can you send the file, please?",
     "hint_ru": "Можете отправить файл, пожалуйста?",
     "distractors": [
@@ -6469,7 +6469,7 @@
   },
   {
     "id": 463,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Can you send the details, please?",
     "hint_ru": "Можете отправить детали, пожалуйста?",
     "distractors": [
@@ -6511,7 +6511,7 @@
   },
   {
     "id": 466,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Can you send the photo, please?",
     "hint_ru": "Можете отправить фото, пожалуйста?",
     "distractors": [
@@ -6553,7 +6553,7 @@
   },
   {
     "id": 469,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Can you send the screenshot, please?",
     "hint_ru": "Можете отправить скриншот, пожалуйста?",
     "distractors": [
@@ -6595,7 +6595,7 @@
   },
   {
     "id": 472,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Can you confirm the time, please?",
     "hint_ru": "Можете подтвердить время, пожалуйста?",
     "distractors": [
@@ -6637,7 +6637,7 @@
   },
   {
     "id": 475,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Can you confirm the address, please?",
     "hint_ru": "Можете подтвердить адрес, пожалуйста?",
     "distractors": [
@@ -6679,7 +6679,7 @@
   },
   {
     "id": 478,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Can you confirm the details, please?",
     "hint_ru": "Можете подтвердить детали, пожалуйста?",
     "distractors": [
@@ -6721,7 +6721,7 @@
   },
   {
     "id": 481,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Can you confirm the reservation, please?",
     "hint_ru": "Можете подтвердить бронь, пожалуйста?",
     "distractors": [
@@ -6763,7 +6763,7 @@
   },
   {
     "id": 484,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Can you confirm the booking, please?",
     "hint_ru": "Можете подтвердить бронирование, пожалуйста?",
     "distractors": [
@@ -6805,7 +6805,7 @@
   },
   {
     "id": 487,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Can you find the address, please?",
     "hint_ru": "Можете найти адрес, пожалуйста?",
     "distractors": [
@@ -6847,7 +6847,7 @@
   },
   {
     "id": 490,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Can you find the place, please?",
     "hint_ru": "Можете найти место, пожалуйста?",
     "distractors": [
@@ -6889,7 +6889,7 @@
   },
   {
     "id": 493,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Can you find a better option, please?",
     "hint_ru": "Можете найти вариант получше, пожалуйста?",
     "distractors": [
@@ -6931,7 +6931,7 @@
   },
   {
     "id": 496,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Can you find the best route, please?",
     "hint_ru": "Можете найти лучший маршрут, пожалуйста?",
     "distractors": [
@@ -6973,7 +6973,7 @@
   },
   {
     "id": 499,
-    "block": "Core",
+    "block": "Questions & Requests",
     "text_en": "Can you find the information, please?",
     "hint_ru": "Можете найти информацию, пожалуйста?",
     "distractors": [

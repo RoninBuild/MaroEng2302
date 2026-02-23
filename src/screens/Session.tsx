@@ -5,6 +5,7 @@ import { getTodayQueue, generateQuizOptions } from '../utils/engine';
 import type { Frame } from '../types';
 import confetti from 'canvas-confetti';
 import { X, Volume2 } from 'lucide-react';
+import { recordSessionOnChain } from '../utils/web3';
 
 export const playAudio = (text: string) => {
     if (!window.speechSynthesis) return;
@@ -56,6 +57,13 @@ export default function Session() {
 
     const [typeInput, setTypeInput] = useState('');
     const [typeSubmitted, setTypeSubmitted] = useState(false);
+
+    useEffect(() => {
+        // Record the session on-chain in the background ONLY if there are cards to review
+        if (queue.length > 0) {
+            recordSessionOnChain(state.activeCourse);
+        }
+    }, []); // Run only once when the session component mounts
 
     const currentItem = queue[currentIndex];
 

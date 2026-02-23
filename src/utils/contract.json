@@ -1,0 +1,43 @@
+{
+  "address": "0xdb9D3AeC315754572c6f337fcf33F075aC728461",
+  "abi": [
+    {
+      "anonymous": false,
+      "inputs": [
+        {
+          "indexed": true,
+          "internalType": "address",
+          "name": "user",
+          "type": "address"
+        },
+        {
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "timestamp",
+          "type": "uint256"
+        },
+        {
+          "indexed": false,
+          "internalType": "string",
+          "name": "mode",
+          "type": "string"
+        }
+      ],
+      "name": "SessionStarted",
+      "type": "event"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "string",
+          "name": "mode",
+          "type": "string"
+        }
+      ],
+      "name": "startSession",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    }
+  ]
+}

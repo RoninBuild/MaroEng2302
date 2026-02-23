@@ -1,0 +1,21 @@
+{
+    "name": "MaroEng Frames",
+    "short_name": "MaroEng",
+    "description": "14-Day English Frames Challenge",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#0a0a0a",
+    "theme_color": "#1ca350",
+    "icons": [
+        {
+            "src": "/vite.svg",
+            "sizes": "192x192",
+            "type": "image/svg+xml"
+        },
+        {
+            "src": "/vite.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+        }
+    ]
+}

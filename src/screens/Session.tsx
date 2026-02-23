@@ -4,7 +4,7 @@ import { useApp } from '../AppContext';
 import { getTodayQueue, generateQuizOptions } from '../utils/engine';
 import type { Frame } from '../types';
 import confetti from 'canvas-confetti';
-import { X, Volume2, ArrowRight, Check } from 'lucide-react';
+import { X, Volume2, Check } from 'lucide-react';
 
 export const playAudio = (text: string) => {
     if (!window.speechSynthesis) return;

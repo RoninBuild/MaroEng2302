@@ -3,2089 +3,2089 @@
     "id": 1,
     "block": "Core",
     "text_en": "I want to ____.",
-    "hint_ru": "Я хочу ___."
+    "hint_ru": "Я хочу ____."
   },
   {
     "id": 2,
     "block": "Core",
     "text_en": "I need to ____.",
-    "hint_ru": "Мне нужно ___."
+    "hint_ru": "Мне нужно ____."
   },
   {
     "id": 3,
     "block": "Core",
     "text_en": "I have to ____.",
-    "hint_ru": "Я должен ___."
+    "hint_ru": "Мне нужно / я должен(на) ____."
   },
   {
     "id": 4,
     "block": "Core",
     "text_en": "I don't have to ____.",
-    "hint_ru": "Мне не нужно ___."
+    "hint_ru": "Мне не нужно ____."
   },
   {
     "id": 5,
     "block": "Core",
     "text_en": "I would like to ____.",
-    "hint_ru": "Я хотел бы ___."
+    "hint_ru": "Я бы хотел(а) ____."
   },
   {
     "id": 6,
     "block": "Core",
     "text_en": "I would rather ____ than ____.",
-    "hint_ru": "Я бы предпочел ___, чем ___."
+    "hint_ru": "Я бы лучше ____, чем ____."
   },
   {
     "id": 7,
     "block": "Core",
     "text_en": "I prefer to ____.",
-    "hint_ru": "Я предпочитаю ___."
+    "hint_ru": "Я предпочитаю ____."
   },
   {
     "id": 8,
     "block": "Core",
     "text_en": "I prefer ____ to ____.",
-    "hint_ru": "Я предпочитаю ___ вместо ___."
+    "hint_ru": "Я предпочитаю ____ вместо ____."
   },
   {
     "id": 9,
     "block": "Core",
     "text_en": "I decided to ____.",
-    "hint_ru": "Я решил ___."
+    "hint_ru": "Я решил(а) ____."
   },
   {
     "id": 10,
     "block": "Core",
     "text_en": "I am going to ____.",
-    "hint_ru": "Я собираюсь в ___."
+    "hint_ru": "Я собираюсь ____."
   },
   {
     "id": 11,
     "block": "Core",
     "text_en": "I am not going to ____.",
-    "hint_ru": "Я не собираюсь ___."
+    "hint_ru": "Я не собираюсь ____."
   },
   {
     "id": 12,
     "block": "Core",
     "text_en": "I am about to ____.",
-    "hint_ru": "Я собираюсь ___."
+    "hint_ru": "Я вот-вот ____."
   },
   {
     "id": 13,
     "block": "Core",
     "text_en": "I am trying to ____.",
-    "hint_ru": "Я пытаюсь ___."
+    "hint_ru": "Я пытаюсь ____."
   },
   {
     "id": 14,
     "block": "Core",
     "text_en": "I am thinking about ____ing.",
-    "hint_ru": "Я думаю о ___инге."
+    "hint_ru": "Я подумываю о том, чтобы ____."
   },
   {
     "id": 15,
     "block": "Core",
     "text_en": "I am looking for ____.",
-    "hint_ru": "Я ищу ___."
+    "hint_ru": "Я ищу ____."
   },
   {
     "id": 16,
     "block": "Core",
     "text_en": "I am ready to ____.",
-    "hint_ru": "Я готов ___."
+    "hint_ru": "Я готов(а) ____."
   },
   {
     "id": 17,
     "block": "Core",
     "text_en": "I am not ready to ____.",
-    "hint_ru": "Я не готов к ___."
+    "hint_ru": "Я не готов(а) ____."
   },
   {
     "id": 18,
     "block": "Core",
     "text_en": "I am interested in ____.",
-    "hint_ru": "Меня интересует ___."
+    "hint_ru": "Мне интересно ____ / я интересуюсь ____."
   },
   {
     "id": 19,
     "block": "Core",
     "text_en": "I am worried about ____.",
-    "hint_ru": "Я беспокоюсь о ___."
+    "hint_ru": "Я переживаю из‑за ____."
   },
   {
     "id": 20,
     "block": "Core",
     "text_en": "I am excited about ____.",
-    "hint_ru": "Я в восторге от ___."
+    "hint_ru": "Я рад(а) / воодушевлён(а) из‑за ____."
   },
   {
     "id": 21,
     "block": "Core",
     "text_en": "I am afraid of ____.",
-    "hint_ru": "Я боюсь ___."
+    "hint_ru": "Я боюсь ____."
   },
   {
     "id": 22,
     "block": "Core",
     "text_en": "I am good at ____ing.",
-    "hint_ru": "Я хорошо умею ___ить."
+    "hint_ru": "I am good at ____ing."
   },
   {
     "id": 23,
     "block": "Core",
     "text_en": "I am bad at ____ing.",
-    "hint_ru": "Я плохо умею ___ить."
+    "hint_ru": "I am bad at ____ing."
   },
   {
     "id": 24,
     "block": "Core",
     "text_en": "I am used to ____ing.",
-    "hint_ru": "Я привык к ___ингу."
+    "hint_ru": "I am used to ____ing."
   },
   {
     "id": 25,
     "block": "Core",
     "text_en": "I am not used to ____ing.",
-    "hint_ru": "Я не привык к ___ингу."
+    "hint_ru": "I am not used to ____ing."
   },
   {
     "id": 26,
     "block": "Core",
     "text_en": "I have time to ____.",
-    "hint_ru": "У меня есть время, чтобы ___."
+    "hint_ru": "У меня есть время ____."
   },
   {
     "id": 27,
     "block": "Core",
     "text_en": "I have no time to ____.",
-    "hint_ru": "У меня нет времени на ___."
+    "hint_ru": "У меня нет времени ____."
   },
   {
     "id": 28,
     "block": "Core",
     "text_en": "I have a question about ____.",
-    "hint_ru": "У меня вопрос по поводу ___."
+    "hint_ru": "У меня вопрос насчёт ____."
   },
   {
     "id": 29,
     "block": "Core",
     "text_en": "I have a problem with ____.",
-    "hint_ru": "У меня проблема с ___."
+    "hint_ru": "У меня проблема с ____."
   },
   {
     "id": 30,
     "block": "Core",
     "text_en": "I have an idea: ____.",
-    "hint_ru": "У меня есть идея: ___."
+    "hint_ru": "У меня есть идея: ____."
   },
   {
     "id": 31,
     "block": "Core",
     "text_en": "I have to ____ again.",
-    "hint_ru": "Мне снова нужно ___."
+    "hint_ru": "Мне нужно снова ____."
   },
   {
     "id": 32,
     "block": "Core",
     "text_en": "You want to ____.",
-    "hint_ru": "Вы хотите ___."
+    "hint_ru": "You want to ____."
   },
   {
     "id": 33,
     "block": "Core",
     "text_en": "You need to ____.",
-    "hint_ru": "Вам нужно ___."
+    "hint_ru": "You need to ____."
   },
   {
     "id": 34,
     "block": "Core",
     "text_en": "You have to ____.",
-    "hint_ru": "Вы должны ___."
+    "hint_ru": "You have to ____."
   },
   {
     "id": 35,
     "block": "Core",
     "text_en": "You don't have to ____.",
-    "hint_ru": "Вам не обязательно ___."
+    "hint_ru": "You don't have to ____."
   },
   {
     "id": 36,
     "block": "Core",
     "text_en": "You would like to ____.",
-    "hint_ru": "Вы хотели бы ___."
+    "hint_ru": "You would like to ____."
   },
   {
     "id": 37,
     "block": "Core",
     "text_en": "You would rather ____ than ____.",
-    "hint_ru": "Вы предпочитаете ___, чем ___."
+    "hint_ru": "You would rather ____ than ____."
   },
   {
     "id": 38,
     "block": "Core",
     "text_en": "You prefer to ____.",
-    "hint_ru": "Вы предпочитаете ___."
+    "hint_ru": "You prefer to ____."
   },
   {
     "id": 39,
     "block": "Core",
     "text_en": "You prefer ____ to ____.",
-    "hint_ru": "Вы предпочитаете ___ вместо ___."
+    "hint_ru": "You prefer ____ to ____."
   },
   {
     "id": 40,
     "block": "Core",
     "text_en": "You decided to ____.",
-    "hint_ru": "Вы решили ___."
+    "hint_ru": "You decided to ____."
   },
   {
     "id": 41,
     "block": "Core",
     "text_en": "You are going to ____.",
-    "hint_ru": "Вы собираетесь в ___."
+    "hint_ru": "You are going to ____."
   },
   {
     "id": 42,
     "block": "Core",
     "text_en": "You are not going to ____.",
-    "hint_ru": "Вы не собираетесь ___."
+    "hint_ru": "You are not going to ____."
   },
   {
     "id": 43,
     "block": "Core",
     "text_en": "You are about to ____.",
-    "hint_ru": "Вы собираетесь ___."
+    "hint_ru": "You are about to ____."
   },
   {
     "id": 44,
     "block": "Core",
     "text_en": "You are trying to ____.",
-    "hint_ru": "Вы пытаетесь ___."
+    "hint_ru": "You are trying to ____."
   },
   {
     "id": 45,
     "block": "Core",
     "text_en": "You are thinking about ____ing.",
-    "hint_ru": "Вы думаете о ___инге."
+    "hint_ru": "You are thinking about ____ing."
   },
   {
     "id": 46,
     "block": "Core",
     "text_en": "You are looking for ____.",
-    "hint_ru": "Вы ищете ___."
+    "hint_ru": "You are looking for ____."
   },
   {
     "id": 47,
     "block": "Core",
     "text_en": "You are ready to ____.",
-    "hint_ru": "Вы готовы ___."
+    "hint_ru": "You are ready to ____."
   },
   {
     "id": 48,
     "block": "Core",
     "text_en": "You are not ready to ____.",
-    "hint_ru": "Вы не готовы к ___."
+    "hint_ru": "You are not ready to ____."
   },
   {
     "id": 49,
     "block": "Core",
     "text_en": "You are interested in ____.",
-    "hint_ru": "Вас интересует ___."
+    "hint_ru": "You are interested in ____."
   },
   {
     "id": 50,
     "block": "Core",
     "text_en": "You are worried about ____.",
-    "hint_ru": "Вы беспокоитесь о ___."
+    "hint_ru": "You are worried about ____."
   },
   {
     "id": 51,
     "block": "Core",
     "text_en": "You are excited about ____.",
-    "hint_ru": "Вы в восторге от ___."
+    "hint_ru": "You are excited about ____."
   },
   {
     "id": 52,
     "block": "Core",
     "text_en": "You are afraid of ____.",
-    "hint_ru": "Вы боитесь ___."
+    "hint_ru": "You are afraid of ____."
   },
   {
     "id": 53,
     "block": "Core",
     "text_en": "You are good at ____ing.",
-    "hint_ru": "Ты хорош в ___инге."
+    "hint_ru": "You are good at ____ing."
   },
   {
     "id": 54,
     "block": "Core",
     "text_en": "You are bad at ____ing.",
-    "hint_ru": "Ты плохо умеешь ___ить."
+    "hint_ru": "You are bad at ____ing."
   },
   {
     "id": 55,
     "block": "Core",
     "text_en": "You are used to ____ing.",
-    "hint_ru": "Вы привыкли к ___ингу."
+    "hint_ru": "You are used to ____ing."
   },
   {
     "id": 56,
     "block": "Core",
     "text_en": "You are not used to ____ing.",
-    "hint_ru": "Вы не привыкли к ___ингу."
+    "hint_ru": "You are not used to ____ing."
   },
   {
     "id": 57,
     "block": "Core",
     "text_en": "You have time to ____.",
-    "hint_ru": "У вас есть время, чтобы ___."
+    "hint_ru": "You have time to ____."
   },
   {
     "id": 58,
     "block": "Core",
     "text_en": "You have no time to ____.",
-    "hint_ru": "У вас нет времени на ___."
+    "hint_ru": "You have no time to ____."
   },
   {
     "id": 59,
     "block": "Core",
     "text_en": "You have a question about ____.",
-    "hint_ru": "У вас есть вопрос по поводу ___."
+    "hint_ru": "You have a question about ____."
   },
   {
     "id": 60,
     "block": "Core",
     "text_en": "You have a problem with ____.",
-    "hint_ru": "У вас проблема с ___."
+    "hint_ru": "You have a problem with ____."
   },
   {
     "id": 61,
     "block": "Core",
     "text_en": "You have an idea: ____.",
-    "hint_ru": "У вас есть идея: ___."
+    "hint_ru": "You have an idea: ____."
   },
   {
     "id": 62,
     "block": "Core",
     "text_en": "You have to ____ again.",
-    "hint_ru": "Вам придется снова нажать ___."
+    "hint_ru": "You have to ____ again."
   },
   {
     "id": 63,
     "block": "Core",
     "text_en": "We want to ____.",
-    "hint_ru": "Мы хотим ___."
+    "hint_ru": "We want to ____."
   },
   {
     "id": 64,
     "block": "Core",
     "text_en": "We need to ____.",
-    "hint_ru": "Нам нужно ___."
+    "hint_ru": "We need to ____."
   },
   {
     "id": 65,
     "block": "Core",
     "text_en": "We have to ____.",
-    "hint_ru": "Нам нужно ___."
+    "hint_ru": "We have to ____."
   },
   {
     "id": 66,
     "block": "Core",
     "text_en": "We don't have to ____.",
-    "hint_ru": "Нам не нужно ___."
+    "hint_ru": "We don't have to ____."
   },
   {
     "id": 67,
     "block": "Core",
     "text_en": "We would like to ____.",
-    "hint_ru": "Мы хотели бы ___."
+    "hint_ru": "We would like to ____."
   },
   {
     "id": 68,
     "block": "Core",
     "text_en": "We would rather ____ than ____.",
-    "hint_ru": "Мы предпочли бы ___, чем ___."
+    "hint_ru": "We would rather ____ than ____."
   },
   {
     "id": 69,
     "block": "Core",
     "text_en": "We prefer to ____.",
-    "hint_ru": "Мы предпочитаем ___."
+    "hint_ru": "We prefer to ____."
   },
   {
     "id": 70,
     "block": "Core",
     "text_en": "We prefer ____ to ____.",
-    "hint_ru": "Мы предпочитаем ___ вместо ___."
+    "hint_ru": "We prefer ____ to ____."
   },
   {
     "id": 71,
     "block": "Core",
     "text_en": "We decided to ____.",
-    "hint_ru": "Мы решили ___."
+    "hint_ru": "We decided to ____."
   },
   {
     "id": 72,
     "block": "Core",
     "text_en": "We are going to ____.",
-    "hint_ru": "Мы идем к ___."
+    "hint_ru": "We are going to ____."
   },
   {
     "id": 73,
     "block": "Core",
     "text_en": "We are not going to ____.",
-    "hint_ru": "Мы не собираемся ___."
+    "hint_ru": "We are not going to ____."
   },
   {
     "id": 74,
     "block": "Core",
     "text_en": "We are about to ____.",
-    "hint_ru": "Мы собираемся ___."
+    "hint_ru": "We are about to ____."
   },
   {
     "id": 75,
     "block": "Core",
     "text_en": "We are trying to ____.",
-    "hint_ru": "Мы пытаемся ___."
+    "hint_ru": "We are trying to ____."
   },
   {
     "id": 76,
     "block": "Core",
     "text_en": "We are thinking about ____ing.",
-    "hint_ru": "Мы думаем о ___инге."
+    "hint_ru": "We are thinking about ____ing."
   },
   {
     "id": 77,
     "block": "Core",
     "text_en": "We are looking for ____.",
-    "hint_ru": "Мы ищем ___."
+    "hint_ru": "We are looking for ____."
   },
   {
     "id": 78,
     "block": "Core",
     "text_en": "We are ready to ____.",
-    "hint_ru": "Мы готовы ___."
+    "hint_ru": "We are ready to ____."
   },
   {
     "id": 79,
     "block": "Core",
     "text_en": "We are not ready to ____.",
-    "hint_ru": "Мы не готовы к ___."
+    "hint_ru": "We are not ready to ____."
   },
   {
     "id": 80,
     "block": "Core",
     "text_en": "We are interested in ____.",
-    "hint_ru": "Нас интересует ___."
+    "hint_ru": "We are interested in ____."
   },
   {
     "id": 81,
     "block": "Core",
     "text_en": "We are worried about ____.",
-    "hint_ru": "Мы беспокоимся о ___."
+    "hint_ru": "We are worried about ____."
   },
   {
     "id": 82,
     "block": "Core",
     "text_en": "We are excited about ____.",
-    "hint_ru": "Мы в восторге от ___."
+    "hint_ru": "We are excited about ____."
   },
   {
     "id": 83,
     "block": "Core",
     "text_en": "We are afraid of ____.",
-    "hint_ru": "Мы боимся ___."
+    "hint_ru": "We are afraid of ____."
   },
   {
     "id": 84,
     "block": "Core",
     "text_en": "We are good at ____ing.",
-    "hint_ru": "Мы хороши в ___инге."
+    "hint_ru": "We are good at ____ing."
   },
   {
     "id": 85,
     "block": "Core",
     "text_en": "We are bad at ____ing.",
-    "hint_ru": "Мы плохо умеем ___ить."
+    "hint_ru": "We are bad at ____ing."
   },
   {
     "id": 86,
     "block": "Core",
     "text_en": "We are used to ____ing.",
-    "hint_ru": "Мы привыкли к ___ингу."
+    "hint_ru": "We are used to ____ing."
   },
   {
     "id": 87,
     "block": "Core",
     "text_en": "We are not used to ____ing.",
-    "hint_ru": "Мы не привыкли к ___ингу."
+    "hint_ru": "We are not used to ____ing."
   },
   {
     "id": 88,
     "block": "Core",
     "text_en": "We have time to ____.",
-    "hint_ru": "У нас есть время, чтобы ___."
+    "hint_ru": "We have time to ____."
   },
   {
     "id": 89,
     "block": "Core",
     "text_en": "We have no time to ____.",
-    "hint_ru": "У нас нет времени на ___."
+    "hint_ru": "We have no time to ____."
   },
   {
     "id": 90,
     "block": "Core",
     "text_en": "We have a question about ____.",
-    "hint_ru": "У нас есть вопрос по поводу ___."
+    "hint_ru": "We have a question about ____."
   },
   {
     "id": 91,
     "block": "Core",
     "text_en": "We have a problem with ____.",
-    "hint_ru": "У нас проблема с ___."
+    "hint_ru": "We have a problem with ____."
   },
   {
     "id": 92,
     "block": "Core",
     "text_en": "We have an idea: ____.",
-    "hint_ru": "У нас есть идея: ___."
+    "hint_ru": "We have an idea: ____."
   },
   {
     "id": 93,
     "block": "Core",
     "text_en": "We have to ____ again.",
-    "hint_ru": "Нам нужно снова нажать ___."
+    "hint_ru": "We have to ____ again."
   },
   {
     "id": 94,
     "block": "Core",
     "text_en": "They want to ____.",
-    "hint_ru": "Они хотят ___."
+    "hint_ru": "They want to ____."
   },
   {
     "id": 95,
     "block": "Core",
     "text_en": "They need to ____.",
-    "hint_ru": "Им нужно ___."
+    "hint_ru": "They need to ____."
   },
   {
     "id": 96,
     "block": "Core",
     "text_en": "They have to ____.",
-    "hint_ru": "Они должны ___."
+    "hint_ru": "They have to ____."
   },
   {
     "id": 97,
     "block": "Core",
     "text_en": "They don't have to ____.",
-    "hint_ru": "Им не обязательно ___."
+    "hint_ru": "They don't have to ____."
   },
   {
     "id": 98,
     "block": "Core",
     "text_en": "They would like to ____.",
-    "hint_ru": "Они хотели бы ___."
+    "hint_ru": "They would like to ____."
   },
   {
     "id": 99,
     "block": "Core",
     "text_en": "They would rather ____ than ____.",
-    "hint_ru": "Они предпочли бы ___, чем ___."
+    "hint_ru": "They would rather ____ than ____."
   },
   {
     "id": 100,
     "block": "Core",
     "text_en": "They prefer to ____.",
-    "hint_ru": "Они предпочитают ___."
+    "hint_ru": "They prefer to ____."
   },
   {
     "id": 101,
     "block": "Core",
     "text_en": "They prefer ____ to ____.",
-    "hint_ru": "Они предпочитают ___ вместо ___."
+    "hint_ru": "They prefer ____ to ____."
   },
   {
     "id": 102,
     "block": "Core",
     "text_en": "They decided to ____.",
-    "hint_ru": "Они решили ___."
+    "hint_ru": "They decided to ____."
   },
   {
     "id": 103,
     "block": "Core",
     "text_en": "They are going to ____.",
-    "hint_ru": "Они собираются в ___."
+    "hint_ru": "They are going to ____."
   },
   {
     "id": 104,
     "block": "Core",
     "text_en": "They are not going to ____.",
-    "hint_ru": "Они не собираются ___."
+    "hint_ru": "They are not going to ____."
   },
   {
     "id": 105,
     "block": "Core",
     "text_en": "They are about to ____.",
-    "hint_ru": "Они собираются ___."
+    "hint_ru": "They are about to ____."
   },
   {
     "id": 106,
     "block": "Core",
     "text_en": "They are trying to ____.",
-    "hint_ru": "Они пытаются ___."
+    "hint_ru": "They are trying to ____."
   },
   {
     "id": 107,
     "block": "Core",
     "text_en": "They are thinking about ____ing.",
-    "hint_ru": "Они думают о ___инге."
+    "hint_ru": "They are thinking about ____ing."
   },
   {
     "id": 108,
     "block": "Core",
     "text_en": "They are looking for ____.",
-    "hint_ru": "Они ищут ___."
+    "hint_ru": "They are looking for ____."
   },
   {
     "id": 109,
     "block": "Core",
     "text_en": "They are ready to ____.",
-    "hint_ru": "Они готовы ___."
+    "hint_ru": "They are ready to ____."
   },
   {
     "id": 110,
     "block": "Core",
     "text_en": "They are not ready to ____.",
-    "hint_ru": "Они не готовы к ___."
+    "hint_ru": "They are not ready to ____."
   },
   {
     "id": 111,
     "block": "Core",
     "text_en": "They are interested in ____.",
-    "hint_ru": "Их интересует ___."
+    "hint_ru": "They are interested in ____."
   },
   {
     "id": 112,
     "block": "Core",
     "text_en": "They are worried about ____.",
-    "hint_ru": "Они беспокоятся о ___."
+    "hint_ru": "They are worried about ____."
   },
   {
     "id": 113,
     "block": "Core",
     "text_en": "They are excited about ____.",
-    "hint_ru": "Они в восторге от ___."
+    "hint_ru": "They are excited about ____."
   },
   {
     "id": 114,
     "block": "Core",
     "text_en": "They are afraid of ____.",
-    "hint_ru": "Они боятся ___."
+    "hint_ru": "They are afraid of ____."
   },
   {
     "id": 115,
     "block": "Core",
     "text_en": "They are good at ____ing.",
-    "hint_ru": "Они хороши в ___инге."
+    "hint_ru": "They are good at ____ing."
   },
   {
     "id": 116,
     "block": "Core",
     "text_en": "They are bad at ____ing.",
-    "hint_ru": "Они плохи в ___инге."
+    "hint_ru": "They are bad at ____ing."
   },
   {
     "id": 117,
     "block": "Core",
     "text_en": "They are used to ____ing.",
-    "hint_ru": "Они привыкли к ___ингу."
+    "hint_ru": "They are used to ____ing."
   },
   {
     "id": 118,
     "block": "Core",
     "text_en": "They are not used to ____ing.",
-    "hint_ru": "Они не привыкли к ___ингу."
+    "hint_ru": "They are not used to ____ing."
   },
   {
     "id": 119,
     "block": "Core",
     "text_en": "They have time to ____.",
-    "hint_ru": "У них есть время, чтобы ___."
+    "hint_ru": "They have time to ____."
   },
   {
     "id": 120,
     "block": "Core",
     "text_en": "They have no time to ____.",
-    "hint_ru": "У них нет времени на ___."
+    "hint_ru": "They have no time to ____."
   },
   {
     "id": 121,
     "block": "Core",
     "text_en": "They have a question about ____.",
-    "hint_ru": "У них есть вопрос по поводу ___."
+    "hint_ru": "They have a question about ____."
   },
   {
     "id": 122,
     "block": "Core",
     "text_en": "They have a problem with ____.",
-    "hint_ru": "У них проблема с ___."
+    "hint_ru": "They have a problem with ____."
   },
   {
     "id": 123,
     "block": "Core",
     "text_en": "They have an idea: ____.",
-    "hint_ru": "У них есть идея: ___."
+    "hint_ru": "They have an idea: ____."
   },
   {
     "id": 124,
     "block": "Core",
     "text_en": "They have to ____ again.",
-    "hint_ru": "Им придется снова сделать ___."
+    "hint_ru": "They have to ____ again."
   },
   {
     "id": 125,
     "block": "Core",
-    "text_en": "He want to ____.",
-    "hint_ru": "Он хочет ___."
+    "text_en": "He wants to ____.",
+    "hint_ru": "He wants to ____."
   },
   {
     "id": 126,
     "block": "Core",
-    "text_en": "He need to ____.",
-    "hint_ru": "Ему нужно ___."
+    "text_en": "He needs to ____.",
+    "hint_ru": "He needs to ____."
   },
   {
     "id": 127,
     "block": "Core",
-    "text_en": "He have to ____.",
-    "hint_ru": "Он должен ___."
+    "text_en": "He has to ____.",
+    "hint_ru": "He has to ____."
   },
   {
     "id": 128,
     "block": "Core",
     "text_en": "He doesn't have to ____.",
-    "hint_ru": "Ему не обязательно ___."
+    "hint_ru": "He doesn't have to ____."
   },
   {
     "id": 129,
     "block": "Core",
     "text_en": "He would like to ____.",
-    "hint_ru": "Он хотел бы ___."
+    "hint_ru": "He would like to ____."
   },
   {
     "id": 130,
     "block": "Core",
     "text_en": "He would rather ____ than ____.",
-    "hint_ru": "Он предпочел бы ___, чем ___."
+    "hint_ru": "He would rather ____ than ____."
   },
   {
     "id": 131,
     "block": "Core",
-    "text_en": "He prefer to ____.",
-    "hint_ru": "Он предпочитает ___."
+    "text_en": "He prefers to ____.",
+    "hint_ru": "He prefers to ____."
   },
   {
     "id": 132,
     "block": "Core",
-    "text_en": "He prefer ____ to ____.",
-    "hint_ru": "Он предпочитает ___ вместо ___."
+    "text_en": "He prefers ____ to ____.",
+    "hint_ru": "He prefers ____ to ____."
   },
   {
     "id": 133,
     "block": "Core",
     "text_en": "He decided to ____.",
-    "hint_ru": "Он решил ___."
+    "hint_ru": "He decided to ____."
   },
   {
     "id": 134,
     "block": "Core",
     "text_en": "He is going to ____.",
-    "hint_ru": "Он собирается в ___."
+    "hint_ru": "He is going to ____."
   },
   {
     "id": 135,
     "block": "Core",
     "text_en": "He is not going to ____.",
-    "hint_ru": "Он не собирается ___."
+    "hint_ru": "He is not going to ____."
   },
   {
     "id": 136,
     "block": "Core",
     "text_en": "He is about to ____.",
-    "hint_ru": "Он собирается сделать ___."
+    "hint_ru": "He is about to ____."
   },
   {
     "id": 137,
     "block": "Core",
     "text_en": "He is trying to ____.",
-    "hint_ru": "Он пытается ___."
+    "hint_ru": "He is trying to ____."
   },
   {
     "id": 138,
     "block": "Core",
     "text_en": "He is thinking about ____ing.",
-    "hint_ru": "Он думает о ___инге."
+    "hint_ru": "He is thinking about ____ing."
   },
   {
     "id": 139,
     "block": "Core",
     "text_en": "He is looking for ____.",
-    "hint_ru": "Он ищет ___."
+    "hint_ru": "He is looking for ____."
   },
   {
     "id": 140,
     "block": "Core",
     "text_en": "He is ready to ____.",
-    "hint_ru": "Он готов ___."
+    "hint_ru": "He is ready to ____."
   },
   {
     "id": 141,
     "block": "Core",
     "text_en": "He is not ready to ____.",
-    "hint_ru": "Он не готов к ___."
+    "hint_ru": "He is not ready to ____."
   },
   {
     "id": 142,
     "block": "Core",
     "text_en": "He is interested in ____.",
-    "hint_ru": "Его интересует ___."
+    "hint_ru": "He is interested in ____."
   },
   {
     "id": 143,
     "block": "Core",
     "text_en": "He is worried about ____.",
-    "hint_ru": "Он беспокоится о ___."
+    "hint_ru": "He is worried about ____."
   },
   {
     "id": 144,
     "block": "Core",
     "text_en": "He is excited about ____.",
-    "hint_ru": "Он в восторге от ___."
+    "hint_ru": "He is excited about ____."
   },
   {
     "id": 145,
     "block": "Core",
     "text_en": "He is afraid of ____.",
-    "hint_ru": "Он боится ___."
+    "hint_ru": "He is afraid of ____."
   },
   {
     "id": 146,
     "block": "Core",
     "text_en": "He is good at ____ing.",
-    "hint_ru": "Он хорош в ___инге."
+    "hint_ru": "He is good at ____ing."
   },
   {
     "id": 147,
     "block": "Core",
     "text_en": "He is bad at ____ing.",
-    "hint_ru": "Он плохо умеет ___ить."
+    "hint_ru": "He is bad at ____ing."
   },
   {
     "id": 148,
     "block": "Core",
     "text_en": "He is used to ____ing.",
-    "hint_ru": "Он привык к ___ингу."
+    "hint_ru": "He is used to ____ing."
   },
   {
     "id": 149,
     "block": "Core",
     "text_en": "He is not used to ____ing.",
-    "hint_ru": "Он не привык к ___ингу."
+    "hint_ru": "He is not used to ____ing."
   },
   {
     "id": 150,
     "block": "Core",
     "text_en": "He has time to ____.",
-    "hint_ru": "У него есть время, чтобы ___."
+    "hint_ru": "He has time to ____."
   },
   {
     "id": 151,
     "block": "Core",
     "text_en": "He has no time to ____.",
-    "hint_ru": "У него нет времени на ___."
+    "hint_ru": "He has no time to ____."
   },
   {
     "id": 152,
     "block": "Core",
     "text_en": "He has a question about ____.",
-    "hint_ru": "У него есть вопрос по поводу ___."
+    "hint_ru": "He has a question about ____."
   },
   {
     "id": 153,
     "block": "Core",
     "text_en": "He has a problem with ____.",
-    "hint_ru": "У него проблема с ___."
+    "hint_ru": "He has a problem with ____."
   },
   {
     "id": 154,
     "block": "Core",
     "text_en": "He has an idea: ____.",
-    "hint_ru": "У него есть идея: ___."
+    "hint_ru": "He has an idea: ____."
   },
   {
     "id": 155,
     "block": "Core",
     "text_en": "He has to ____ again.",
-    "hint_ru": "Ему придется снова нажать ___."
+    "hint_ru": "He has to ____ again."
   },
   {
     "id": 156,
     "block": "Core",
-    "text_en": "She want to ____.",
-    "hint_ru": "Она хочет ___."
+    "text_en": "She wants to ____.",
+    "hint_ru": "She wants to ____."
   },
   {
     "id": 157,
     "block": "Core",
-    "text_en": "She need to ____.",
-    "hint_ru": "Ей нужно ___."
+    "text_en": "She needs to ____.",
+    "hint_ru": "She needs to ____."
   },
   {
     "id": 158,
     "block": "Core",
-    "text_en": "She have to ____.",
-    "hint_ru": "Она должна ___."
+    "text_en": "She has to ____.",
+    "hint_ru": "She has to ____."
   },
   {
     "id": 159,
     "block": "Core",
     "text_en": "She doesn't have to ____.",
-    "hint_ru": "Ей не обязательно ___."
+    "hint_ru": "She doesn't have to ____."
   },
   {
     "id": 160,
     "block": "Core",
     "text_en": "She would like to ____.",
-    "hint_ru": "Она хотела бы ___."
+    "hint_ru": "She would like to ____."
   },
   {
     "id": 161,
     "block": "Core",
     "text_en": "She would rather ____ than ____.",
-    "hint_ru": "Она предпочла бы ___, чем ___."
+    "hint_ru": "She would rather ____ than ____."
   },
   {
     "id": 162,
     "block": "Core",
-    "text_en": "She prefer to ____.",
-    "hint_ru": "Она предпочитает ___."
+    "text_en": "She prefers to ____.",
+    "hint_ru": "She prefers to ____."
   },
   {
     "id": 163,
     "block": "Core",
-    "text_en": "She prefer ____ to ____.",
-    "hint_ru": "Она предпочитает ___ вместо ___."
+    "text_en": "She prefers ____ to ____.",
+    "hint_ru": "She prefers ____ to ____."
   },
   {
     "id": 164,
     "block": "Core",
     "text_en": "She decided to ____.",
-    "hint_ru": "Она решила ___."
+    "hint_ru": "She decided to ____."
   },
   {
     "id": 165,
     "block": "Core",
     "text_en": "She is going to ____.",
-    "hint_ru": "Она собирается в ___."
+    "hint_ru": "She is going to ____."
   },
   {
     "id": 166,
     "block": "Core",
     "text_en": "She is not going to ____.",
-    "hint_ru": "Она не собирается ___."
+    "hint_ru": "She is not going to ____."
   },
   {
     "id": 167,
     "block": "Core",
     "text_en": "She is about to ____.",
-    "hint_ru": "Она собирается ___."
+    "hint_ru": "She is about to ____."
   },
   {
     "id": 168,
     "block": "Core",
     "text_en": "She is trying to ____.",
-    "hint_ru": "Она пытается ___."
+    "hint_ru": "She is trying to ____."
   },
   {
     "id": 169,
     "block": "Core",
     "text_en": "She is thinking about ____ing.",
-    "hint_ru": "Она думает о ___инге."
+    "hint_ru": "She is thinking about ____ing."
   },
   {
     "id": 170,
     "block": "Core",
     "text_en": "She is looking for ____.",
-    "hint_ru": "Она ищет ___."
+    "hint_ru": "She is looking for ____."
   },
   {
     "id": 171,
     "block": "Core",
     "text_en": "She is ready to ____.",
-    "hint_ru": "Она готова ___."
+    "hint_ru": "She is ready to ____."
   },
   {
     "id": 172,
     "block": "Core",
     "text_en": "She is not ready to ____.",
-    "hint_ru": "Она не готова к ___."
+    "hint_ru": "She is not ready to ____."
   },
   {
     "id": 173,
     "block": "Core",
     "text_en": "She is interested in ____.",
-    "hint_ru": "Ее интересует ___."
+    "hint_ru": "She is interested in ____."
   },
   {
     "id": 174,
     "block": "Core",
     "text_en": "She is worried about ____.",
-    "hint_ru": "Она беспокоится о ___."
+    "hint_ru": "She is worried about ____."
   },
   {
     "id": 175,
     "block": "Core",
     "text_en": "She is excited about ____.",
-    "hint_ru": "Она в восторге от ___."
+    "hint_ru": "She is excited about ____."
   },
   {
     "id": 176,
     "block": "Core",
     "text_en": "She is afraid of ____.",
-    "hint_ru": "Она боится ___."
+    "hint_ru": "She is afraid of ____."
   },
   {
     "id": 177,
     "block": "Core",
     "text_en": "She is good at ____ing.",
-    "hint_ru": "Она хороша в ___инге."
+    "hint_ru": "She is good at ____ing."
   },
   {
     "id": 178,
     "block": "Core",
     "text_en": "She is bad at ____ing.",
-    "hint_ru": "Она плохо умеет ___ing."
+    "hint_ru": "She is bad at ____ing."
   },
   {
     "id": 179,
     "block": "Core",
     "text_en": "She is used to ____ing.",
-    "hint_ru": "Она привыкла к ___ингу."
+    "hint_ru": "She is used to ____ing."
   },
   {
     "id": 180,
     "block": "Core",
     "text_en": "She is not used to ____ing.",
-    "hint_ru": "Она не привыкла к ___ингу."
+    "hint_ru": "She is not used to ____ing."
   },
   {
     "id": 181,
     "block": "Core",
     "text_en": "She has time to ____.",
-    "hint_ru": "У нее есть время, чтобы ___."
+    "hint_ru": "She has time to ____."
   },
   {
     "id": 182,
     "block": "Core",
     "text_en": "She has no time to ____.",
-    "hint_ru": "У нее нет времени на ___."
+    "hint_ru": "She has no time to ____."
   },
   {
     "id": 183,
     "block": "Core",
     "text_en": "She has a question about ____.",
-    "hint_ru": "У нее есть вопрос по поводу ___."
+    "hint_ru": "She has a question about ____."
   },
   {
     "id": 184,
     "block": "Core",
     "text_en": "She has a problem with ____.",
-    "hint_ru": "У нее проблемы с ___."
+    "hint_ru": "She has a problem with ____."
   },
   {
     "id": 185,
     "block": "Core",
     "text_en": "She has an idea: ____.",
-    "hint_ru": "У нее есть идея: ___."
+    "hint_ru": "She has an idea: ____."
   },
   {
     "id": 186,
     "block": "Core",
     "text_en": "She has to ____ again.",
-    "hint_ru": "Ей придется снова сделать ___."
+    "hint_ru": "She has to ____ again."
   },
   {
     "id": 187,
     "block": "Questions & Requests",
     "text_en": "Can you ____?",
-    "hint_ru": "Можешь ___?"
+    "hint_ru": "Можете ____?"
   },
   {
     "id": 188,
     "block": "Questions & Requests",
     "text_en": "Could you ____?",
-    "hint_ru": "Не могли бы вы ___?"
+    "hint_ru": "Не могли бы вы ____?"
   },
   {
     "id": 189,
     "block": "Questions & Requests",
     "text_en": "Could you ____, please?",
-    "hint_ru": "Не могли бы вы ___, пожалуйста?"
+    "hint_ru": "Не могли бы вы ____, пожалуйста?"
   },
   {
     "id": 190,
     "block": "Questions & Requests",
     "text_en": "Would you ____, please?",
-    "hint_ru": "Не могли бы вы ___, пожалуйста?"
+    "hint_ru": "Вы могли бы ____, пожалуйста?"
   },
   {
     "id": 191,
     "block": "Questions & Requests",
     "text_en": "Would you mind ____ing?",
-    "hint_ru": "Вы не против ___ing?"
+    "hint_ru": "Would you mind ____ing?"
   },
   {
     "id": 192,
     "block": "Questions & Requests",
     "text_en": "Would you mind if I ____?",
-    "hint_ru": "Вы не возражаете, если я ___?"
+    "hint_ru": "Would you mind if I ____?"
   },
   {
     "id": 193,
     "block": "Questions & Requests",
     "text_en": "Do you mind if I ____?",
-    "hint_ru": "Вы не возражаете, если я ___?"
+    "hint_ru": "Do you mind if I ____?"
   },
   {
     "id": 194,
     "block": "Questions & Requests",
     "text_en": "Is it okay if I ____?",
-    "hint_ru": "Ничего, если я ___?"
+    "hint_ru": "Is it okay if I ____?"
   },
   {
     "id": 195,
     "block": "Questions & Requests",
     "text_en": "Is it possible to ____?",
-    "hint_ru": "Возможно ли ___?"
+    "hint_ru": "Is it possible to ____?"
   },
   {
     "id": 196,
     "block": "Questions & Requests",
     "text_en": "Is there a way to ____?",
-    "hint_ru": "Есть ли способ получить ___?"
+    "hint_ru": "Is there a way to ____?"
   },
   {
     "id": 197,
     "block": "Questions & Requests",
     "text_en": "Can I ____?",
-    "hint_ru": "Могу ли я ___?"
+    "hint_ru": "Можно мне ____?"
   },
   {
     "id": 198,
     "block": "Questions & Requests",
     "text_en": "Could I ____?",
-    "hint_ru": "Могу ли я ___?"
+    "hint_ru": "Могу ли я ____?"
   },
   {
     "id": 199,
     "block": "Questions & Requests",
     "text_en": "Should I ____?",
-    "hint_ru": "Должен ли я ___?"
+    "hint_ru": "Стоит ли мне ____?"
   },
   {
     "id": 200,
     "block": "Questions & Requests",
     "text_en": "Do I need to ____?",
-    "hint_ru": "Нужно ли мне ___?"
+    "hint_ru": "Do I need to ____?"
   },
   {
     "id": 201,
     "block": "Questions & Requests",
     "text_en": "Do you want to ____?",
-    "hint_ru": "Вы хотите ___?"
+    "hint_ru": "Do you want to ____?"
   },
   {
     "id": 202,
     "block": "Questions & Requests",
     "text_en": "Would you like to ____?",
-    "hint_ru": "___отите ___?"
+    "hint_ru": "Would you like to ____?"
   },
   {
     "id": 203,
     "block": "Questions & Requests",
     "text_en": "Can we ____?",
-    "hint_ru": "Можем ли мы ___?"
+    "hint_ru": "Can we ____?"
   },
   {
     "id": 204,
     "block": "Questions & Requests",
     "text_en": "Could we ____?",
-    "hint_ru": "Можем ли мы ___?"
+    "hint_ru": "Could we ____?"
   },
   {
     "id": 205,
     "block": "Questions & Requests",
     "text_en": "Should we ____?",
-    "hint_ru": "Должны ли мы ___?"
+    "hint_ru": "Should we ____?"
   },
   {
     "id": 206,
     "block": "Questions & Requests",
     "text_en": "Can you help me with ____?",
-    "hint_ru": "Можете ли вы помочь мне с ___?"
+    "hint_ru": "Can you help me with ____?"
   },
   {
     "id": 207,
     "block": "Questions & Requests",
     "text_en": "Can you check ____ for me?",
-    "hint_ru": "Можете ли вы проверить ___ для меня?"
+    "hint_ru": "Can you check ____ for me?"
   },
   {
     "id": 208,
     "block": "Questions & Requests",
     "text_en": "Can you send me ____?",
-    "hint_ru": "Можете ли вы прислать мне ___?"
+    "hint_ru": "Can you send me ____?"
   },
   {
     "id": 209,
     "block": "Questions & Requests",
     "text_en": "Can you show me ____?",
-    "hint_ru": "Можешь показать мне ___?"
+    "hint_ru": "Can you show me ____?"
   },
   {
     "id": 210,
     "block": "Questions & Requests",
     "text_en": "Can you explain ____?",
-    "hint_ru": "Можете ли вы объяснить ___?"
+    "hint_ru": "Can you explain ____?"
   },
   {
     "id": 211,
     "block": "Questions & Requests",
     "text_en": "What do you mean by ____?",
-    "hint_ru": "Что вы подразумеваете под ___?"
+    "hint_ru": "What do you mean by ____?"
   },
   {
     "id": 212,
     "block": "Questions & Requests",
     "text_en": "What’s the difference between ____ and ____?",
-    "hint_ru": "В чем разница между ___ и ___?"
+    "hint_ru": "What's the difference between ____ and ____?"
   },
   {
     "id": 213,
     "block": "Questions & Requests",
     "text_en": "How long does it take to ____?",
-    "hint_ru": "Сколько времени потребуется, чтобы ___?"
+    "hint_ru": "How long does it take to ____?"
   },
   {
     "id": 214,
     "block": "Questions & Requests",
     "text_en": "How much does ____ cost?",
-    "hint_ru": "Сколько стоит ___?"
+    "hint_ru": "How much does ____ cost?"
   },
   {
     "id": 215,
     "block": "Questions & Requests",
     "text_en": "What does ____ mean?",
-    "hint_ru": "Что означает ___?"
+    "hint_ru": "What does ____ mean?"
   },
   {
     "id": 216,
     "block": "Questions & Requests",
     "text_en": "How do you say ____ in English?",
-    "hint_ru": "Как сказать ___ по-английски?"
+    "hint_ru": "How do you say ____ in English?"
   },
   {
     "id": 217,
     "block": "Questions & Requests",
     "text_en": "How do you spell ____?",
-    "hint_ru": "Как пишется ___?"
+    "hint_ru": "How do you spell ____?"
   },
   {
     "id": 218,
     "block": "Questions & Requests",
     "text_en": "How do you pronounce ____?",
-    "hint_ru": "Как вы произносите ___?"
+    "hint_ru": "How do you pronounce ____?"
   },
   {
     "id": 219,
     "block": "Questions & Requests",
     "text_en": "Can you repeat that?",
-    "hint_ru": "Можете ли вы это повторить?"
+    "hint_ru": "Can you repeat that?"
   },
   {
     "id": 220,
     "block": "Questions & Requests",
     "text_en": "Can you say that again?",
-    "hint_ru": "Можете ли вы сказать это еще раз?"
+    "hint_ru": "Can you say that again?"
   },
   {
     "id": 221,
     "block": "Clarify / I didn't understand",
     "text_en": "Sorry, I didn’t catch that.",
-    "hint_ru": "Извините, я этого не уловил."
+    "hint_ru": "Sorry, I didn't catch that."
   },
   {
     "id": 222,
     "block": "Core",
     "text_en": "Sorry, I didn’t understand.",
-    "hint_ru": "Извините, я не понял."
+    "hint_ru": "Sorry, I didn't understand."
   },
   {
     "id": 223,
     "block": "Questions & Requests",
     "text_en": "Can you speak more slowly?",
-    "hint_ru": "Можешь говорить медленнее?"
+    "hint_ru": "Can you speak more slowly?"
   },
   {
     "id": 224,
     "block": "Questions & Requests",
     "text_en": "Can you give me an example?",
-    "hint_ru": "Можете ли вы привести мне пример?"
+    "hint_ru": "Can you give me an example?"
   },
   {
     "id": 225,
     "block": "Questions & Requests",
     "text_en": "Can you write it down?",
-    "hint_ru": "Можете ли вы это записать?"
+    "hint_ru": "Can you write it down?"
   },
   {
     "id": 226,
     "block": "Questions & Requests",
     "text_en": "Can you be more specific?",
-    "hint_ru": "Можете ли вы быть более конкретным?"
+    "hint_ru": "Can you be more specific?"
   },
   {
     "id": 227,
     "block": "Core",
     "text_en": "I think ____.",
-    "hint_ru": "Я думаю, ___."
+    "hint_ru": "Я думаю, что ____."
   },
   {
     "id": 228,
     "block": "Core",
     "text_en": "I don’t think ____.",
-    "hint_ru": "Я не думаю, ___."
+    "hint_ru": "Я не думаю, что ____."
   },
   {
     "id": 229,
     "block": "Core",
     "text_en": "In my opinion, ____.",
-    "hint_ru": "По моему мнению, ___."
+    "hint_ru": "По-моему, ____."
   },
   {
     "id": 230,
     "block": "Core",
     "text_en": "To be honest, ____.",
-    "hint_ru": "Честно говоря, ___."
+    "hint_ru": "Честно говоря, ____."
   },
   {
     "id": 231,
     "block": "Core",
     "text_en": "Basically, ____.",
-    "hint_ru": "В общем, ___."
+    "hint_ru": "В общем, ____."
   },
   {
     "id": 232,
     "block": "Core",
     "text_en": "Actually, ____.",
-    "hint_ru": "На самом деле, ___."
+    "hint_ru": "Вообще-то, ____."
   },
   {
     "id": 233,
     "block": "Core",
     "text_en": "The thing is, ____.",
-    "hint_ru": "Дело в том, ___."
+    "hint_ru": "Дело в том, что ____."
   },
   {
     "id": 234,
     "block": "Core",
     "text_en": "The point is, ____.",
-    "hint_ru": "Дело в том, ___."
+    "hint_ru": "Суть в том, что ____."
   },
   {
     "id": 235,
     "block": "Questions & Requests",
     "text_en": "What I mean is, ____.",
-    "hint_ru": "Я имею в виду ___."
+    "hint_ru": "Я имею в виду, что ____."
   },
   {
     "id": 236,
     "block": "Core",
     "text_en": "The reason is ____.",
-    "hint_ru": "Причина — ___."
+    "hint_ru": "Причина в том, что ____."
   },
   {
     "id": 237,
     "block": "Core",
     "text_en": "That’s why ____.",
-    "hint_ru": "Вот почему ___."
+    "hint_ru": "That's why ____."
   },
   {
     "id": 238,
     "block": "Reactions / patterns",
     "text_en": "It depends on ____.",
-    "hint_ru": "Это зависит от ___."
+    "hint_ru": "Это зависит от ____."
   },
   {
     "id": 239,
     "block": "Core",
     "text_en": "It looks like ____.",
-    "hint_ru": "Похоже на ___."
+    "hint_ru": "Похоже, что ____."
   },
   {
     "id": 240,
     "block": "Core",
     "text_en": "It seems like ____.",
-    "hint_ru": "Похоже на ___."
+    "hint_ru": "Кажется, что ____."
   },
   {
     "id": 241,
     "block": "Connectors / logic",
     "text_en": "I’m not sure if ____.",
-    "hint_ru": "Я не уверен, что ___."
+    "hint_ru": "I'm not sure if ____."
   },
   {
     "id": 242,
     "block": "Reactions / patterns",
     "text_en": "I’m not sure about ____.",
-    "hint_ru": "Я не уверен насчет ___."
+    "hint_ru": "I'm not sure about ____."
   },
   {
     "id": 243,
     "block": "Connectors / logic",
     "text_en": "Because ____, ____.",
-    "hint_ru": "Потому что ___, ___."
+    "hint_ru": "Потому что ____, ____."
   },
   {
     "id": 244,
     "block": "Connectors / logic",
     "text_en": "If ____, ____.",
-    "hint_ru": "Если ___, ___."
+    "hint_ru": "Если ____, ____."
   },
   {
     "id": 245,
     "block": "Questions & Requests",
     "text_en": "When ____, ____.",
-    "hint_ru": "Когда ___, ___."
+    "hint_ru": "Когда ____, ____."
   },
   {
     "id": 246,
     "block": "Connectors / logic",
     "text_en": "Before ____, ____.",
-    "hint_ru": "До ___, ___."
+    "hint_ru": "Перед тем как ____, ____."
   },
   {
     "id": 247,
     "block": "Connectors / logic",
     "text_en": "After ____, ____.",
-    "hint_ru": "После ___, ___."
+    "hint_ru": "После того как ____, ____."
   },
   {
     "id": 248,
     "block": "Connectors / logic",
     "text_en": "Even if ____, ____.",
-    "hint_ru": "Даже если ___, ___."
+    "hint_ru": "Даже если ____, ____."
   },
   {
     "id": 249,
     "block": "Core",
     "text_en": "Unless ____, ____.",
-    "hint_ru": "Если только ___, ___."
+    "hint_ru": "Если только не ____, ____."
   },
   {
     "id": 250,
     "block": "Connectors / logic",
     "text_en": "Although ____, ____.",
-    "hint_ru": "___отя ___, ___."
+    "hint_ru": "Хотя ____, ____."
   },
   {
     "id": 251,
     "block": "Connectors / logic",
     "text_en": "____ because ____.",
-    "hint_ru": "___, потому что ___."
+    "hint_ru": "____, потому что ____."
   },
   {
     "id": 252,
     "block": "Connectors / logic",
     "text_en": "____ so ____.",
-    "hint_ru": "___ так ___."
+    "hint_ru": "____, так что ____."
   },
   {
     "id": 253,
     "block": "Connectors / logic",
     "text_en": "____ but ____.",
-    "hint_ru": "___, но ___."
+    "hint_ru": "____, но ____."
   },
   {
     "id": 254,
     "block": "Core",
     "text_en": "First, ____. Then, ____.",
-    "hint_ru": "Во-первых, ___. Затем ___."
+    "hint_ru": "Сначала ____. Потом ____."
   },
   {
     "id": 255,
     "block": "Core",
     "text_en": "In the end, ____.",
-    "hint_ru": "В конце концов, ___."
+    "hint_ru": "In the end, ____."
   },
   {
     "id": 256,
     "block": "Core",
     "text_en": "At least ____.",
-    "hint_ru": "По крайней мере ___."
+    "hint_ru": "At least ____."
   },
   {
     "id": 257,
     "block": "Modals",
     "text_en": "I can ____.",
-    "hint_ru": "Я могу ___."
+    "hint_ru": "I can ____."
   },
   {
     "id": 258,
     "block": "Core",
     "text_en": "I can’t ____.",
-    "hint_ru": "Я не могу ___."
+    "hint_ru": "I can't ____."
   },
   {
     "id": 259,
     "block": "Modals",
     "text_en": "I could ____.",
-    "hint_ru": "Я мог бы ___."
+    "hint_ru": "I could ____."
   },
   {
     "id": 260,
     "block": "Core",
     "text_en": "I couldn’t ____.",
-    "hint_ru": "Я не мог ___."
+    "hint_ru": "I couldn't ____."
   },
   {
     "id": 261,
     "block": "Modals",
     "text_en": "I should ____.",
-    "hint_ru": "Я должен ___."
+    "hint_ru": "I should ____."
   },
   {
     "id": 262,
     "block": "Core",
     "text_en": "I shouldn’t ____.",
-    "hint_ru": "Я не должен ___."
+    "hint_ru": "I shouldn't ____."
   },
   {
     "id": 263,
     "block": "Modals",
     "text_en": "I might ____.",
-    "hint_ru": "Я мог бы ___."
+    "hint_ru": "I might ____."
   },
   {
     "id": 264,
     "block": "Modals",
     "text_en": "I may ____.",
-    "hint_ru": "Я могу ___."
+    "hint_ru": "I may ____."
   },
   {
     "id": 265,
     "block": "Modals",
     "text_en": "I must ____.",
-    "hint_ru": "Я должен ___."
+    "hint_ru": "I must ____."
   },
   {
     "id": 266,
     "block": "Modals",
     "text_en": "You can ____.",
-    "hint_ru": "Вы можете ___."
+    "hint_ru": "You can ____."
   },
   {
     "id": 267,
     "block": "Core",
     "text_en": "You can’t ____.",
-    "hint_ru": "Вы не можете ___."
+    "hint_ru": "You can't ____."
   },
   {
     "id": 268,
     "block": "Modals",
     "text_en": "You could ____.",
-    "hint_ru": "Вы могли бы ___."
+    "hint_ru": "You could ____."
   },
   {
     "id": 269,
     "block": "Core",
     "text_en": "You couldn’t ____.",
-    "hint_ru": "Ты не мог ___."
+    "hint_ru": "You couldn't ____."
   },
   {
     "id": 270,
     "block": "Modals",
     "text_en": "You should ____.",
-    "hint_ru": "Вам следует ___."
+    "hint_ru": "You should ____."
   },
   {
     "id": 271,
     "block": "Core",
     "text_en": "You shouldn’t ____.",
-    "hint_ru": "Тебе не следует ___."
+    "hint_ru": "You shouldn't ____."
   },
   {
     "id": 272,
     "block": "Modals",
     "text_en": "You might ____.",
-    "hint_ru": "Вы могли бы ___."
+    "hint_ru": "You might ____."
   },
   {
     "id": 273,
     "block": "Modals",
     "text_en": "You may ____.",
-    "hint_ru": "Вы можете ___."
+    "hint_ru": "You may ____."
   },
   {
     "id": 274,
     "block": "Modals",
     "text_en": "You must ____.",
-    "hint_ru": "Вы должны ___."
+    "hint_ru": "You must ____."
   },
   {
     "id": 275,
     "block": "Modals",
     "text_en": "We can ____.",
-    "hint_ru": "Мы можем ___."
+    "hint_ru": "We can ____."
   },
   {
     "id": 276,
     "block": "Core",
     "text_en": "We can’t ____.",
-    "hint_ru": "Мы не можем ___."
+    "hint_ru": "We can't ____."
   },
   {
     "id": 277,
     "block": "Modals",
     "text_en": "We could ____.",
-    "hint_ru": "Мы могли бы ___."
+    "hint_ru": "We could ____."
   },
   {
     "id": 278,
     "block": "Core",
     "text_en": "We couldn’t ____.",
-    "hint_ru": "Мы не смогли ___."
+    "hint_ru": "We couldn't ____."
   },
   {
     "id": 279,
     "block": "Modals",
     "text_en": "We should ____.",
-    "hint_ru": "Мы должны ___."
+    "hint_ru": "We should ____."
   },
   {
     "id": 280,
     "block": "Core",
     "text_en": "We shouldn’t ____.",
-    "hint_ru": "Нам не следует ___."
+    "hint_ru": "We shouldn't ____."
   },
   {
     "id": 281,
     "block": "Modals",
     "text_en": "We might ____.",
-    "hint_ru": "Мы могли бы ___."
+    "hint_ru": "We might ____."
   },
   {
     "id": 282,
     "block": "Modals",
     "text_en": "We may ____.",
-    "hint_ru": "Мы можем ___."
+    "hint_ru": "We may ____."
   },
   {
     "id": 283,
     "block": "Modals",
     "text_en": "We must ____.",
-    "hint_ru": "Мы должны ___."
+    "hint_ru": "We must ____."
   },
   {
     "id": 284,
     "block": "Modals",
     "text_en": "They can ____.",
-    "hint_ru": "Они могут ___."
+    "hint_ru": "They can ____."
   },
   {
     "id": 285,
     "block": "Core",
     "text_en": "They can’t ____.",
-    "hint_ru": "Они не могут ___."
+    "hint_ru": "They can't ____."
   },
   {
     "id": 286,
     "block": "Modals",
     "text_en": "They could ____.",
-    "hint_ru": "Они могли бы ___."
+    "hint_ru": "They could ____."
   },
   {
     "id": 287,
     "block": "Core",
     "text_en": "They couldn’t ____.",
-    "hint_ru": "Они не могли ___."
+    "hint_ru": "They couldn't ____."
   },
   {
     "id": 288,
     "block": "Modals",
     "text_en": "They should ____.",
-    "hint_ru": "Они должны ___."
+    "hint_ru": "They should ____."
   },
   {
     "id": 289,
     "block": "Core",
     "text_en": "They shouldn’t ____.",
-    "hint_ru": "Они не должны ___."
+    "hint_ru": "They shouldn't ____."
   },
   {
     "id": 290,
     "block": "Modals",
     "text_en": "They might ____.",
-    "hint_ru": "Они могут ___."
+    "hint_ru": "They might ____."
   },
   {
     "id": 291,
     "block": "Modals",
     "text_en": "They may ____.",
-    "hint_ru": "Они могут ___."
+    "hint_ru": "They may ____."
   },
   {
     "id": 292,
     "block": "Modals",
     "text_en": "They must ____.",
-    "hint_ru": "Они должны ___."
+    "hint_ru": "They must ____."
   },
   {
     "id": 293,
     "block": "Modals",
     "text_en": "He can ____.",
-    "hint_ru": "Он может ___."
+    "hint_ru": "He can ____."
   },
   {
     "id": 294,
     "block": "Core",
     "text_en": "He can’t ____.",
-    "hint_ru": "Он не может ___."
+    "hint_ru": "He can't ____."
   },
   {
     "id": 295,
     "block": "Modals",
     "text_en": "He could ____.",
-    "hint_ru": "Он мог бы ___."
+    "hint_ru": "He could ____."
   },
   {
     "id": 296,
     "block": "Core",
     "text_en": "He couldn’t ____.",
-    "hint_ru": "Он не мог ___."
+    "hint_ru": "He couldn't ____."
   },
   {
     "id": 297,
     "block": "Modals",
     "text_en": "He should ____.",
-    "hint_ru": "Он должен ___."
+    "hint_ru": "He should ____."
   },
   {
     "id": 298,
     "block": "Core",
     "text_en": "He shouldn’t ____.",
-    "hint_ru": "Он не должен ___."
+    "hint_ru": "He shouldn't ____."
   },
   {
     "id": 299,
     "block": "Modals",
     "text_en": "He might ____.",
-    "hint_ru": "Он мог бы ___."
+    "hint_ru": "He might ____."
   },
   {
     "id": 300,
     "block": "Modals",
     "text_en": "He may ____.",
-    "hint_ru": "Он может ___."
+    "hint_ru": "He may ____."
   },
   {
     "id": 301,
     "block": "Modals",
     "text_en": "He must ____.",
-    "hint_ru": "Он должен ___."
+    "hint_ru": "He must ____."
   },
   {
     "id": 302,
     "block": "Modals",
     "text_en": "She can ____.",
-    "hint_ru": "Она может ___."
+    "hint_ru": "She can ____."
   },
   {
     "id": 303,
     "block": "Core",
     "text_en": "She can’t ____.",
-    "hint_ru": "Она не может ___."
+    "hint_ru": "She can't ____."
   },
   {
     "id": 304,
     "block": "Modals",
     "text_en": "She could ____.",
-    "hint_ru": "Она могла бы ___."
+    "hint_ru": "She could ____."
   },
   {
     "id": 305,
     "block": "Core",
     "text_en": "She couldn’t ____.",
-    "hint_ru": "Она не могла ___."
+    "hint_ru": "She couldn't ____."
   },
   {
     "id": 306,
     "block": "Modals",
     "text_en": "She should ____.",
-    "hint_ru": "Она должна ___."
+    "hint_ru": "She should ____."
   },
   {
     "id": 307,
     "block": "Core",
     "text_en": "She shouldn’t ____.",
-    "hint_ru": "Она не должна ___."
+    "hint_ru": "She shouldn't ____."
   },
   {
     "id": 308,
     "block": "Modals",
     "text_en": "She might ____.",
-    "hint_ru": "Она могла бы ___."
+    "hint_ru": "She might ____."
   },
   {
     "id": 309,
     "block": "Modals",
     "text_en": "She may ____.",
-    "hint_ru": "Она может ___."
+    "hint_ru": "She may ____."
   },
   {
     "id": 310,
     "block": "Modals",
     "text_en": "She must ____.",
-    "hint_ru": "Она должна ___."
+    "hint_ru": "She must ____."
   },
   {
     "id": 311,
     "block": "Reactions / patterns",
     "text_en": "It’s too ____.",
-    "hint_ru": "Это слишком ___."
+    "hint_ru": "It's too ____."
   },
   {
     "id": 312,
     "block": "Reactions / patterns",
     "text_en": "It’s not ____ enough.",
-    "hint_ru": "Этого недостаточно ___."
+    "hint_ru": "It's not ____ enough."
   },
   {
     "id": 313,
     "block": "Reactions / patterns",
     "text_en": "It’s ____ enough.",
-    "hint_ru": "Этого ___ достаточно."
+    "hint_ru": "It's ____ enough."
   },
   {
     "id": 314,
     "block": "Core",
     "text_en": "It’s the best ____.",
-    "hint_ru": "Это лучшее ___."
+    "hint_ru": "It's the best ____."
   },
   {
     "id": 315,
     "block": "Core",
     "text_en": "It’s the worst ____.",
-    "hint_ru": "Это худшее ___."
+    "hint_ru": "It's the worst ____."
   },
   {
     "id": 316,
     "block": "Core",
     "text_en": "I’m looking forward to ____ing.",
-    "hint_ru": "Я с нетерпением жду ___инга."
+    "hint_ru": "I'm looking forward to ____ing."
   },
   {
     "id": 317,
     "block": "Core",
     "text_en": "I’m in the middle of ____ing.",
-    "hint_ru": "Я в середине ___инга."
+    "hint_ru": "I'm in the middle of ____ing."
   },
   {
     "id": 318,
     "block": "Core",
     "text_en": "I’m done ____ing.",
-    "hint_ru": "Я закончил ___инг."
+    "hint_ru": "I'm done ____ing."
   },
   {
     "id": 319,
     "block": "Core",
     "text_en": "I’m tired of ____ing.",
-    "hint_ru": "Я устал от ___инга."
+    "hint_ru": "I'm tired of ____ing."
   },
   {
     "id": 320,
     "block": "Core",
     "text_en": "I’m afraid to ____.",
-    "hint_ru": "Я боюсь ___."
+    "hint_ru": "I'm afraid to ____."
   },
   {
     "id": 321,
     "block": "Core",
     "text_en": "I’m afraid that ____.",
-    "hint_ru": "Я боюсь, что ___."
+    "hint_ru": "I'm afraid that ____."
   },
   {
     "id": 322,
     "block": "Core",
     "text_en": "I hope ____.",
-    "hint_ru": "Я надеюсь, что ___."
+    "hint_ru": "I hope ____."
   },
   {
     "id": 323,
     "block": "Core",
     "text_en": "I hope it ____.",
-    "hint_ru": "Я надеюсь, что это ___."
+    "hint_ru": "I hope it ____."
   },
   {
     "id": 324,
     "block": "Core",
     "text_en": "I hope to ____.",
-    "hint_ru": "Я надеюсь, что ___."
+    "hint_ru": "I hope to ____."
   },
   {
     "id": 325,
     "block": "Core",
     "text_en": "I wish ____.",
-    "hint_ru": "Я желаю ___."
+    "hint_ru": "I wish ____."
   },
   {
     "id": 326,
     "block": "Clarify / I didn't understand",
     "text_en": "I didn’t mean to ____.",
-    "hint_ru": "Я не хотел ___."
+    "hint_ru": "I didn't mean to ____."
   },
   {
     "id": 327,
     "block": "Core",
     "text_en": "I forgot to ____.",
-    "hint_ru": "Я забыл ___."
+    "hint_ru": "I forgot to ____."
   },
   {
     "id": 328,
     "block": "Core",
     "text_en": "I remembered to ____.",
-    "hint_ru": "Я вспомнил ___."
+    "hint_ru": "I remembered to ____."
   },
   {
     "id": 329,
     "block": "Core",
     "text_en": "I used to ____.",
-    "hint_ru": "Раньше я делал ___."
+    "hint_ru": "I used to ____."
   },
   {
     "id": 330,
     "block": "Core",
     "text_en": "I’m trying not to ____.",
-    "hint_ru": "Я стараюсь не ___."
+    "hint_ru": "I'm trying not to ____."
   },
   {
     "id": 331,
     "block": "Core",
     "text_en": "I need help with ____.",
-    "hint_ru": "Мне нужна помощь с ___."
+    "hint_ru": "I need help with ____."
   },
   {
     "id": 332,
     "block": "Core",
     "text_en": "I have to ____ first.",
-    "hint_ru": "Сначала мне нужно ___."
+    "hint_ru": "I have to ____ first."
   },
   {
     "id": 333,
     "block": "Core",
     "text_en": "I can’t afford ____.",
-    "hint_ru": "Я не могу себе позволить ___."
+    "hint_ru": "I can't afford ____."
   },
   {
     "id": 334,
     "block": "Core",
     "text_en": "I’m sorry for ____.",
-    "hint_ru": "Мне жаль ___."
+    "hint_ru": "I'm sorry for ____."
   },
   {
     "id": 335,
     "block": "Reactions / patterns",
     "text_en": "Thanks for ____.",
-    "hint_ru": "Спасибо за ___."
+    "hint_ru": "Thanks for ____."
   },
   {
     "id": 336,
     "block": "Core",
     "text_en": "There’s ____.",
-    "hint_ru": "Есть ___."
+    "hint_ru": "There's ____."
   },
   {
     "id": 337,
     "block": "Core",
     "text_en": "There are ____.",
-    "hint_ru": "Есть ___."
+    "hint_ru": "Есть ____."
   },
   {
     "id": 338,
     "block": "Core",
     "text_en": "This is ____.",
-    "hint_ru": "Это ___."
+    "hint_ru": "This is ____."
   },
   {
     "id": 339,
     "block": "Core",
     "text_en": "That is ____.",
-    "hint_ru": "Это ___."
+    "hint_ru": "That is ____."
   },
   {
     "id": 340,
     "block": "Core",
     "text_en": "Here’s ____.",
-    "hint_ru": "Вот ___."
+    "hint_ru": "Here's ____."
   },
   {
     "id": 341,
     "block": "Core",
     "text_en": "Here are ____.",
-    "hint_ru": "Вот ___."
+    "hint_ru": "Here are ____."
   },
   {
     "id": 342,
     "block": "Reactions / patterns",
     "text_en": "I have too much ____.",
-    "hint_ru": "У меня слишком много ___."
+    "hint_ru": "I have too much ____."
   },
   {
     "id": 343,
     "block": "Reactions / patterns",
     "text_en": "I have too many ____.",
-    "hint_ru": "У меня слишком много ___."
+    "hint_ru": "I have too many ____."
   },
   {
     "id": 344,
     "block": "Reactions / patterns",
     "text_en": "I don’t have enough ____.",
-    "hint_ru": "Мне не хватает ___."
+    "hint_ru": "I don't have enough ____."
   },
   {
     "id": 345,
     "block": "Core",
     "text_en": "I need more ____.",
-    "hint_ru": "Мне нужно больше ___."
+    "hint_ru": "I need more ____."
   },
   {
     "id": 346,
     "block": "Core",
     "text_en": "I need less ____.",
-    "hint_ru": "Мне нужно меньше ___."
+    "hint_ru": "I need less ____."
   },
   {
     "id": 347,
     "block": "Reactions / patterns",
     "text_en": "It depends.",
-    "hint_ru": "Это зависит."
+    "hint_ru": "Зависит."
   },
   {
     "id": 348,
     "block": "Reactions / patterns",
     "text_en": "I’m not sure.",
-    "hint_ru": "Я не уверен."
+    "hint_ru": "Я не уверен(а)."
   },
   {
     "id": 349,
@@ -2097,547 +2097,547 @@
     "id": 350,
     "block": "Reactions / patterns",
     "text_en": "I get it.",
-    "hint_ru": "Я понимаю."
+    "hint_ru": "Я понял(а)."
   },
   {
     "id": 351,
     "block": "Reactions / patterns",
     "text_en": "I don’t get it.",
-    "hint_ru": "Я этого не понимаю."
+    "hint_ru": "Я не понимаю."
   },
   {
     "id": 352,
     "block": "Reactions / patterns",
     "text_en": "No worries.",
-    "hint_ru": "Не беспокойся."
+    "hint_ru": "Не переживай(те)."
   },
   {
     "id": 353,
     "block": "Reactions / patterns",
     "text_en": "Sounds good.",
-    "hint_ru": "Звучит отлично."
+    "hint_ru": "Звучит хорошо."
   },
   {
     "id": 354,
     "block": "Reactions / patterns",
     "text_en": "Sounds great.",
-    "hint_ru": "Звучит великолепно."
+    "hint_ru": "Sounds great."
   },
   {
     "id": 355,
     "block": "Reactions / patterns",
     "text_en": "Sounds fine.",
-    "hint_ru": "Звучит нормально."
+    "hint_ru": "Sounds fine."
   },
   {
     "id": 356,
     "block": "Reactions / patterns",
     "text_en": "Sounds interesting.",
-    "hint_ru": "Звучит интересно."
+    "hint_ru": "Sounds interesting."
   },
   {
     "id": 357,
     "block": "Reactions / patterns",
     "text_en": "Let me think.",
-    "hint_ru": "Дай мне подумать."
+    "hint_ru": "Let me think."
   },
   {
     "id": 358,
     "block": "Core",
     "text_en": "Give me a second.",
-    "hint_ru": "Дай мне секунду."
+    "hint_ru": "Give me a second."
   },
   {
     "id": 359,
     "block": "Core",
     "text_en": "One moment, please.",
-    "hint_ru": "Одну минутку, пожалуйста."
+    "hint_ru": "One moment, please."
   },
   {
     "id": 360,
     "block": "Core",
     "text_en": "Good point.",
-    "hint_ru": "___орошая мысль."
+    "hint_ru": "Good point."
   },
   {
     "id": 361,
     "block": "Core",
     "text_en": "I agree.",
-    "hint_ru": "Я согласен."
+    "hint_ru": "I agree."
   },
   {
     "id": 362,
     "block": "Core",
     "text_en": "I disagree.",
-    "hint_ru": "Я не согласен."
+    "hint_ru": "I disagree."
   },
   {
     "id": 363,
     "block": "Core",
     "text_en": "Exactly.",
-    "hint_ru": "Точно."
+    "hint_ru": "Exactly."
   },
   {
     "id": 364,
     "block": "Core",
     "text_en": "Not exactly.",
-    "hint_ru": "Не совсем."
+    "hint_ru": "Not exactly."
   },
   {
     "id": 365,
     "block": "Reactions / patterns",
     "text_en": "Maybe.",
-    "hint_ru": "Может быть."
+    "hint_ru": "Maybe."
   },
   {
     "id": 366,
     "block": "Core",
     "text_en": "Of course.",
-    "hint_ru": "Конечно."
+    "hint_ru": "Of course."
   },
   {
     "id": 367,
     "block": "Core",
     "text_en": "Absolutely.",
-    "hint_ru": "Абсолютно."
+    "hint_ru": "Absolutely."
   },
   {
     "id": 368,
     "block": "Reactions / patterns",
     "text_en": "Not really.",
-    "hint_ru": "Не совсем."
+    "hint_ru": "Not really."
   },
   {
     "id": 369,
     "block": "Core",
     "text_en": "My mistake.",
-    "hint_ru": "Моя ошибка."
+    "hint_ru": "My mistake."
   },
   {
     "id": 370,
     "block": "Core",
     "text_en": "It happens.",
-    "hint_ru": "Такое случается."
+    "hint_ru": "It happens."
   },
   {
     "id": 371,
     "block": "Reactions / patterns",
     "text_en": "Thanks anyway.",
-    "hint_ru": "В любом случае спасибо."
+    "hint_ru": "Thanks anyway."
   },
   {
     "id": 372,
     "block": "Reactions / patterns",
     "text_en": "I appreciate it.",
-    "hint_ru": "Я ценю это."
+    "hint_ru": "I appreciate it."
   },
   {
     "id": 373,
     "block": "Reactions / patterns",
     "text_en": "You’re welcome.",
-    "hint_ru": "Пожалуйста."
+    "hint_ru": "You're welcome."
   },
   {
     "id": 374,
     "block": "Core",
     "text_en": "No problem.",
-    "hint_ru": "Без проблем."
+    "hint_ru": "No problem."
   },
   {
     "id": 375,
     "block": "Reactions / patterns",
     "text_en": "Sure.",
-    "hint_ru": "Конечно."
+    "hint_ru": "Sure."
   },
   {
     "id": 376,
     "block": "Reactions / patterns",
     "text_en": "Sure thing.",
-    "hint_ru": "Конечно."
+    "hint_ru": "Sure thing."
   },
   {
     "id": 377,
     "block": "Core",
     "text_en": "All right.",
-    "hint_ru": "Все в порядке."
+    "hint_ru": "All right."
   },
   {
     "id": 378,
     "block": "Core",
     "text_en": "Got it.",
-    "hint_ru": "Понятно."
+    "hint_ru": "Got it."
   },
   {
     "id": 379,
     "block": "Reactions / patterns",
     "text_en": "Fair enough.",
-    "hint_ru": "Справедливо."
+    "hint_ru": "Fair enough."
   },
   {
     "id": 380,
     "block": "Core",
     "text_en": "Keep me posted.",
-    "hint_ru": "Держите меня в курсе."
+    "hint_ru": "Keep me posted."
   },
   {
     "id": 381,
     "block": "Core",
     "text_en": "I’ll let you know.",
-    "hint_ru": "Я дам вам знать."
+    "hint_ru": "I'll let you know."
   },
   {
     "id": 382,
     "block": "Questions & Requests",
     "text_en": "What’s the plan?",
-    "hint_ru": "Каков план?"
+    "hint_ru": "What's the plan?"
   },
   {
     "id": 383,
     "block": "Questions & Requests",
     "text_en": "What’s next?",
-    "hint_ru": "Что дальше?"
+    "hint_ru": "What's next?"
   },
   {
     "id": 384,
     "block": "Core",
     "text_en": "Let’s ____ today.",
-    "hint_ru": "Давайте ___ сегодня."
+    "hint_ru": "Давай(те) ____ сегодня."
   },
   {
     "id": 385,
     "block": "Questions & Requests",
     "text_en": "Can we ____ today?",
-    "hint_ru": "Можем ли мы ___ сегодня?"
+    "hint_ru": "Можем ____ сегодня?"
   },
   {
     "id": 386,
     "block": "Questions & Requests",
     "text_en": "Are you free today?",
-    "hint_ru": "Ты сегодня свободен?"
+    "hint_ru": "Are you free today?"
   },
   {
     "id": 387,
     "block": "Questions & Requests",
     "text_en": "Does today work for you?",
-    "hint_ru": "Сегодняшний день вам подходит?"
+    "hint_ru": "Does today work for you?"
   },
   {
     "id": 388,
     "block": "Modals",
     "text_en": "I can ____ today.",
-    "hint_ru": "Я могу ___ сегодня."
+    "hint_ru": "Я могу ____ сегодня."
   },
   {
     "id": 389,
     "block": "Core",
     "text_en": "I can’t ____ today.",
-    "hint_ru": "Я не могу ___ сегодня."
+    "hint_ru": "Я не могу ____ сегодня."
   },
   {
     "id": 390,
     "block": "Core",
     "text_en": "Let’s ____ tomorrow.",
-    "hint_ru": "Давай ___ завтра."
+    "hint_ru": "Давай(те) ____ завтра."
   },
   {
     "id": 391,
     "block": "Questions & Requests",
     "text_en": "Can we ____ tomorrow?",
-    "hint_ru": "Можем ли мы ___ завтра?"
+    "hint_ru": "Можем ____ завтра?"
   },
   {
     "id": 392,
     "block": "Questions & Requests",
     "text_en": "Are you free tomorrow?",
-    "hint_ru": "Ты свободен завтра?"
+    "hint_ru": "Are you free tomorrow?"
   },
   {
     "id": 393,
     "block": "Questions & Requests",
     "text_en": "Does tomorrow work for you?",
-    "hint_ru": "Завтрашний день вам подходит?"
+    "hint_ru": "Does tomorrow work for you?"
   },
   {
     "id": 394,
     "block": "Modals",
     "text_en": "I can ____ tomorrow.",
-    "hint_ru": "Я могу ___ завтра."
+    "hint_ru": "Я могу ____ завтра."
   },
   {
     "id": 395,
     "block": "Core",
     "text_en": "I can’t ____ tomorrow.",
-    "hint_ru": "Я не могу ___ завтра."
+    "hint_ru": "Я не могу ____ завтра."
   },
   {
     "id": 396,
     "block": "Core",
     "text_en": "Let’s ____ this afternoon.",
-    "hint_ru": "Давайте ___ сегодня днем."
+    "hint_ru": "Давай(те) ____ сегодня днём."
   },
   {
     "id": 397,
     "block": "Questions & Requests",
     "text_en": "Can we ____ this afternoon?",
-    "hint_ru": "Можем ли мы ___ сегодня днем?"
+    "hint_ru": "Можем ____ сегодня днём?"
   },
   {
     "id": 398,
     "block": "Questions & Requests",
     "text_en": "Are you free this afternoon?",
-    "hint_ru": "Ты свободен сегодня днём?"
+    "hint_ru": "Are you free this afternoon?"
   },
   {
     "id": 399,
     "block": "Questions & Requests",
     "text_en": "Does this afternoon work for you?",
-    "hint_ru": "Вам подходит этот день во второй половине дня?"
+    "hint_ru": "Does this afternoon work for you?"
   },
   {
     "id": 400,
     "block": "Modals",
     "text_en": "I can ____ this afternoon.",
-    "hint_ru": "Я могу ___ сегодня днем."
+    "hint_ru": "Я могу ____ сегодня днём."
   },
   {
     "id": 401,
     "block": "Core",
     "text_en": "I can’t ____ this afternoon.",
-    "hint_ru": "Я не могу ___ сегодня днем."
+    "hint_ru": "Я не могу ____ сегодня днём."
   },
   {
     "id": 402,
     "block": "Core",
     "text_en": "Let’s ____ this evening.",
-    "hint_ru": "Давайте ___ сегодня вечером."
+    "hint_ru": "Давай(те) ____ сегодня вечером."
   },
   {
     "id": 403,
     "block": "Questions & Requests",
     "text_en": "Can we ____ this evening?",
-    "hint_ru": "Можем ли мы ___ сегодня вечером?"
+    "hint_ru": "Можем ____ сегодня вечером?"
   },
   {
     "id": 404,
     "block": "Questions & Requests",
     "text_en": "Are you free this evening?",
-    "hint_ru": "Ты свободен сегодня вечером?"
+    "hint_ru": "Are you free this evening?"
   },
   {
     "id": 405,
     "block": "Questions & Requests",
     "text_en": "Does this evening work for you?",
-    "hint_ru": "Этот вечер вам подходит?"
+    "hint_ru": "Does this evening work for you?"
   },
   {
     "id": 406,
     "block": "Modals",
     "text_en": "I can ____ this evening.",
-    "hint_ru": "Я могу ___ сегодня вечером."
+    "hint_ru": "Я могу ____ сегодня вечером."
   },
   {
     "id": 407,
     "block": "Core",
     "text_en": "I can’t ____ this evening.",
-    "hint_ru": "Я не могу ___ сегодня вечером."
+    "hint_ru": "Я не могу ____ сегодня вечером."
   },
   {
     "id": 408,
     "block": "Core",
     "text_en": "Let’s ____ this weekend.",
-    "hint_ru": "Давайте ___ на этих выходных."
+    "hint_ru": "Давай(те) ____ на этих выходных."
   },
   {
     "id": 409,
     "block": "Questions & Requests",
     "text_en": "Can we ____ this weekend?",
-    "hint_ru": "Можем ли мы ___ на этих выходных?"
+    "hint_ru": "Можем ____ на этих выходных?"
   },
   {
     "id": 410,
     "block": "Questions & Requests",
     "text_en": "Are you free this weekend?",
-    "hint_ru": "Ты свободен на этих выходных?"
+    "hint_ru": "Are you free this weekend?"
   },
   {
     "id": 411,
     "block": "Questions & Requests",
     "text_en": "Does this weekend work for you?",
-    "hint_ru": "Эти выходные вам подходят?"
+    "hint_ru": "Does this weekend work for you?"
   },
   {
     "id": 412,
     "block": "Modals",
     "text_en": "I can ____ this weekend.",
-    "hint_ru": "Я могу ___ в эти выходные."
+    "hint_ru": "Я могу ____ на этих выходных."
   },
   {
     "id": 413,
     "block": "Core",
     "text_en": "I can’t ____ this weekend.",
-    "hint_ru": "Я не могу ___ в эти выходные."
+    "hint_ru": "Я не могу ____ на этих выходных."
   },
   {
     "id": 414,
     "block": "Core",
     "text_en": "Let’s ____ next week.",
-    "hint_ru": "Давайте ___ на следующей неделе."
+    "hint_ru": "Давай(те) ____ на следующей неделе."
   },
   {
     "id": 415,
     "block": "Questions & Requests",
     "text_en": "Can we ____ next week?",
-    "hint_ru": "Можем ли мы ___ на следующей неделе?"
+    "hint_ru": "Можем ____ на следующей неделе?"
   },
   {
     "id": 416,
     "block": "Questions & Requests",
     "text_en": "Are you free next week?",
-    "hint_ru": "Ты свободен на следующей неделе?"
+    "hint_ru": "Are you free next week?"
   },
   {
     "id": 417,
     "block": "Questions & Requests",
     "text_en": "Does next week work for you?",
-    "hint_ru": "Следующая неделя подойдет вам?"
+    "hint_ru": "Does next week work for you?"
   },
   {
     "id": 418,
     "block": "Modals",
     "text_en": "I can ____ next week.",
-    "hint_ru": "Я могу ___ на следующей неделе."
+    "hint_ru": "Я могу ____ на следующей неделе."
   },
   {
     "id": 419,
     "block": "Core",
     "text_en": "I can’t ____ next week.",
-    "hint_ru": "Я не могу ___ на следующей неделе."
+    "hint_ru": "Я не могу ____ на следующей неделе."
   },
   {
     "id": 420,
     "block": "Core",
     "text_en": "Let’s ____ right now.",
-    "hint_ru": "Давайте ___ прямо сейчас."
+    "hint_ru": "Давай(те) ____ прямо сейчас."
   },
   {
     "id": 421,
     "block": "Questions & Requests",
     "text_en": "Can we ____ right now?",
-    "hint_ru": "Можем ли мы ___ прямо сейчас?"
+    "hint_ru": "Можем ____ прямо сейчас?"
   },
   {
     "id": 422,
     "block": "Questions & Requests",
     "text_en": "Are you free right now?",
-    "hint_ru": "Ты сейчас свободен?"
+    "hint_ru": "Are you free right now?"
   },
   {
     "id": 423,
     "block": "Questions & Requests",
     "text_en": "Does right now work for you?",
-    "hint_ru": "Прямо сейчас вам подходит?"
+    "hint_ru": "Does right now work for you?"
   },
   {
     "id": 424,
     "block": "Modals",
     "text_en": "I can ____ right now.",
-    "hint_ru": "Я могу ___ прямо сейчас."
+    "hint_ru": "Я могу ____ прямо сейчас."
   },
   {
     "id": 425,
     "block": "Core",
     "text_en": "I can’t ____ right now.",
-    "hint_ru": "Я не могу ___ прямо сейчас."
+    "hint_ru": "Я не могу ____ прямо сейчас."
   },
   {
     "id": 426,
     "block": "Core",
     "text_en": "Let’s ____ later.",
-    "hint_ru": "Давайте ___ позже."
+    "hint_ru": "Давай(те) ____ позже."
   },
   {
     "id": 427,
     "block": "Questions & Requests",
     "text_en": "Can we ____ later?",
-    "hint_ru": "Можем ли мы ___ позже?"
+    "hint_ru": "Можем ____ позже?"
   },
   {
     "id": 428,
     "block": "Questions & Requests",
     "text_en": "Are you free later?",
-    "hint_ru": "Ты свободен позже?"
+    "hint_ru": "Are you free later?"
   },
   {
     "id": 429,
     "block": "Questions & Requests",
     "text_en": "Does later work for you?",
-    "hint_ru": "Позже вам подойдет?"
+    "hint_ru": "Does later work for you?"
   },
   {
     "id": 430,
     "block": "Modals",
     "text_en": "I can ____ later.",
-    "hint_ru": "Я могу ___ позже."
+    "hint_ru": "Я могу ____ позже."
   },
   {
     "id": 431,
     "block": "Core",
     "text_en": "I can’t ____ later.",
-    "hint_ru": "Я не смогу ___ позже."
+    "hint_ru": "Я не могу ____ позже."
   },
   {
     "id": 432,
     "block": "Core",
     "text_en": "Please ____.",
-    "hint_ru": "Пожалуйста, ___."
+    "hint_ru": "Пожалуйста, ____."
   },
   {
     "id": 433,
     "block": "Connectors / logic",
     "text_en": "Please ____ if you can.",
-    "hint_ru": "Пожалуйста, ___, если можете."
+    "hint_ru": "Пожалуйста, ____."
   },
   {
     "id": 434,
     "block": "Connectors / logic",
     "text_en": "Please ____ when you have time.",
-    "hint_ru": "Пожалуйста, ___, когда у вас будет время."
+    "hint_ru": "Пожалуйста, ____."
   },
   {
     "id": 435,
     "block": "Core",
     "text_en": "Please ____ and let me know.",
-    "hint_ru": "Пожалуйста, ___ и дайте мне знать."
+    "hint_ru": "Пожалуйста, ____."
   },
   {
     "id": 436,
     "block": "Core",
     "text_en": "Please ____ and confirm.",
-    "hint_ru": "Пожалуйста, ___ и подтвердите."
+    "hint_ru": "Пожалуйста, ____."
   },
   {
     "id": 437,
     "block": "Core",
     "text_en": "Please ____ and try again.",
-    "hint_ru": "Пожалуйста, нажмите ___ и повторите попытку."
+    "hint_ru": "Пожалуйста, ____."
   },
   {
     "id": 438,
     "block": "Questions & Requests",
     "text_en": "Could you please ____?",
-    "hint_ru": "Не могли бы вы, пожалуйста, ___?"
+    "hint_ru": "Could you please ____?"
   },
   {
     "id": 439,
     "block": "Questions & Requests",
     "text_en": "Can you please ____?",
-    "hint_ru": "Можешь пожалуйста ___?"
+    "hint_ru": "Can you please ____?"
   },
   {
     "id": 440,
     "block": "Questions & Requests",
     "text_en": "Would you please ____?",
-    "hint_ru": "Не могли бы вы ___?"
+    "hint_ru": "Would you please ____?"
   },
   {
     "id": 441,
@@ -2649,13 +2649,13 @@
     "id": 442,
     "block": "Questions & Requests",
     "text_en": "Can you check the time, please?",
-    "hint_ru": "Можете ли вы проверить время, пожалуйста?"
+    "hint_ru": "Можете проверить время, пожалуйста?"
   },
   {
     "id": 443,
     "block": "Core",
     "text_en": "Let’s check the time.",
-    "hint_ru": "Давайте проверим время."
+    "hint_ru": "Давай(те) проверить время."
   },
   {
     "id": 444,
@@ -2667,13 +2667,13 @@
     "id": 445,
     "block": "Questions & Requests",
     "text_en": "Can you check the address, please?",
-    "hint_ru": "Можете ли вы проверить адрес, пожалуйста?"
+    "hint_ru": "Можете проверить адрес, пожалуйста?"
   },
   {
     "id": 446,
     "block": "Core",
     "text_en": "Let’s check the address.",
-    "hint_ru": "Давайте проверим адрес."
+    "hint_ru": "Давай(те) проверить адрес."
   },
   {
     "id": 447,
@@ -2685,13 +2685,13 @@
     "id": 448,
     "block": "Questions & Requests",
     "text_en": "Can you check the details, please?",
-    "hint_ru": "Можете ли вы проверить детали, пожалуйста?"
+    "hint_ru": "Можете проверить детали, пожалуйста?"
   },
   {
     "id": 449,
     "block": "Core",
     "text_en": "Let’s check the details.",
-    "hint_ru": "Давайте проверим детали."
+    "hint_ru": "Давай(те) проверить детали."
   },
   {
     "id": 450,
@@ -2703,13 +2703,13 @@
     "id": 451,
     "block": "Questions & Requests",
     "text_en": "Can you check the price, please?",
-    "hint_ru": "Можете ли вы проверить цену, пожалуйста?"
+    "hint_ru": "Можете проверить цену, пожалуйста?"
   },
   {
     "id": 452,
     "block": "Core",
     "text_en": "Let’s check the price.",
-    "hint_ru": "Давайте проверим цену."
+    "hint_ru": "Давай(те) проверить цену."
   },
   {
     "id": 453,
@@ -2721,13 +2721,13 @@
     "id": 454,
     "block": "Questions & Requests",
     "text_en": "Can you check the schedule, please?",
-    "hint_ru": "Можете ли вы проверить расписание, пожалуйста?"
+    "hint_ru": "Можете проверить расписание, пожалуйста?"
   },
   {
     "id": 455,
     "block": "Core",
     "text_en": "Let’s check the schedule.",
-    "hint_ru": "Давайте проверим расписание."
+    "hint_ru": "Давай(те) проверить расписание."
   },
   {
     "id": 456,
@@ -2739,13 +2739,13 @@
     "id": 457,
     "block": "Questions & Requests",
     "text_en": "Can you send the link, please?",
-    "hint_ru": "Можете ли вы прислать ссылку, пожалуйста?"
+    "hint_ru": "Можете отправить ссылку, пожалуйста?"
   },
   {
     "id": 458,
     "block": "Core",
     "text_en": "Let’s send the link.",
-    "hint_ru": "Давайте отправим ссылку."
+    "hint_ru": "Давай(те) отправить ссылку."
   },
   {
     "id": 459,
@@ -2757,31 +2757,31 @@
     "id": 460,
     "block": "Questions & Requests",
     "text_en": "Can you send the file, please?",
-    "hint_ru": "Можете ли вы прислать файл, пожалуйста?"
+    "hint_ru": "Можете отправить файл, пожалуйста?"
   },
   {
     "id": 461,
     "block": "Core",
     "text_en": "Let’s send the file.",
-    "hint_ru": "Давайте отправим файл."
+    "hint_ru": "Давай(те) отправить файл."
   },
   {
     "id": 462,
     "block": "Core",
     "text_en": "I need to send the details.",
-    "hint_ru": "Мне нужно отправить подробности."
+    "hint_ru": "Мне нужно отправить детали."
   },
   {
     "id": 463,
     "block": "Questions & Requests",
     "text_en": "Can you send the details, please?",
-    "hint_ru": "Можете ли вы прислать подробности, пожалуйста?"
+    "hint_ru": "Можете отправить детали, пожалуйста?"
   },
   {
     "id": 464,
     "block": "Core",
     "text_en": "Let’s send the details.",
-    "hint_ru": "Пришлем подробности."
+    "hint_ru": "Давай(те) отправить детали."
   },
   {
     "id": 465,
@@ -2793,13 +2793,13 @@
     "id": 466,
     "block": "Questions & Requests",
     "text_en": "Can you send the photo, please?",
-    "hint_ru": "Можете ли вы прислать фото, пожалуйста?"
+    "hint_ru": "Можете отправить фото, пожалуйста?"
   },
   {
     "id": 467,
     "block": "Core",
     "text_en": "Let’s send the photo.",
-    "hint_ru": "Отправим фото."
+    "hint_ru": "Давай(те) отправить фото."
   },
   {
     "id": 468,
@@ -2811,13 +2811,13 @@
     "id": 469,
     "block": "Questions & Requests",
     "text_en": "Can you send the screenshot, please?",
-    "hint_ru": "Можете ли вы прислать скриншот, пожалуйста?"
+    "hint_ru": "Можете отправить скриншот, пожалуйста?"
   },
   {
     "id": 470,
     "block": "Core",
     "text_en": "Let’s send the screenshot.",
-    "hint_ru": "Давайте отправим скриншот."
+    "hint_ru": "Давай(те) отправить скриншот."
   },
   {
     "id": 471,
@@ -2829,13 +2829,13 @@
     "id": 472,
     "block": "Questions & Requests",
     "text_en": "Can you confirm the time, please?",
-    "hint_ru": "Можете ли вы подтвердить время, пожалуйста?"
+    "hint_ru": "Можете подтвердить время, пожалуйста?"
   },
   {
     "id": 473,
     "block": "Core",
     "text_en": "Let’s confirm the time.",
-    "hint_ru": "Давайте уточним время."
+    "hint_ru": "Давай(те) подтвердить время."
   },
   {
     "id": 474,
@@ -2847,13 +2847,13 @@
     "id": 475,
     "block": "Questions & Requests",
     "text_en": "Can you confirm the address, please?",
-    "hint_ru": "Можете ли вы подтвердить адрес, пожалуйста?"
+    "hint_ru": "Можете подтвердить адрес, пожалуйста?"
   },
   {
     "id": 476,
     "block": "Core",
     "text_en": "Let’s confirm the address.",
-    "hint_ru": "Давайте подтвердим адрес."
+    "hint_ru": "Давай(те) подтвердить адрес."
   },
   {
     "id": 477,
@@ -2865,31 +2865,31 @@
     "id": 478,
     "block": "Questions & Requests",
     "text_en": "Can you confirm the details, please?",
-    "hint_ru": "Можете ли вы подтвердить детали, пожалуйста?"
+    "hint_ru": "Можете подтвердить детали, пожалуйста?"
   },
   {
     "id": 479,
     "block": "Core",
     "text_en": "Let’s confirm the details.",
-    "hint_ru": "Давайте уточним детали."
+    "hint_ru": "Давай(те) подтвердить детали."
   },
   {
     "id": 480,
     "block": "Core",
     "text_en": "I need to confirm the reservation.",
-    "hint_ru": "Мне нужно подтвердить бронирование."
+    "hint_ru": "Мне нужно подтвердить бронь."
   },
   {
     "id": 481,
     "block": "Questions & Requests",
     "text_en": "Can you confirm the reservation, please?",
-    "hint_ru": "Можете ли вы подтвердить бронирование, пожалуйста?"
+    "hint_ru": "Можете подтвердить бронь, пожалуйста?"
   },
   {
     "id": 482,
     "block": "Core",
     "text_en": "Let’s confirm the reservation.",
-    "hint_ru": "Подтвердим бронь."
+    "hint_ru": "Давай(те) подтвердить бронь."
   },
   {
     "id": 483,
@@ -2901,13 +2901,13 @@
     "id": 484,
     "block": "Questions & Requests",
     "text_en": "Can you confirm the booking, please?",
-    "hint_ru": "Можете ли вы подтвердить бронирование, пожалуйста?"
+    "hint_ru": "Можете подтвердить бронирование, пожалуйста?"
   },
   {
     "id": 485,
     "block": "Core",
     "text_en": "Let’s confirm the booking.",
-    "hint_ru": "Подтвердим бронирование."
+    "hint_ru": "Давай(те) подтвердить бронирование."
   },
   {
     "id": 486,
@@ -2919,49 +2919,49 @@
     "id": 487,
     "block": "Questions & Requests",
     "text_en": "Can you find the address, please?",
-    "hint_ru": "Можете ли вы найти адрес, пожалуйста?"
+    "hint_ru": "Можете найти адрес, пожалуйста?"
   },
   {
     "id": 488,
     "block": "Core",
     "text_en": "Let’s find the address.",
-    "hint_ru": "Давайте найдем адрес."
+    "hint_ru": "Давай(те) найти адрес."
   },
   {
     "id": 489,
     "block": "Core",
     "text_en": "I need to find the place.",
-    "hint_ru": "Мне нужно найти это место."
+    "hint_ru": "Мне нужно найти место."
   },
   {
     "id": 490,
     "block": "Questions & Requests",
     "text_en": "Can you find the place, please?",
-    "hint_ru": "Можете ли вы найти это место, пожалуйста?"
+    "hint_ru": "Можете найти место, пожалуйста?"
   },
   {
     "id": 491,
     "block": "Core",
     "text_en": "Let’s find the place.",
-    "hint_ru": "Давайте найдем место."
+    "hint_ru": "Давай(те) найти место."
   },
   {
     "id": 492,
     "block": "Core",
     "text_en": "I need to find a better option.",
-    "hint_ru": "Мне нужно найти лучший вариант."
+    "hint_ru": "Мне нужно найти вариант получше."
   },
   {
     "id": 493,
     "block": "Questions & Requests",
     "text_en": "Can you find a better option, please?",
-    "hint_ru": "Можете ли вы найти лучший вариант, пожалуйста?"
+    "hint_ru": "Можете найти вариант получше, пожалуйста?"
   },
   {
     "id": 494,
     "block": "Core",
     "text_en": "Let’s find a better option.",
-    "hint_ru": "Давайте найдем лучший вариант."
+    "hint_ru": "Давай(те) найти вариант получше."
   },
   {
     "id": 495,
@@ -2973,13 +2973,13 @@
     "id": 496,
     "block": "Questions & Requests",
     "text_en": "Can you find the best route, please?",
-    "hint_ru": "Подскажите, пожалуйста, лучший маршрут?"
+    "hint_ru": "Можете найти лучший маршрут, пожалуйста?"
   },
   {
     "id": 497,
     "block": "Core",
     "text_en": "Let’s find the best route.",
-    "hint_ru": "Давайте найдем лучший маршрут."
+    "hint_ru": "Давай(те) найти лучший маршрут."
   },
   {
     "id": 498,
@@ -2991,12 +2991,12 @@
     "id": 499,
     "block": "Questions & Requests",
     "text_en": "Can you find the information, please?",
-    "hint_ru": "Можете ли вы найти информацию, пожалуйста?"
+    "hint_ru": "Можете найти информацию, пожалуйста?"
   },
   {
     "id": 500,
     "block": "Core",
     "text_en": "Let’s find the information.",
-    "hint_ru": "Давайте найдем информацию."
+    "hint_ru": "Давай(те) найти информацию."
   }
 ]
